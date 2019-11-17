@@ -10,10 +10,15 @@ This repo is a mash of all my programs I made for Angelsuite way back in the day
 Some of the applications from memory are:
 
 -AB Heal Prototype was a bot for a healer to follow you around. It was tailored for just that. I later I think put that functionality in Angelbot 2 itself.
+
 -AbilityTreeTraversal was a test program to get all the abilites and skills through different pointers and structs
+
 -AggroList as simple, it showed anytime an NPC or Player targetted you, hence Aggro list. It was useful for Pvp sometimes
+
 -AionAPP and AIONBot, don't really recall those
+
 -Aionbotsource was different versions of Angelbot1, before I knew what SVN/Git was...
+
 -AionMemory was a program someone else originally wrote, but I expanded the crap out of. It later morphed into AngelRead which was my general library that I let anyone write programs towards. Petes Radar eventually used it, others might have
 -AngelAP, I think something to do with AP Points..
 -AngelbotWaypoints has lots of waypoints I made during that time while I botted around

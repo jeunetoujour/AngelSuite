@@ -7,6 +7,8 @@ I started out writing a program to just read the memory of Aion to get basic inf
 
 This repo is a mash of all my programs I made for Angelsuite way back in the day. Some of them I honestly may not really recall what they do, but Angelsuite was a suite of different applications to go along side Angelbot that I made. Originaly I had Angelbot 1, and later redid a good portion of it and made it more advanced with Angelbot2.
 
+If you are looking for good clean code, this is definately not it. It was a frankenstien of progress with no standards and just getting stuff to work. Eventually the technical debt ate me alive but it was a fun experience. I'd fail myself hardcore today writing code like this.
+
 Some of the applications from memory are:
 
 -AB Heal Prototype was a bot for a healer to follow you around. It was tailored for just that. I later I think put that functionality in Angelbot 2 itself.
@@ -54,13 +56,6 @@ Some of the applications from memory are:
 -Rhyno I don't remember what these were, one of the guys I collaborated with at one point was named Rhyno, but its been 10 years... It may have to do with when I gave the source to the mmoelite group we had going and we built a new bot based on Angelbot for another MMO that came out. I recall getting screwed out of the group eventually but oh wells
 
 -SigScan2 this is an awesome tool. I eventually got really tired of looking for offsets even with a helper tool and had this help auto find the offsets based on signatures of Aion's code. I put this in the program to auto find offsets and a few other tricks. This would occasionally not work for 100% of all the features and I still had to manually update signatures occasionally
-
-
-
-
-
-
-
 
 
 

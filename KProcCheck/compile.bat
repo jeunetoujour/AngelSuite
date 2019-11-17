@@ -1,0 +1,1 @@
+cl KProcCheck.cpp LinkedList.cpp /nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /FD /link advapi32.lib /nologo /subsystem:console /incremental:no /machine:I386 /out:"KProcCheck.exe" 

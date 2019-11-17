@@ -1,0 +1,15 @@
+C:\AionSource\Aionbotsource\bin\Debug\COPYING
+C:\AionSource\Aionbotsource\bin\Debug\AionStat.exe.manifest
+C:\AionSource\Aionbotsource\bin\Debug\AionStat.application
+C:\AionSource\Aionbotsource\bin\Debug\AionStat.exe
+C:\AionSource\Aionbotsource\bin\Debug\AionStat.pdb
+C:\AionSource\Aionbotsource\bin\Debug\AionMemory.dll
+C:\AionSource\Aionbotsource\bin\Debug\AionMemory.pdb
+C:\AionSource\Aionbotsource\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.Form1.resources
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.Properties.Resources.resources
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.csproj.GenerateResource.Cache
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.exe.manifest
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.application
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.exe
+C:\AionSource\Aionbotsource\obj\Debug\AionStat.pdb

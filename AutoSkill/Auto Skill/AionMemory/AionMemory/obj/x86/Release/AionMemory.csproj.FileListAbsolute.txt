@@ -1,0 +1,8 @@
+C:\AionSource\AionMemory\AionMemory\bin\x86\Release\COPYING
+C:\AionSource\AionMemory\AionMemory\bin\x86\Release\AionMemory.dll
+C:\AionSource\AionMemory\AionMemory\bin\x86\Release\AionMemory.pdb
+C:\AionSource\AionMemory\AionMemory\obj\x86\Release\ResolveAssemblyReference.cache
+C:\AionSource\AionMemory\AionMemory\obj\x86\Release\AionMemory.Properties.Resources.resources
+C:\AionSource\AionMemory\AionMemory\obj\x86\Release\AionMemory.csproj.GenerateResource.Cache
+C:\AionSource\AionMemory\AionMemory\obj\x86\Release\AionMemory.dll
+C:\AionSource\AionMemory\AionMemory\obj\x86\Release\AionMemory.pdb

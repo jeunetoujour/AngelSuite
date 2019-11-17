@@ -1,0 +1,10 @@
+C:\AionSource\HPandDPS\HPandDPS\bin\Debug\HPandDPS.exe
+C:\AionSource\HPandDPS\HPandDPS\bin\Debug\HPandDPS.pdb
+C:\AionSource\HPandDPS\HPandDPS\bin\Debug\AngelRead.dll
+C:\AionSource\HPandDPS\HPandDPS\bin\Debug\AngelRead.pdb
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\HPandDPS.Form1.resources
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\HPandDPS.Properties.Resources.resources
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\HPandDPS.csproj.GenerateResource.Cache
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\HPandDPS.exe
+C:\AionSource\HPandDPS\HPandDPS\obj\Debug\HPandDPS.pdb

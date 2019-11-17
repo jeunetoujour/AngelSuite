@@ -1,0 +1,15 @@
+C:\AionSource\Aionbotsource\bin\Release\COPYING
+C:\AionSource\Aionbotsource\bin\Release\Jeunebot.exe.manifest
+C:\AionSource\Aionbotsource\bin\Release\Jeunebot.application
+C:\AionSource\Aionbotsource\bin\Release\Jeunebot.exe
+C:\AionSource\Aionbotsource\bin\Release\Jeunebot.pdb
+C:\AionSource\Aionbotsource\bin\Release\AionMemory.dll
+C:\AionSource\Aionbotsource\bin\Release\AionMemory.pdb
+C:\AionSource\Aionbotsource\obj\Release\ResolveAssemblyReference.cache
+C:\AionSource\Aionbotsource\obj\Release\AionStat.Form1.resources
+C:\AionSource\Aionbotsource\obj\Release\AionStat.Properties.Resources.resources
+C:\AionSource\Aionbotsource\obj\Release\AionStat.csproj.GenerateResource.Cache
+C:\AionSource\Aionbotsource\obj\Release\Jeunebot.exe.manifest
+C:\AionSource\Aionbotsource\obj\Release\Jeunebot.application
+C:\AionSource\Aionbotsource\obj\Release\Jeunebot.exe
+C:\AionSource\Aionbotsource\obj\Release\Jeunebot.pdb

@@ -1,0 +1,13 @@
+C:\AionSource\AionMemory\Sandbox\bin\Debug\COPYING
+C:\AionSource\AionMemory\Sandbox\bin\Debug\Sandbox.exe
+C:\AionSource\AionMemory\Sandbox\bin\Debug\Sandbox.pdb
+C:\AionSource\AionMemory\Sandbox\bin\Debug\AionMemory.dll
+C:\AionSource\AionMemory\Sandbox\bin\Debug\Eve.dll
+C:\AionSource\AionMemory\Sandbox\bin\Debug\Eve.pdb
+C:\AionSource\AionMemory\Sandbox\bin\Debug\AionMemory.pdb
+C:\AionSource\AionMemory\Sandbox\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AionMemory\Sandbox\obj\Debug\Sandbox.Form1.resources
+C:\AionSource\AionMemory\Sandbox\obj\Debug\Sandbox.Properties.Resources.resources
+C:\AionSource\AionMemory\Sandbox\obj\Debug\Sandbox.csproj.GenerateResource.Cache
+C:\AionSource\AionMemory\Sandbox\obj\Debug\Sandbox.exe
+C:\AionSource\AionMemory\Sandbox\obj\Debug\Sandbox.pdb

@@ -1,0 +1,19 @@
+E:\AB Heal Prototype\bin\Release\AB Heal Prototype.exe.config
+E:\AB Heal Prototype\bin\Release\AB Heal Prototype.exe
+E:\AB Heal Prototype\bin\Release\AionMemory.dll
+E:\AB Heal Prototype\bin\Release\AionMemory.pdb
+E:\AB Heal Prototype\obj\Release\ResolveAssemblyReference.cache
+E:\AB Heal Prototype\obj\Release\Properties.Resources.resources
+E:\AB Heal Prototype\obj\Release\ResGen.read.1.tlog
+E:\AB Heal Prototype\obj\Release\ResGen.write.1.tlog
+E:\AB Heal Prototype\obj\Release\AB Heal Prototype.exe
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\Release\AB Heal Prototype.exe.config
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\AB Heal Prototype.exe
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\Release\AB Heal Prototype.exe
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\Release\AngelRead.dll
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\Release\AngelRead.pdb
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\ABHeal.Form1.resources
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\Properties.Resources.resources
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\Release\ResGen.write.1.tlog

@@ -1,0 +1,13 @@
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\bin\Debug\PLB.exe
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\bin\Debug\PLB.pdb
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\PLB.Form1.resources
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\PLB.Properties.Resources.resources
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\PLB.csproj.GenerateResource.Cache
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\PLB.exe
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\obj\Debug\PLB.pdb
+C:\Users\Mongo\Documents\Visual Studio 2008\Projects\PLB\PLB\bin\Debug\AionMemory.dll
+C:\AionSource\Healer\PLB\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Healer\PLB\obj\Debug\PLB.Form1.resources
+C:\AionSource\Healer\PLB\obj\Debug\PLB.Properties.Resources.resources
+C:\AionSource\Healer\PLB\obj\Debug\PLB.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TreeViewDragDrop">
+</Property><Property Name="Solution File" Value="C:\AionSource\dragndrop\TreeViewDragDrop.sln">
+</Property><Property Name="Date" Value="Friday, February 12, 2010">
+</Property><Property Name="Time" Value="16:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TreeViewDragDrop.sln" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop.sln">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\TreeViewDragDrop.csproj" Description="Project file successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\TreeViewDragDrop.csproj">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\TreeViewDragDrop.csproj.user" Description="Project user file successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\TreeViewDragDrop.csproj.user">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\AssemblyInfo.cs" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\DragHelper.cs" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\DragHelper.cs">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\Form1.cs" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\App.ico" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\App.ico">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\Form1.resx" Description="File successfully backed up as C:\AionSource\dragndrop\Backup\TreeViewDragDrop\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\TreeViewDragDrop.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TreeViewDragDrop" Source="TreeViewDragDrop\TreeViewDragDrop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TreeViewDragDrop.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TreeViewDragDrop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TreeViewDragDrop" Source="TreeViewDragDrop\TreeViewDragDrop.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

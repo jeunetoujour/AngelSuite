@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\bin\Debug\AionAPP.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\bin\Debug\AionAPP.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\obj\Debug\AionAPP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\obj\Debug\AionAPP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\obj\Debug\AionAPP.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\AionAPP\obj\Debug\AionAPP.pdb
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\obj\Debug\AionAPP.exe
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\obj\Debug\AionAPP.pdb
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\bin\Debug\AionAPP.exe
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\bin\Debug\AionAPP.pdb
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\obj\Debug\AionAPP.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AionAPP\AionAPP\obj\Debug\AionAPP.csproj.GenerateResource.Cache

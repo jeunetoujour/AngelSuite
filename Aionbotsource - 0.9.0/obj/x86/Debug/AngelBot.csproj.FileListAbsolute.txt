@@ -1,0 +1,15 @@
+C:\AionSource\Aionbotsource\bin\x86\Debug\COPYING
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe.config
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.pdb
+C:\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.dll
+C:\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.pdb
+C:\AionSource\Aionbotsource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.AboutBox1.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Form1.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.waypointeditor.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Properties.Resources.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.settings.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.exe
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.pdb

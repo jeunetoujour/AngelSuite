@@ -1,0 +1,6 @@
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\bin\x86\Release\AutoUpdate.dll
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\x86\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\x86\Release\UpdateProgress.resources
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\x86\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\x86\Release\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\x86\Release\AutoUpdate.dll

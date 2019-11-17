@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AionAPP">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\AionAPP\AionAPP.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\AionAPP\AionAPP.suo">
+</Property><Property Name="Date" Value="Wednesday, February 29, 2012">
+</Property><Property Name="Time" Value="21:58 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AionAPP.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\AionAPP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AionAPP.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\AionAPP.suo">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="AionAPP.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\AionAPP.csproj">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="AionAPP.csproj.user" Description="Project user file successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\AionAPP.csproj.user">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="AionVars.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\AionVars.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Form1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Form1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Program.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Form1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AionAPP\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="AionAPP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AionAPP" Source="AionAPP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AionAPP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AionAPP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AionAPP" Source="AionAPP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

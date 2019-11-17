@@ -1,0 +1,5 @@
+C:\Users\Public\Documents\NB\SigScan2\SigScanLib\bin\Debug\SigScanLib.dll
+C:\Users\Public\Documents\NB\SigScan2\SigScanLib\bin\Debug\SigScanLib.pdb
+C:\Users\Public\Documents\NB\SigScan2\SigScanLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\NB\SigScan2\SigScanLib\obj\Debug\SigScanLib.dll
+C:\Users\Public\Documents\NB\SigScan2\SigScanLib\obj\Debug\SigScanLib.pdb

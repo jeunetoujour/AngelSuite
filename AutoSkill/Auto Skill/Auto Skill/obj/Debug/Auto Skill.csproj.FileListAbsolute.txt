@@ -1,0 +1,20 @@
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Debug\Auto Skill.exe
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Debug\Auto Skill.pdb
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Debug\AionMemory.dll
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Debug\AionMemory.pdb
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\ResolveAssemblyReference.cache
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto_Skill.Properties.Resources.resources
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.csproj.GenerateResource.Cache
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.exe
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.pdb
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto_Skill.FormMain.resources
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto_Skill.FormMain.resources
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto_Skill.Properties.Resources.resources
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.csproj.GenerateResource.Cache
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\bin\Debug\Auto Skill.exe
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\bin\Debug\Auto Skill.pdb
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\bin\Debug\AionMemory.dll
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\bin\Debug\AionMemory.pdb
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.exe
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Debug\Auto Skill.pdb

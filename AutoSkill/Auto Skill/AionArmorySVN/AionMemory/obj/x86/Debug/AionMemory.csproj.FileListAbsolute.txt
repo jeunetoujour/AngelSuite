@@ -1,0 +1,5 @@
+C:\AionSource\AutoSkill\Auto Skill\AionArmorySVN\AionMemory\bin\x86\Debug\AionMemory.dll
+C:\AionSource\AutoSkill\Auto Skill\AionArmorySVN\AionMemory\bin\x86\Debug\AionMemory.pdb
+C:\AionSource\AutoSkill\Auto Skill\AionArmorySVN\AionMemory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AutoSkill\Auto Skill\AionArmorySVN\AionMemory\obj\x86\Debug\AionMemory.dll
+C:\AionSource\AutoSkill\Auto Skill\AionArmorySVN\AionMemory\obj\x86\Debug\AionMemory.pdb

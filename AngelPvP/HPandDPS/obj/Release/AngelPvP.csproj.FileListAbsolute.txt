@@ -1,0 +1,2 @@
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Release\AngelPvP.exe
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Release\AngelPvP.pdb

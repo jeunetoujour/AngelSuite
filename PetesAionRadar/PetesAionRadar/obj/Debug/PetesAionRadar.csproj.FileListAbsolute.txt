@@ -1,0 +1,13 @@
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.frmMain.resources
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.Properties.Resources.resources
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.csproj.GenerateResource.Cache
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\PetesAionRadar.exe
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\PetesAionRadar.pdb
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\AionMemory.dll
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\AutoUpdate.dll
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\AutoUpdate.pdb
+C:\AionSource\PetesAionRadar\PetesAionRadar\bin\Debug\AionMemory.pdb
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.exe
+C:\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.pdb
+E:\AngelSuite\AionSource\PetesAionRadar\PetesAionRadar\obj\Debug\PetesAionRadar.exe

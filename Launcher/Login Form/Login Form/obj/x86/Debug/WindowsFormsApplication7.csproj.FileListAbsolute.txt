@@ -1,0 +1,9 @@
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Login.resources
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+c:\users\jamie\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb

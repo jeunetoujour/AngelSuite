@@ -1,0 +1,7 @@
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.dll
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\UpdateProgress.resources
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.csproj.GenerateResource.Cache
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.dll
+C:\AionSource\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb

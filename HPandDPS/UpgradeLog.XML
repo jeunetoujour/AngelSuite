@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HPandDPS">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\HPandDPS\HPandDPS.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\HPandDPS\HPandDPS.suo">
+</Property><Property Name="Date" Value="Saturday, July 03, 2010">
+</Property><Property Name="Time" Value="15:51 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HPandDPS.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HPandDPS.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS.suo">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\HPandDPS.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\HPandDPS.csproj">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Form1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Form1.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Form1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Program.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Program.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Form1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Form1.resx">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\HPandDPS\Backup\HPandDPS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\HPandDPS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HPandDPS" Source="HPandDPS\HPandDPS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HPandDPS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HPandDPS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HPandDPS" Source="HPandDPS\HPandDPS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

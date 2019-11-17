@@ -1,0 +1,6 @@
+C:\AionSource\AionMemory\AionMemory\bin\Debug\COPYING
+C:\AionSource\AionMemory\AionMemory\bin\Debug\AionMemory.dll
+C:\AionSource\AionMemory\AionMemory\bin\Debug\AionMemory.pdb
+C:\AionSource\AionMemory\AionMemory\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AionMemory\AionMemory\obj\Debug\AionMemory.dll
+C:\AionSource\AionMemory\AionMemory\obj\Debug\AionMemory.pdb

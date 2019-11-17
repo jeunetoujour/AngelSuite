@@ -1,0 +1,8 @@
+C:\AionSource\Loadini\Loadini\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Loadini\Loadini\obj\Debug\Loadini.Form1.resources
+C:\AionSource\Loadini\Loadini\obj\Debug\Loadini.Properties.Resources.resources
+C:\AionSource\Loadini\Loadini\obj\Debug\Loadini.csproj.GenerateResource.Cache
+C:\AionSource\Loadini\Loadini\bin\Debug\Loadini.exe
+C:\AionSource\Loadini\Loadini\bin\Debug\Loadini.pdb
+C:\AionSource\Loadini\Loadini\obj\Debug\Loadini.exe
+C:\AionSource\Loadini\Loadini\obj\Debug\Loadini.pdb

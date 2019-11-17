@@ -1,0 +1,17 @@
+C:\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelRead.dll
+C:\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelRead.pdb
+C:\AionSource\AggroList\HPandDPS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\AionSource\AggroList\HPandDPS\obj\x86\Release\HPandDPS.Form1.resources
+C:\AionSource\AggroList\HPandDPS\obj\x86\Release\AggroList.csproj.GenerateResource.Cache
+C:\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelList.exe
+C:\AionSource\AggroList\HPandDPS\obj\x86\Release\AngelList.Properties.Resources.resources
+C:\AionSource\AggroList\HPandDPS\obj\x86\Release\AngelList.exe
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\AngelList.exe
+E:\AngelSuite\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelList.exe
+E:\AngelSuite\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelRead.dll
+E:\AngelSuite\AionSource\AggroList\HPandDPS\bin\x86\Release\AngelRead.pdb
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\HPandDPS.Form1.resources
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\AngelList.Properties.Resources.resources
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AggroList\HPandDPS\obj\x86\Release\ResGen.write.1.tlog

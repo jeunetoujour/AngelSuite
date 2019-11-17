@@ -1,0 +1,13 @@
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\COPYING
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\Sandbox.exe
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\Sandbox.pdb
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\AionMemory.dll
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\Eve.dll
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\Eve.pdb
+L:\All ABout Aion\AionArmorySVN\Sandbox\bin\Debug\AionMemory.pdb
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\ResolveAssemblyReference.cache
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\Sandbox.Form1.resources
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\Sandbox.Properties.Resources.resources
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\Sandbox.csproj.GenerateResource.Cache
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\Sandbox.exe
+L:\All ABout Aion\AionArmorySVN\Sandbox\obj\Debug\Sandbox.pdb

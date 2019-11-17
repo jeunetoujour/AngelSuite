@@ -1,0 +1,12 @@
+E:\AngelSuite\AionSource\AngelWings\AngelWings\bin\Release\AngelWings.exe.config
+E:\AngelSuite\AionSource\AngelWings\AngelWings\bin\Release\AngelWings.exe
+E:\AngelSuite\AionSource\AngelWings\AngelWings\bin\Release\AngelWings.pdb
+E:\AngelSuite\AionSource\AngelWings\AngelWings\bin\Release\AngelRead.dll
+E:\AngelSuite\AionSource\AngelWings\AngelWings\bin\Release\AngelRead.pdb
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\AngelWings.Form1.resources
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\AngelWings.Properties.Resources.resources
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\AngelWings.exe
+E:\AngelSuite\AionSource\AngelWings\AngelWings\obj\x86\Release\AngelWings.pdb

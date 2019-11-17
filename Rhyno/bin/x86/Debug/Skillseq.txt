@@ -1,0 +1,10 @@
+0|PreAttacks
+1|63|1||Swift Edge V
+1|0|4||Rune Carve IV
+2|0|Alt,6||Surprise Attack V
+3|633|5||Soul Slash V
+1|0|Ctrl,1||Searching Eye I
+1|222|Alt,5||Weakening Blow II
+0|Attacks
+0|Heals
+0|Reactions

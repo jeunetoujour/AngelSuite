@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelSuite", "AngelSuite.csproj", "{E0333433-D3D5-4C45-BA4D-1FF2D1875053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngelRead", "..\AngelRead\AngelRead\AngelRead.csproj", "{CA36EFB6-50E8-4296-9790-05A79919BFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdate", "..\AutoUpdate\AutoUpdate\AutoUpdate.csproj", "{EFA39120-D255-4156-BC34-68F894A86938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|x86.ActiveCfg = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|x86.Build.0 = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|Any CPU.ActiveCfg = Release|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|Mixed Platforms.Build.0 = Release|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|x86.ActiveCfg = Release|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|x86.Build.0 = Release|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|x86.ActiveCfg = Debug|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|x86.Build.0 = Debug|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|Any CPU.ActiveCfg = Release|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|x86.ActiveCfg = Release|x86
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|x86.Build.0 = Release|x86
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Mixed Platforms.Build.0 = Release|x86
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

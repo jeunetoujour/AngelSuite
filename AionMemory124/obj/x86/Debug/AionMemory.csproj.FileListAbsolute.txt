@@ -1,0 +1,7 @@
+C:\AionSource\AionMemory124\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AionMemory124\obj\x86\Debug\AionMemory.csproj.GenerateResource.Cache
+C:\AionSource\AionMemory124\obj\x86\Debug\AionMemory.Properties.Resources.resources
+C:\AionSource\AionMemory124\bin\x86\Debug\AionMemory.dll
+C:\AionSource\AionMemory124\bin\x86\Debug\AionMemory.pdb
+C:\AionSource\AionMemory124\obj\x86\Debug\AionMemory.dll
+C:\AionSource\AionMemory124\obj\x86\Debug\AionMemory.pdb

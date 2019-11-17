@@ -1,0 +1,2054 @@
+9/12/2010 1:11:36 AM Loaded ini settings good
+9/12/2010 1:11:36 AM Got pet entity
+9/12/2010 1:11:47 AM Got player entity
+9/12/2010 1:11:47 AM Start Pressed
+9/12/2010 1:11:47 AM Closest waypoint found! Dist: 0
+9/12/2010 1:11:47 AM Closest waypoint is 4
+9/12/2010 1:11:47 AM Waypoint system started
+9/12/2010 1:11:48 AM Waypoint system finished
+9/12/2010 1:11:48 AM Going into Preattacks
+9/12/2010 1:11:48 AM Fighting Frost Slink
+9/12/2010 1:11:48 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:11:49 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:11:50 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:11:51 AM Skipping Surprise Attack
+9/12/2010 1:11:51 AM Preattacks finished
+9/12/2010 1:11:51 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:11:52 AM Swift Edge didn't fire
+9/12/2010 1:11:52 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:11:53 AM Swift Edge cooldown detected
+9/12/2010 1:11:53 AM Soul Slash key pressed: 1 MOBHP: 91
+9/12/2010 1:11:54 AM Soul Slash didn't fire
+9/12/2010 1:11:54 AM Soul Slash key pressed: 1 MOBHP: 91
+9/12/2010 1:11:55 AM Soul Slash cooldown detected
+9/12/2010 1:11:55 AM Focused Evasion key pressed: 3 MOBHP: 78
+9/12/2010 1:11:56 AM Focused Evasion cooldown detected
+9/12/2010 1:11:56 AM Skipping Swift Edge
+9/12/2010 1:11:56 AM Skipping Focused Evasion
+9/12/2010 1:11:56 AM Counterattack key pressed: 4 MOBHP: 78
+9/12/2010 1:11:57 AM Counterattack cooldown detected
+9/12/2010 1:11:57 AM Skipping Swift Edge
+9/12/2010 1:11:57 AM Skipping Focused Evasion
+9/12/2010 1:11:57 AM Skipping Swift Edge
+9/12/2010 1:11:57 AM Skipping Focused Evasion
+9/12/2010 1:11:58 AM Skipping Swift Edge
+9/12/2010 1:11:58 AM Skipping Focused Evasion
+9/12/2010 1:11:58 AM Skipping Swift Edge
+9/12/2010 1:11:58 AM Skipping Focused Evasion
+9/12/2010 1:11:58 AM Skipping Swift Edge
+9/12/2010 1:11:58 AM Skipping Focused Evasion
+9/12/2010 1:11:58 AM Skipping Swift Edge
+9/12/2010 1:11:58 AM Skipping Focused Evasion
+9/12/2010 1:11:58 AM Skipping Swift Edge
+9/12/2010 1:11:58 AM Skipping Focused Evasion
+9/12/2010 1:11:59 AM Skipping Swift Edge
+9/12/2010 1:11:59 AM Skipping Focused Evasion
+9/12/2010 1:11:59 AM Skipping Swift Edge
+9/12/2010 1:11:59 AM Skipping Focused Evasion
+9/12/2010 1:11:59 AM Skipping Swift Edge
+9/12/2010 1:11:59 AM Skipping Focused Evasion
+9/12/2010 1:11:59 AM Skipping Swift Edge
+9/12/2010 1:11:59 AM Skipping Focused Evasion
+9/12/2010 1:11:59 AM Skipping Swift Edge
+9/12/2010 1:11:59 AM Skipping Focused Evasion
+9/12/2010 1:12:00 AM Skipping Swift Edge
+9/12/2010 1:12:00 AM Skipping Focused Evasion
+9/12/2010 1:12:00 AM Skipping Swift Edge
+9/12/2010 1:12:00 AM Skipping Focused Evasion
+9/12/2010 1:12:00 AM Swift Edge key pressed: 1 MOBHP: 54
+9/12/2010 1:12:01 AM Swift Edge cooldown detected
+9/12/2010 1:12:01 AM Soul Slash key pressed: 1 MOBHP: 45
+9/12/2010 1:12:02 AM Soul Slash cooldown detected
+9/12/2010 1:12:02 AM Skipping Focused Evasion
+9/12/2010 1:12:02 AM Skipping Swift Edge
+9/12/2010 1:12:02 AM Skipping Focused Evasion
+9/12/2010 1:12:03 AM Skipping Swift Edge
+9/12/2010 1:12:03 AM Skipping Focused Evasion
+9/12/2010 1:12:03 AM Skipping Swift Edge
+9/12/2010 1:12:03 AM Skipping Focused Evasion
+9/12/2010 1:12:03 AM Skipping Swift Edge
+9/12/2010 1:12:03 AM Skipping Focused Evasion
+9/12/2010 1:12:03 AM Skipping Swift Edge
+9/12/2010 1:12:03 AM Skipping Focused Evasion
+9/12/2010 1:12:03 AM Skipping Swift Edge
+9/12/2010 1:12:03 AM Skipping Focused Evasion
+9/12/2010 1:12:04 AM Skipping Swift Edge
+9/12/2010 1:12:04 AM Skipping Focused Evasion
+9/12/2010 1:12:04 AM Skipping Swift Edge
+9/12/2010 1:12:04 AM Skipping Focused Evasion
+9/12/2010 1:12:04 AM Skipping Swift Edge
+9/12/2010 1:12:04 AM Skipping Focused Evasion
+9/12/2010 1:12:04 AM Skipping Swift Edge
+9/12/2010 1:12:04 AM Skipping Focused Evasion
+9/12/2010 1:12:04 AM Skipping Swift Edge
+9/12/2010 1:12:04 AM Skipping Focused Evasion
+9/12/2010 1:12:05 AM Skipping Swift Edge
+9/12/2010 1:12:05 AM Skipping Focused Evasion
+9/12/2010 1:12:05 AM Skipping Swift Edge
+9/12/2010 1:12:05 AM Skipping Focused Evasion
+9/12/2010 1:12:05 AM Skipping Swift Edge
+9/12/2010 1:12:05 AM Skipping Focused Evasion
+9/12/2010 1:12:05 AM Skipping Swift Edge
+9/12/2010 1:12:05 AM Skipping Focused Evasion
+9/12/2010 1:12:05 AM Skipping Swift Edge
+9/12/2010 1:12:06 AM Skipping Focused Evasion
+9/12/2010 1:12:06 AM Skipping Swift Edge
+9/12/2010 1:12:06 AM Skipping Focused Evasion
+9/12/2010 1:12:06 AM Skipping Swift Edge
+9/12/2010 1:12:06 AM Skipping Focused Evasion
+9/12/2010 1:12:06 AM Skipping Swift Edge
+9/12/2010 1:12:06 AM Skipping Focused Evasion
+9/12/2010 1:12:06 AM Skipping Swift Edge
+9/12/2010 1:12:06 AM Skipping Focused Evasion
+9/12/2010 1:12:06 AM Skipping Swift Edge
+9/12/2010 1:12:07 AM Skipping Focused Evasion
+9/12/2010 1:12:07 AM Skipping Swift Edge
+9/12/2010 1:12:07 AM Skipping Focused Evasion
+9/12/2010 1:12:07 AM Skipping Swift Edge
+9/12/2010 1:12:07 AM Skipping Focused Evasion
+9/12/2010 1:12:07 AM Skipping Swift Edge
+9/12/2010 1:12:07 AM Skipping Focused Evasion
+9/12/2010 1:12:07 AM Skipping Swift Edge
+9/12/2010 1:12:07 AM Skipping Focused Evasion
+9/12/2010 1:12:07 AM Swift Edge key pressed: 1 MOBHP: 20
+9/12/2010 1:12:09 AM Swift Edge cooldown detected
+9/12/2010 1:12:09 AM Soul Slash key pressed: 1 MOBHP: 12
+9/12/2010 1:12:10 AM Soul Slash cooldown detected
+9/12/2010 1:12:10 AM Skipping Focused Evasion
+9/12/2010 1:12:10 AM Skipping Swift Edge
+9/12/2010 1:12:10 AM Skipping Focused Evasion
+9/12/2010 1:12:10 AM Skipping Swift Edge
+9/12/2010 1:12:10 AM Skipping Focused Evasion
+9/12/2010 1:12:10 AM Skipping Swift Edge
+9/12/2010 1:12:10 AM Skipping Focused Evasion
+9/12/2010 1:12:10 AM Skipping Swift Edge
+9/12/2010 1:12:11 AM Skipping Focused Evasion
+9/12/2010 1:12:11 AM Skipping Swift Edge
+9/12/2010 1:12:11 AM Exiting attack
+9/12/2010 1:12:11 AM Killed mob. Kills: 1
+9/12/2010 1:12:12 AM Looting finished
+9/12/2010 1:12:12 AM Total Exp gained: XP: 0
+9/12/2010 1:12:14 AM Looting finished
+9/12/2010 1:12:14 AM Total Exp gained: XP: 1040
+9/12/2010 1:12:16 AM Looting finished
+9/12/2010 1:12:16 AM Total Exp gained: XP: 1040
+9/12/2010 1:12:16 AM HP Resting
+9/12/2010 1:12:16 AM Got player entity
+9/12/2010 1:12:30 AM Done resting
+9/12/2010 1:12:32 AM Closest waypoint found! Dist: 5.00033896499127
+9/12/2010 1:12:32 AM Closest waypoint is 2
+9/12/2010 1:12:32 AM Waypoint system started
+9/12/2010 1:12:33 AM Waypoint system finished
+9/12/2010 1:12:33 AM Going into Preattacks
+9/12/2010 1:12:33 AM Fighting Ice Airon
+9/12/2010 1:12:33 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:12:34 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:12:34 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:12:35 AM Skipping Surprise Attack
+9/12/2010 1:12:35 AM Preattacks finished
+9/12/2010 1:12:35 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:12:36 AM Swift Edge didn't fire
+9/12/2010 1:12:36 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:12:38 AM Swift Edge didn't fire
+9/12/2010 1:12:38 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:12:39 AM Swift Edge didn't fire
+9/12/2010 1:12:39 AM Skipping Swift Edge
+9/12/2010 1:12:39 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:12:39 AM Focused Evasion cooldown detected
+9/12/2010 1:12:39 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:12:41 AM Swift Edge cooldown detected
+9/12/2010 1:12:41 AM Soul Slash key pressed: 1 MOBHP: 90
+9/12/2010 1:12:42 AM Soul Slash didn't fire
+9/12/2010 1:12:42 AM Counterattack key pressed: 4 MOBHP: 90
+9/12/2010 1:12:43 AM Counterattack cooldown detected
+9/12/2010 1:12:43 AM Skipping Swift Edge
+9/12/2010 1:12:43 AM Skipping Focused Evasion
+9/12/2010 1:12:43 AM Skipping Swift Edge
+9/12/2010 1:12:43 AM Skipping Focused Evasion
+9/12/2010 1:12:43 AM Skipping Swift Edge
+9/12/2010 1:12:43 AM Skipping Focused Evasion
+9/12/2010 1:12:43 AM Skipping Swift Edge
+9/12/2010 1:12:43 AM Skipping Focused Evasion
+9/12/2010 1:12:43 AM Skipping Swift Edge
+9/12/2010 1:12:43 AM Skipping Focused Evasion
+9/12/2010 1:12:44 AM Skipping Swift Edge
+9/12/2010 1:12:44 AM Skipping Focused Evasion
+9/12/2010 1:12:44 AM Skipping Swift Edge
+9/12/2010 1:12:44 AM Skipping Focused Evasion
+9/12/2010 1:12:44 AM Skipping Swift Edge
+9/12/2010 1:12:44 AM Skipping Focused Evasion
+9/12/2010 1:12:44 AM Skipping Swift Edge
+9/12/2010 1:12:44 AM Skipping Focused Evasion
+9/12/2010 1:12:44 AM Skipping Swift Edge
+9/12/2010 1:12:45 AM Skipping Focused Evasion
+9/12/2010 1:12:45 AM Skipping Swift Edge
+9/12/2010 1:12:45 AM Skipping Focused Evasion
+9/12/2010 1:12:45 AM Skipping Swift Edge
+9/12/2010 1:12:45 AM Skipping Focused Evasion
+9/12/2010 1:12:45 AM Skipping Swift Edge
+9/12/2010 1:12:45 AM Skipping Focused Evasion
+9/12/2010 1:12:45 AM Skipping Swift Edge
+9/12/2010 1:12:45 AM Skipping Focused Evasion
+9/12/2010 1:12:45 AM Skipping Swift Edge
+9/12/2010 1:12:46 AM Skipping Focused Evasion
+9/12/2010 1:12:46 AM Skipping Swift Edge
+9/12/2010 1:12:46 AM Skipping Focused Evasion
+9/12/2010 1:12:46 AM Skipping Swift Edge
+9/12/2010 1:12:46 AM Skipping Focused Evasion
+9/12/2010 1:12:46 AM Skipping Swift Edge
+9/12/2010 1:12:46 AM Skipping Focused Evasion
+9/12/2010 1:12:46 AM Skipping Swift Edge
+9/12/2010 1:12:46 AM Skipping Focused Evasion
+9/12/2010 1:12:46 AM Skipping Swift Edge
+9/12/2010 1:12:47 AM Skipping Focused Evasion
+9/12/2010 1:12:47 AM Skipping Swift Edge
+9/12/2010 1:12:47 AM Skipping Focused Evasion
+9/12/2010 1:12:47 AM Skipping Swift Edge
+9/12/2010 1:12:47 AM Skipping Focused Evasion
+9/12/2010 1:12:47 AM Skipping Swift Edge
+9/12/2010 1:12:47 AM Skipping Focused Evasion
+9/12/2010 1:12:47 AM Swift Edge key pressed: 1 MOBHP: 58
+9/12/2010 1:12:48 AM Swift Edge cooldown detected
+9/12/2010 1:12:48 AM Soul Slash key pressed: 1 MOBHP: 50
+9/12/2010 1:12:49 AM Soul Slash cooldown detected
+9/12/2010 1:12:49 AM Skipping Focused Evasion
+9/12/2010 1:12:50 AM Skipping Swift Edge
+9/12/2010 1:12:50 AM Skipping Focused Evasion
+9/12/2010 1:12:50 AM Skipping Swift Edge
+9/12/2010 1:12:50 AM Skipping Focused Evasion
+9/12/2010 1:12:50 AM Skipping Swift Edge
+9/12/2010 1:12:50 AM Skipping Focused Evasion
+9/12/2010 1:12:50 AM Skipping Swift Edge
+9/12/2010 1:12:50 AM Skipping Focused Evasion
+9/12/2010 1:12:50 AM Skipping Swift Edge
+9/12/2010 1:12:51 AM Skipping Focused Evasion
+9/12/2010 1:12:51 AM Skipping Swift Edge
+9/12/2010 1:12:51 AM Skipping Focused Evasion
+9/12/2010 1:12:51 AM Skipping Swift Edge
+9/12/2010 1:12:51 AM Skipping Focused Evasion
+9/12/2010 1:12:51 AM Skipping Swift Edge
+9/12/2010 1:12:51 AM Skipping Focused Evasion
+9/12/2010 1:12:51 AM Skipping Swift Edge
+9/12/2010 1:12:51 AM Skipping Focused Evasion
+9/12/2010 1:12:51 AM Skipping Swift Edge
+9/12/2010 1:12:52 AM Skipping Focused Evasion
+9/12/2010 1:12:52 AM Skipping Swift Edge
+9/12/2010 1:12:52 AM Skipping Focused Evasion
+9/12/2010 1:12:52 AM Skipping Swift Edge
+9/12/2010 1:12:52 AM Skipping Focused Evasion
+9/12/2010 1:12:52 AM Skipping Swift Edge
+9/12/2010 1:12:52 AM Skipping Focused Evasion
+9/12/2010 1:12:52 AM Skipping Swift Edge
+9/12/2010 1:12:52 AM Skipping Focused Evasion
+9/12/2010 1:12:52 AM Skipping Swift Edge
+9/12/2010 1:12:53 AM Skipping Focused Evasion
+9/12/2010 1:12:53 AM Skipping Swift Edge
+9/12/2010 1:12:53 AM Skipping Focused Evasion
+9/12/2010 1:12:53 AM Skipping Swift Edge
+9/12/2010 1:12:53 AM Skipping Focused Evasion
+9/12/2010 1:12:53 AM Skipping Swift Edge
+9/12/2010 1:12:53 AM Skipping Focused Evasion
+9/12/2010 1:12:53 AM Skipping Swift Edge
+9/12/2010 1:12:53 AM Skipping Focused Evasion
+9/12/2010 1:12:54 AM Skipping Swift Edge
+9/12/2010 1:12:54 AM Skipping Focused Evasion
+9/12/2010 1:12:54 AM Skipping Swift Edge
+9/12/2010 1:12:54 AM Skipping Focused Evasion
+9/12/2010 1:12:54 AM Skipping Swift Edge
+9/12/2010 1:12:54 AM Skipping Focused Evasion
+9/12/2010 1:12:54 AM Skipping Swift Edge
+9/12/2010 1:12:54 AM Skipping Focused Evasion
+9/12/2010 1:12:54 AM Skipping Swift Edge
+9/12/2010 1:12:54 AM Skipping Focused Evasion
+9/12/2010 1:12:55 AM Swift Edge key pressed: 1 MOBHP: 26
+9/12/2010 1:12:56 AM Swift Edge cooldown detected
+9/12/2010 1:12:56 AM Soul Slash key pressed: 1 MOBHP: 12
+9/12/2010 1:12:57 AM Soul Slash cooldown detected
+9/12/2010 1:12:57 AM Skipping Focused Evasion
+9/12/2010 1:12:57 AM Skipping Swift Edge
+9/12/2010 1:12:57 AM Skipping Focused Evasion
+9/12/2010 1:12:57 AM Skipping Swift Edge
+9/12/2010 1:12:57 AM Skipping Focused Evasion
+9/12/2010 1:12:57 AM Skipping Swift Edge
+9/12/2010 1:12:57 AM Skipping Focused Evasion
+9/12/2010 1:12:57 AM Skipping Swift Edge
+9/12/2010 1:12:58 AM Skipping Focused Evasion
+9/12/2010 1:12:58 AM Skipping Swift Edge
+9/12/2010 1:12:58 AM Skipping Focused Evasion
+9/12/2010 1:12:58 AM Exiting attack
+9/12/2010 1:12:58 AM Killed mob. Kills: 2
+9/12/2010 1:13:00 AM Looting finished
+9/12/2010 1:13:00 AM Total Exp gained: XP: 1040
+9/12/2010 1:13:01 AM Looting finished
+9/12/2010 1:13:01 AM Total Exp gained: XP: 2080
+9/12/2010 1:13:03 AM Looting finished
+9/12/2010 1:13:03 AM Total Exp gained: XP: 2080
+9/12/2010 1:13:03 AM HP Resting
+9/12/2010 1:13:03 AM Got player entity
+9/12/2010 1:13:18 AM Done resting
+9/12/2010 1:13:19 AM Closest waypoint found! Dist: 26.1511448253453
+9/12/2010 1:13:19 AM Closest waypoint is 2
+9/12/2010 1:13:19 AM Waypoint system started
+9/12/2010 1:13:21 AM In targetting timer
+9/12/2010 1:13:21 AM Need new target
+9/12/2010 1:13:21 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:21 AM Target key pressed. NewTar: 
+9/12/2010 1:13:22 AM In targetting timer
+9/12/2010 1:13:22 AM Need new target
+9/12/2010 1:13:22 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:22 AM Target key pressed. NewTar: 
+9/12/2010 1:13:23 AM In targetting timer
+9/12/2010 1:13:23 AM Need new target
+9/12/2010 1:13:23 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:23 AM Target key pressed. NewTar: 
+9/12/2010 1:13:24 AM In targetting timer
+9/12/2010 1:13:24 AM Need new target
+9/12/2010 1:13:24 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:24 AM Target key pressed. NewTar: 
+9/12/2010 1:13:25 AM In targetting timer
+9/12/2010 1:13:25 AM Need new target
+9/12/2010 1:13:25 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:25 AM Target key pressed. NewTar: 
+9/12/2010 1:13:26 AM In targetting timer
+9/12/2010 1:13:26 AM Need new target
+9/12/2010 1:13:26 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:26 AM Target key pressed. NewTar: 
+9/12/2010 1:13:27 AM In targetting timer
+9/12/2010 1:13:27 AM Need new target
+9/12/2010 1:13:27 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:27 AM Target key pressed. NewTar: 
+9/12/2010 1:13:28 AM In targetting timer
+9/12/2010 1:13:28 AM Need new target
+9/12/2010 1:13:28 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:28 AM Target key pressed. NewTar: 
+9/12/2010 1:13:29 AM Waypoint system finished
+9/12/2010 1:13:29 AM Going into Preattacks
+9/12/2010 1:13:29 AM Fighting Frost Slink
+9/12/2010 1:13:29 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:13:30 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:13:30 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:13:31 AM Skipping Surprise Attack
+9/12/2010 1:13:31 AM Preattacks finished
+9/12/2010 1:13:31 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:13:32 AM Swift Edge didn't fire
+9/12/2010 1:13:32 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:13:33 AM Swift Edge didn't fire
+9/12/2010 1:13:33 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:13:35 AM Swift Edge didn't fire
+9/12/2010 1:13:35 AM Skipping Swift Edge
+9/12/2010 1:13:35 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:13:35 AM Focused Evasion cooldown detected
+9/12/2010 1:13:35 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:13:37 AM Swift Edge didn't fire
+9/12/2010 1:13:37 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:13:38 AM Swift Edge cooldown detected
+9/12/2010 1:13:38 AM Soul Slash key pressed: 1 MOBHP: 89
+9/12/2010 1:13:39 AM Soul Slash cooldown detected
+9/12/2010 1:13:39 AM Counterattack key pressed: 4 MOBHP: 57
+9/12/2010 1:13:40 AM Counterattack cooldown detected
+9/12/2010 1:13:40 AM Skipping Swift Edge
+9/12/2010 1:13:40 AM Skipping Focused Evasion
+9/12/2010 1:13:40 AM Skipping Swift Edge
+9/12/2010 1:13:40 AM Skipping Focused Evasion
+9/12/2010 1:13:40 AM Skipping Swift Edge
+9/12/2010 1:13:40 AM Skipping Focused Evasion
+9/12/2010 1:13:40 AM Skipping Swift Edge
+9/12/2010 1:13:40 AM Skipping Focused Evasion
+9/12/2010 1:13:40 AM Skipping Swift Edge
+9/12/2010 1:13:41 AM Skipping Focused Evasion
+9/12/2010 1:13:41 AM Skipping Swift Edge
+9/12/2010 1:13:41 AM Skipping Focused Evasion
+9/12/2010 1:13:41 AM Skipping Swift Edge
+9/12/2010 1:13:41 AM Skipping Focused Evasion
+9/12/2010 1:13:41 AM Skipping Swift Edge
+9/12/2010 1:13:41 AM Skipping Focused Evasion
+9/12/2010 1:13:41 AM Skipping Swift Edge
+9/12/2010 1:13:41 AM Skipping Focused Evasion
+9/12/2010 1:13:41 AM Skipping Swift Edge
+9/12/2010 1:13:42 AM Skipping Focused Evasion
+9/12/2010 1:13:42 AM Skipping Swift Edge
+9/12/2010 1:13:42 AM Skipping Focused Evasion
+9/12/2010 1:13:42 AM Skipping Swift Edge
+9/12/2010 1:13:42 AM Skipping Focused Evasion
+9/12/2010 1:13:42 AM Skipping Swift Edge
+9/12/2010 1:13:42 AM Skipping Focused Evasion
+9/12/2010 1:13:42 AM Skipping Swift Edge
+9/12/2010 1:13:42 AM Skipping Focused Evasion
+9/12/2010 1:13:43 AM Skipping Swift Edge
+9/12/2010 1:13:43 AM Skipping Focused Evasion
+9/12/2010 1:13:43 AM Skipping Swift Edge
+9/12/2010 1:13:43 AM Skipping Focused Evasion
+9/12/2010 1:13:43 AM Skipping Swift Edge
+9/12/2010 1:13:43 AM Skipping Focused Evasion
+9/12/2010 1:13:43 AM Skipping Swift Edge
+9/12/2010 1:13:43 AM Skipping Focused Evasion
+9/12/2010 1:13:43 AM Skipping Swift Edge
+9/12/2010 1:13:43 AM Skipping Focused Evasion
+9/12/2010 1:13:44 AM Skipping Swift Edge
+9/12/2010 1:13:44 AM Skipping Focused Evasion
+9/12/2010 1:13:44 AM Swift Edge key pressed: 1 MOBHP: 22
+9/12/2010 1:13:45 AM Swift Edge cooldown detected
+9/12/2010 1:13:45 AM Soul Slash key pressed: 1 MOBHP: 10
+9/12/2010 1:13:46 AM Soul Slash cooldown detected
+9/12/2010 1:13:46 AM Exiting attack
+9/12/2010 1:13:46 AM Killed mob. Kills: 3
+9/12/2010 1:13:48 AM Looting finished
+9/12/2010 1:13:48 AM Total Exp gained: XP: 2080
+9/12/2010 1:13:49 AM Looting finished
+9/12/2010 1:13:49 AM Total Exp gained: XP: 2959
+9/12/2010 1:13:51 AM Looting finished
+9/12/2010 1:13:51 AM Total Exp gained: XP: 2959
+9/12/2010 1:13:51 AM Closest waypoint found! Dist: 35.5991830169565
+9/12/2010 1:13:51 AM Closest waypoint is 0
+9/12/2010 1:13:51 AM Waypoint system started
+9/12/2010 1:13:52 AM In targetting timer
+9/12/2010 1:13:52 AM Need new target
+9/12/2010 1:13:52 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:52 AM Target key pressed. NewTar: 
+9/12/2010 1:13:53 AM In targetting timer
+9/12/2010 1:13:53 AM Need new target
+9/12/2010 1:13:53 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:53 AM Target key pressed. NewTar: 
+9/12/2010 1:13:54 AM In targetting timer
+9/12/2010 1:13:54 AM Need new target
+9/12/2010 1:13:54 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:54 AM Target key pressed. NewTar: 
+9/12/2010 1:13:55 AM In targetting timer
+9/12/2010 1:13:55 AM Need new target
+9/12/2010 1:13:55 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:55 AM Target key pressed. NewTar: 
+9/12/2010 1:13:56 AM In targetting timer
+9/12/2010 1:13:56 AM Need new target
+9/12/2010 1:13:56 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:56 AM Target key pressed. NewTar: 
+9/12/2010 1:13:57 AM In targetting timer
+9/12/2010 1:13:57 AM Need new target
+9/12/2010 1:13:57 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:13:57 AM Target key pressed. NewTar: 
+9/12/2010 1:13:57 AM Waypoint system finished
+9/12/2010 1:13:57 AM Going into Preattacks
+9/12/2010 1:13:57 AM Fighting Frost Slink
+9/12/2010 1:13:57 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:13:58 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:13:59 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:14:00 AM Skipping Surprise Attack
+9/12/2010 1:14:00 AM Preattacks finished
+9/12/2010 1:14:00 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:14:01 AM Swift Edge didn't fire
+9/12/2010 1:14:01 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:14:02 AM Swift Edge didn't fire
+9/12/2010 1:14:02 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:14:03 AM Swift Edge cooldown detected
+9/12/2010 1:14:03 AM Soul Slash key pressed: 1 MOBHP: 100
+9/12/2010 1:14:04 AM Soul Slash didn't fire
+9/12/2010 1:14:04 AM Soul Slash key pressed: 1 MOBHP: 89
+9/12/2010 1:14:05 AM Soul Slash cooldown detected
+9/12/2010 1:14:05 AM Focused Evasion key pressed: 3 MOBHP: 74
+9/12/2010 1:14:06 AM Focused Evasion cooldown detected
+9/12/2010 1:14:06 AM Skipping Swift Edge
+9/12/2010 1:14:06 AM Skipping Focused Evasion
+9/12/2010 1:14:06 AM Skipping Swift Edge
+9/12/2010 1:14:06 AM Skipping Focused Evasion
+9/12/2010 1:14:06 AM Skipping Swift Edge
+9/12/2010 1:14:07 AM Skipping Focused Evasion
+9/12/2010 1:14:07 AM Counterattack key pressed: 4 MOBHP: 74
+9/12/2010 1:14:07 AM Counterattack cooldown detected
+9/12/2010 1:14:08 AM Skipping Swift Edge
+9/12/2010 1:14:08 AM Skipping Focused Evasion
+9/12/2010 1:14:08 AM Skipping Swift Edge
+9/12/2010 1:14:08 AM Skipping Focused Evasion
+9/12/2010 1:14:08 AM Skipping Swift Edge
+9/12/2010 1:14:08 AM Skipping Focused Evasion
+9/12/2010 1:14:08 AM Skipping Swift Edge
+9/12/2010 1:14:08 AM Skipping Focused Evasion
+9/12/2010 1:14:08 AM Skipping Swift Edge
+9/12/2010 1:14:08 AM Skipping Focused Evasion
+9/12/2010 1:14:09 AM Skipping Swift Edge
+9/12/2010 1:14:09 AM Skipping Focused Evasion
+9/12/2010 1:14:09 AM Skipping Swift Edge
+9/12/2010 1:14:09 AM Skipping Focused Evasion
+9/12/2010 1:14:09 AM Skipping Swift Edge
+9/12/2010 1:14:09 AM Skipping Focused Evasion
+9/12/2010 1:14:09 AM Skipping Swift Edge
+9/12/2010 1:14:09 AM Skipping Focused Evasion
+9/12/2010 1:14:09 AM Skipping Swift Edge
+9/12/2010 1:14:09 AM Skipping Focused Evasion
+9/12/2010 1:14:10 AM Skipping Swift Edge
+9/12/2010 1:14:10 AM Skipping Focused Evasion
+9/12/2010 1:14:10 AM Skipping Swift Edge
+9/12/2010 1:14:10 AM Skipping Focused Evasion
+9/12/2010 1:14:10 AM Swift Edge key pressed: 1 MOBHP: 46
+9/12/2010 1:14:11 AM Swift Edge cooldown detected
+9/12/2010 1:14:11 AM Soul Slash key pressed: 1 MOBHP: 39
+9/12/2010 1:14:12 AM Soul Slash cooldown detected
+9/12/2010 1:14:12 AM Skipping Focused Evasion
+9/12/2010 1:14:12 AM Skipping Swift Edge
+9/12/2010 1:14:12 AM Skipping Focused Evasion
+9/12/2010 1:14:12 AM Skipping Swift Edge
+9/12/2010 1:14:13 AM Skipping Focused Evasion
+9/12/2010 1:14:13 AM Skipping Swift Edge
+9/12/2010 1:14:13 AM Skipping Focused Evasion
+9/12/2010 1:14:13 AM Skipping Swift Edge
+9/12/2010 1:14:13 AM Skipping Focused Evasion
+9/12/2010 1:14:13 AM Skipping Swift Edge
+9/12/2010 1:14:13 AM Skipping Focused Evasion
+9/12/2010 1:14:13 AM Skipping Swift Edge
+9/12/2010 1:14:13 AM Skipping Focused Evasion
+9/12/2010 1:14:14 AM Skipping Swift Edge
+9/12/2010 1:14:14 AM Skipping Focused Evasion
+9/12/2010 1:14:14 AM Skipping Swift Edge
+9/12/2010 1:14:14 AM Skipping Focused Evasion
+9/12/2010 1:14:14 AM Skipping Swift Edge
+9/12/2010 1:14:14 AM Skipping Focused Evasion
+9/12/2010 1:14:14 AM Skipping Swift Edge
+9/12/2010 1:14:14 AM Skipping Focused Evasion
+9/12/2010 1:14:14 AM Skipping Swift Edge
+9/12/2010 1:14:14 AM Skipping Focused Evasion
+9/12/2010 1:14:15 AM Skipping Swift Edge
+9/12/2010 1:14:15 AM Skipping Focused Evasion
+9/12/2010 1:14:15 AM Skipping Swift Edge
+9/12/2010 1:14:15 AM Skipping Focused Evasion
+9/12/2010 1:14:15 AM Skipping Swift Edge
+9/12/2010 1:14:15 AM Skipping Focused Evasion
+9/12/2010 1:14:15 AM Skipping Swift Edge
+9/12/2010 1:14:15 AM Skipping Focused Evasion
+9/12/2010 1:14:15 AM Skipping Swift Edge
+9/12/2010 1:14:15 AM Skipping Focused Evasion
+9/12/2010 1:14:16 AM Skipping Swift Edge
+9/12/2010 1:14:16 AM Skipping Focused Evasion
+9/12/2010 1:14:16 AM Skipping Swift Edge
+9/12/2010 1:14:16 AM Skipping Focused Evasion
+9/12/2010 1:14:16 AM Skipping Swift Edge
+9/12/2010 1:14:16 AM Skipping Focused Evasion
+9/12/2010 1:14:16 AM Skipping Swift Edge
+9/12/2010 1:14:16 AM Skipping Focused Evasion
+9/12/2010 1:14:16 AM Skipping Swift Edge
+9/12/2010 1:14:17 AM Skipping Focused Evasion
+9/12/2010 1:14:17 AM Skipping Swift Edge
+9/12/2010 1:14:17 AM Skipping Focused Evasion
+9/12/2010 1:14:17 AM Skipping Swift Edge
+9/12/2010 1:14:17 AM Skipping Focused Evasion
+9/12/2010 1:14:17 AM Skipping Swift Edge
+9/12/2010 1:14:17 AM Skipping Focused Evasion
+9/12/2010 1:14:17 AM Swift Edge key pressed: 1 MOBHP: 10
+9/12/2010 1:14:18 AM Swift Edge cooldown detected
+9/12/2010 1:14:18 AM Soul Slash key pressed: 1 MOBHP: 2
+9/12/2010 1:14:19 AM Soul Slash cooldown detected
+9/12/2010 1:14:19 AM Exiting attack
+9/12/2010 1:14:19 AM Killed mob. Kills: 4
+9/12/2010 1:14:21 AM Looting finished
+9/12/2010 1:14:21 AM Total Exp gained: XP: 2959
+9/12/2010 1:14:23 AM Looting finished
+9/12/2010 1:14:23 AM Total Exp gained: XP: 2959
+9/12/2010 1:14:24 AM Looting finished
+9/12/2010 1:14:24 AM Total Exp gained: XP: 2959
+9/12/2010 1:14:25 AM Closest waypoint found! Dist: 6.45763456822636
+9/12/2010 1:14:25 AM Closest waypoint is 4
+9/12/2010 1:14:25 AM Waypoint system started
+9/12/2010 1:14:26 AM In targetting timer
+9/12/2010 1:14:26 AM Need new target
+9/12/2010 1:14:26 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:14:26 AM Target key pressed. NewTar: 
+9/12/2010 1:14:27 AM Waypoint system finished
+9/12/2010 1:14:27 AM Going into Preattacks
+9/12/2010 1:14:27 AM Fighting Frost Slink
+9/12/2010 1:14:27 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:14:27 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:14:28 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:14:29 AM Surprise Attack cooldown detected
+9/12/2010 1:14:29 AM Skipping Surprise Attack
+9/12/2010 1:14:29 AM Preattacks finished
+9/12/2010 1:14:29 AM Swift Edge key pressed: 1 MOBHP: 82
+9/12/2010 1:14:30 AM Swift Edge didn't fire
+9/12/2010 1:14:30 AM Swift Edge key pressed: 1 MOBHP: 82
+9/12/2010 1:14:31 AM Swift Edge cooldown detected
+9/12/2010 1:14:31 AM Soul Slash key pressed: 1 MOBHP: 73
+9/12/2010 1:14:32 AM Soul Slash cooldown detected
+9/12/2010 1:14:32 AM Skipping Focused Evasion
+9/12/2010 1:14:32 AM Skipping Swift Edge
+9/12/2010 1:14:32 AM Skipping Focused Evasion
+9/12/2010 1:14:33 AM Skipping Swift Edge
+9/12/2010 1:14:33 AM Skipping Focused Evasion
+9/12/2010 1:14:33 AM Skipping Swift Edge
+9/12/2010 1:14:33 AM Skipping Focused Evasion
+9/12/2010 1:14:33 AM Skipping Swift Edge
+9/12/2010 1:14:33 AM Skipping Focused Evasion
+9/12/2010 1:14:33 AM Skipping Swift Edge
+9/12/2010 1:14:33 AM Skipping Focused Evasion
+9/12/2010 1:14:33 AM Skipping Swift Edge
+9/12/2010 1:14:33 AM Skipping Focused Evasion
+9/12/2010 1:14:34 AM Skipping Swift Edge
+9/12/2010 1:14:34 AM Skipping Focused Evasion
+9/12/2010 1:14:34 AM Skipping Swift Edge
+9/12/2010 1:14:34 AM Skipping Focused Evasion
+9/12/2010 1:14:34 AM Skipping Swift Edge
+9/12/2010 1:14:34 AM Skipping Focused Evasion
+9/12/2010 1:14:34 AM Skipping Swift Edge
+9/12/2010 1:14:34 AM Skipping Focused Evasion
+9/12/2010 1:14:34 AM Skipping Swift Edge
+9/12/2010 1:14:34 AM Skipping Focused Evasion
+9/12/2010 1:14:35 AM Skipping Swift Edge
+9/12/2010 1:14:35 AM Skipping Focused Evasion
+9/12/2010 1:14:35 AM Skipping Swift Edge
+9/12/2010 1:14:35 AM Skipping Focused Evasion
+9/12/2010 1:14:35 AM Skipping Swift Edge
+9/12/2010 1:14:35 AM Skipping Focused Evasion
+9/12/2010 1:14:35 AM Skipping Swift Edge
+9/12/2010 1:14:35 AM Skipping Focused Evasion
+9/12/2010 1:14:35 AM Skipping Swift Edge
+9/12/2010 1:14:36 AM Skipping Focused Evasion
+9/12/2010 1:14:36 AM Skipping Swift Edge
+9/12/2010 1:14:36 AM Focused Evasion key pressed: 3 MOBHP: 54
+9/12/2010 1:14:36 AM Focused Evasion cooldown detected
+9/12/2010 1:14:36 AM Skipping Swift Edge
+9/12/2010 1:14:37 AM Skipping Focused Evasion
+9/12/2010 1:14:37 AM Skipping Swift Edge
+9/12/2010 1:14:37 AM Skipping Focused Evasion
+9/12/2010 1:14:37 AM Skipping Swift Edge
+9/12/2010 1:14:37 AM Skipping Focused Evasion
+9/12/2010 1:14:37 AM Skipping Swift Edge
+9/12/2010 1:14:37 AM Skipping Focused Evasion
+9/12/2010 1:14:37 AM Swift Edge key pressed: 1 MOBHP: 54
+9/12/2010 1:14:38 AM Swift Edge cooldown detected
+9/12/2010 1:14:38 AM Soul Slash key pressed: 1 MOBHP: 39
+9/12/2010 1:14:40 AM Soul Slash cooldown detected
+9/12/2010 1:14:40 AM Counterattack key pressed: 4 MOBHP: 31
+9/12/2010 1:14:40 AM Counterattack cooldown detected
+9/12/2010 1:14:40 AM Skipping Swift Edge
+9/12/2010 1:14:40 AM Skipping Focused Evasion
+9/12/2010 1:14:41 AM Skipping Swift Edge
+9/12/2010 1:14:41 AM Skipping Focused Evasion
+9/12/2010 1:14:41 AM Skipping Swift Edge
+9/12/2010 1:14:41 AM Skipping Focused Evasion
+9/12/2010 1:14:41 AM Skipping Swift Edge
+9/12/2010 1:14:41 AM Skipping Focused Evasion
+9/12/2010 1:14:41 AM Skipping Swift Edge
+9/12/2010 1:14:41 AM Skipping Focused Evasion
+9/12/2010 1:14:41 AM Skipping Swift Edge
+9/12/2010 1:14:41 AM Skipping Focused Evasion
+9/12/2010 1:14:42 AM Skipping Swift Edge
+9/12/2010 1:14:42 AM Skipping Focused Evasion
+9/12/2010 1:14:42 AM Skipping Swift Edge
+9/12/2010 1:14:42 AM Skipping Focused Evasion
+9/12/2010 1:14:42 AM Skipping Swift Edge
+9/12/2010 1:14:42 AM Skipping Focused Evasion
+9/12/2010 1:14:42 AM Skipping Swift Edge
+9/12/2010 1:14:42 AM Skipping Focused Evasion
+9/12/2010 1:14:42 AM Skipping Swift Edge
+9/12/2010 1:14:43 AM Skipping Focused Evasion
+9/12/2010 1:14:43 AM Skipping Swift Edge
+9/12/2010 1:14:43 AM Skipping Focused Evasion
+9/12/2010 1:14:43 AM Skipping Swift Edge
+9/12/2010 1:14:43 AM Skipping Focused Evasion
+9/12/2010 1:14:43 AM Skipping Swift Edge
+9/12/2010 1:14:43 AM Skipping Focused Evasion
+9/12/2010 1:14:43 AM Skipping Swift Edge
+9/12/2010 1:14:43 AM Skipping Focused Evasion
+9/12/2010 1:14:43 AM Skipping Swift Edge
+9/12/2010 1:14:44 AM Skipping Focused Evasion
+9/12/2010 1:14:44 AM Skipping Swift Edge
+9/12/2010 1:14:44 AM Skipping Focused Evasion
+9/12/2010 1:14:44 AM Skipping Swift Edge
+9/12/2010 1:14:44 AM Skipping Focused Evasion
+9/12/2010 1:14:44 AM Skipping Swift Edge
+9/12/2010 1:14:44 AM Skipping Focused Evasion
+9/12/2010 1:14:44 AM Skipping Swift Edge
+9/12/2010 1:14:44 AM Exiting attack
+9/12/2010 1:14:44 AM Killed mob. Kills: 5
+9/12/2010 1:14:46 AM Looting finished
+9/12/2010 1:14:46 AM Total Exp gained: XP: 3999
+9/12/2010 1:14:48 AM Looting finished
+9/12/2010 1:14:48 AM Total Exp gained: XP: 5039
+9/12/2010 1:14:49 AM Looting finished
+9/12/2010 1:14:49 AM Total Exp gained: XP: 5039
+9/12/2010 1:14:49 AM HP Resting
+9/12/2010 1:14:49 AM Got player entity
+9/12/2010 1:15:06 AM Done resting
+9/12/2010 1:15:07 AM Closest waypoint found! Dist: 4.59007550608132
+9/12/2010 1:15:07 AM Closest waypoint is 3
+9/12/2010 1:15:07 AM Waypoint system started
+9/12/2010 1:15:09 AM In targetting timer
+9/12/2010 1:15:09 AM Need new target
+9/12/2010 1:15:09 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:09 AM Target key pressed. NewTar: 
+9/12/2010 1:15:09 AM Waypoint system finished
+9/12/2010 1:15:09 AM Going into Preattacks
+9/12/2010 1:15:09 AM Fighting Ice Airon
+9/12/2010 1:15:09 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:10 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:11 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:12 AM Skipping Surprise Attack
+9/12/2010 1:15:12 AM Preattacks finished
+9/12/2010 1:15:12 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:13 AM Swift Edge didn't fire
+9/12/2010 1:15:13 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:14 AM Swift Edge didn't fire
+9/12/2010 1:15:14 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:15 AM Swift Edge cooldown detected
+9/12/2010 1:15:15 AM Soul Slash key pressed: 1 MOBHP: 100
+9/12/2010 1:15:16 AM Soul Slash didn't fire
+9/12/2010 1:15:16 AM Soul Slash key pressed: 1 MOBHP: 89
+9/12/2010 1:15:17 AM Soul Slash cooldown detected
+9/12/2010 1:15:17 AM Focused Evasion key pressed: 3 MOBHP: 75
+9/12/2010 1:15:18 AM Focused Evasion cooldown detected
+9/12/2010 1:15:18 AM Skipping Swift Edge
+9/12/2010 1:15:18 AM Skipping Focused Evasion
+9/12/2010 1:15:18 AM Skipping Swift Edge
+9/12/2010 1:15:18 AM Skipping Focused Evasion
+9/12/2010 1:15:18 AM Skipping Swift Edge
+9/12/2010 1:15:19 AM Skipping Focused Evasion
+9/12/2010 1:15:19 AM Skipping Swift Edge
+9/12/2010 1:15:19 AM Counterattack key pressed: 4 MOBHP: 75
+9/12/2010 1:15:20 AM Counterattack cooldown detected
+9/12/2010 1:15:20 AM Skipping Swift Edge
+9/12/2010 1:15:20 AM Skipping Focused Evasion
+9/12/2010 1:15:20 AM Skipping Swift Edge
+9/12/2010 1:15:20 AM Skipping Focused Evasion
+9/12/2010 1:15:20 AM Skipping Swift Edge
+9/12/2010 1:15:20 AM Skipping Focused Evasion
+9/12/2010 1:15:20 AM Skipping Swift Edge
+9/12/2010 1:15:20 AM Skipping Focused Evasion
+9/12/2010 1:15:20 AM Skipping Swift Edge
+9/12/2010 1:15:20 AM Skipping Focused Evasion
+9/12/2010 1:15:21 AM Skipping Swift Edge
+9/12/2010 1:15:21 AM Skipping Focused Evasion
+9/12/2010 1:15:21 AM Skipping Swift Edge
+9/12/2010 1:15:21 AM Skipping Focused Evasion
+9/12/2010 1:15:21 AM Skipping Swift Edge
+9/12/2010 1:15:21 AM Skipping Focused Evasion
+9/12/2010 1:15:21 AM Skipping Swift Edge
+9/12/2010 1:15:21 AM Skipping Focused Evasion
+9/12/2010 1:15:21 AM Skipping Swift Edge
+9/12/2010 1:15:22 AM Skipping Focused Evasion
+9/12/2010 1:15:22 AM Skipping Swift Edge
+9/12/2010 1:15:22 AM Skipping Focused Evasion
+9/12/2010 1:15:22 AM Skipping Swift Edge
+9/12/2010 1:15:22 AM Skipping Focused Evasion
+9/12/2010 1:15:22 AM Skipping Swift Edge
+9/12/2010 1:15:22 AM Skipping Focused Evasion
+9/12/2010 1:15:22 AM Swift Edge key pressed: 1 MOBHP: 41
+9/12/2010 1:15:23 AM Swift Edge cooldown detected
+9/12/2010 1:15:23 AM Soul Slash key pressed: 1 MOBHP: 33
+9/12/2010 1:15:24 AM Soul Slash cooldown detected
+9/12/2010 1:15:24 AM Skipping Focused Evasion
+9/12/2010 1:15:25 AM Skipping Swift Edge
+9/12/2010 1:15:25 AM Skipping Focused Evasion
+9/12/2010 1:15:25 AM Skipping Swift Edge
+9/12/2010 1:15:25 AM Skipping Focused Evasion
+9/12/2010 1:15:25 AM Skipping Swift Edge
+9/12/2010 1:15:25 AM Skipping Focused Evasion
+9/12/2010 1:15:25 AM Skipping Swift Edge
+9/12/2010 1:15:25 AM Skipping Focused Evasion
+9/12/2010 1:15:25 AM Skipping Swift Edge
+9/12/2010 1:15:25 AM Skipping Focused Evasion
+9/12/2010 1:15:26 AM Skipping Swift Edge
+9/12/2010 1:15:26 AM Skipping Focused Evasion
+9/12/2010 1:15:26 AM Skipping Swift Edge
+9/12/2010 1:15:26 AM Skipping Focused Evasion
+9/12/2010 1:15:26 AM Skipping Swift Edge
+9/12/2010 1:15:26 AM Skipping Focused Evasion
+9/12/2010 1:15:26 AM Skipping Swift Edge
+9/12/2010 1:15:26 AM Skipping Focused Evasion
+9/12/2010 1:15:26 AM Skipping Swift Edge
+9/12/2010 1:15:27 AM Skipping Focused Evasion
+9/12/2010 1:15:27 AM Skipping Swift Edge
+9/12/2010 1:15:27 AM Skipping Focused Evasion
+9/12/2010 1:15:27 AM Skipping Swift Edge
+9/12/2010 1:15:27 AM Skipping Focused Evasion
+9/12/2010 1:15:27 AM Skipping Swift Edge
+9/12/2010 1:15:27 AM Skipping Focused Evasion
+9/12/2010 1:15:27 AM Skipping Swift Edge
+9/12/2010 1:15:27 AM Skipping Focused Evasion
+9/12/2010 1:15:27 AM Skipping Swift Edge
+9/12/2010 1:15:28 AM Skipping Focused Evasion
+9/12/2010 1:15:28 AM Skipping Swift Edge
+9/12/2010 1:15:28 AM Skipping Focused Evasion
+9/12/2010 1:15:28 AM Skipping Swift Edge
+9/12/2010 1:15:28 AM Skipping Focused Evasion
+9/12/2010 1:15:28 AM Skipping Swift Edge
+9/12/2010 1:15:28 AM Skipping Focused Evasion
+9/12/2010 1:15:28 AM Skipping Swift Edge
+9/12/2010 1:15:28 AM Skipping Focused Evasion
+9/12/2010 1:15:28 AM Skipping Swift Edge
+9/12/2010 1:15:29 AM Skipping Focused Evasion
+9/12/2010 1:15:29 AM Skipping Swift Edge
+9/12/2010 1:15:29 AM Skipping Focused Evasion
+9/12/2010 1:15:29 AM Skipping Swift Edge
+9/12/2010 1:15:29 AM Skipping Focused Evasion
+9/12/2010 1:15:29 AM Skipping Swift Edge
+9/12/2010 1:15:29 AM Skipping Focused Evasion
+9/12/2010 1:15:29 AM Skipping Swift Edge
+9/12/2010 1:15:29 AM Skipping Focused Evasion
+9/12/2010 1:15:29 AM Skipping Swift Edge
+9/12/2010 1:15:30 AM Skipping Focused Evasion
+9/12/2010 1:15:30 AM Swift Edge key pressed: 1 MOBHP: 9
+9/12/2010 1:15:31 AM Swift Edge didn't fire
+9/12/2010 1:15:31 AM Exiting attack
+9/12/2010 1:15:31 AM Killed mob. Kills: 6
+9/12/2010 1:15:33 AM Looting finished
+9/12/2010 1:15:33 AM Total Exp gained: XP: 5039
+9/12/2010 1:15:34 AM Looting finished
+9/12/2010 1:15:34 AM Total Exp gained: XP: 5039
+9/12/2010 1:15:34 AM Leveled!
+9/12/2010 1:15:36 AM Looting finished
+9/12/2010 1:15:36 AM Total Exp gained: XP: -88025
+9/12/2010 1:15:36 AM Closest waypoint found! Dist: 18.4228307393015
+9/12/2010 1:15:36 AM Closest waypoint is 1
+9/12/2010 1:15:36 AM Waypoint system started
+9/12/2010 1:15:37 AM In targetting timer
+9/12/2010 1:15:37 AM Need new target
+9/12/2010 1:15:37 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:37 AM Target key pressed. NewTar: 
+9/12/2010 1:15:38 AM In targetting timer
+9/12/2010 1:15:38 AM Need new target
+9/12/2010 1:15:38 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:38 AM Target key pressed. NewTar: 
+9/12/2010 1:15:39 AM In targetting timer
+9/12/2010 1:15:39 AM Need new target
+9/12/2010 1:15:39 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:39 AM Target key pressed. NewTar: 
+9/12/2010 1:15:40 AM In targetting timer
+9/12/2010 1:15:40 AM Need new target
+9/12/2010 1:15:40 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:40 AM Target key pressed. NewTar: 
+9/12/2010 1:15:41 AM In targetting timer
+9/12/2010 1:15:41 AM Need new target
+9/12/2010 1:15:41 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:15:41 AM Target key pressed. NewTar: 
+9/12/2010 1:15:42 AM Waypoint system finished
+9/12/2010 1:15:42 AM Going into Preattacks
+9/12/2010 1:15:42 AM Fighting Frost Slink
+9/12/2010 1:15:42 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:43 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:44 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:15:44 AM Skipping Surprise Attack
+9/12/2010 1:15:44 AM Preattacks finished
+9/12/2010 1:15:44 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:46 AM Swift Edge didn't fire
+9/12/2010 1:15:46 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:47 AM Swift Edge didn't fire
+9/12/2010 1:15:47 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:15:48 AM Swift Edge didn't fire
+9/12/2010 1:15:48 AM Skipping Swift Edge
+9/12/2010 1:15:48 AM Focused Evasion key pressed: 3 MOBHP: 88
+9/12/2010 1:15:49 AM Focused Evasion cooldown detected
+9/12/2010 1:15:49 AM Swift Edge key pressed: 1 MOBHP: 88
+9/12/2010 1:15:50 AM Swift Edge didn't fire
+9/12/2010 1:15:50 AM Swift Edge key pressed: 1 MOBHP: 80
+9/12/2010 1:15:51 AM Swift Edge didn't fire
+9/12/2010 1:15:51 AM Skipping Counterattack
+9/12/2010 1:15:51 AM Swift Edge key pressed: 1 MOBHP: 80
+9/12/2010 1:15:52 AM Swift Edge didn't fire
+9/12/2010 1:15:52 AM Swift Edge key pressed: 1 MOBHP: 73
+9/12/2010 1:15:53 AM Swift Edge didn't fire
+9/12/2010 1:15:53 AM Swift Edge key pressed: 1 MOBHP: 65
+9/12/2010 1:15:55 AM Swift Edge didn't fire
+9/12/2010 1:15:55 AM Skipping Swift Edge
+9/12/2010 1:15:55 AM Skipping Focused Evasion
+9/12/2010 1:15:55 AM Swift Edge key pressed: 1 MOBHP: 57
+9/12/2010 1:15:56 AM Swift Edge didn't fire
+9/12/2010 1:15:56 AM Swift Edge key pressed: 1 MOBHP: 47
+9/12/2010 1:15:57 AM Swift Edge didn't fire
+9/12/2010 1:15:57 AM Swift Edge key pressed: 1 MOBHP: 36
+9/12/2010 1:15:58 AM Swift Edge didn't fire
+9/12/2010 1:15:58 AM Skipping Swift Edge
+9/12/2010 1:15:58 AM Skipping Focused Evasion
+9/12/2010 1:15:58 AM Swift Edge key pressed: 1 MOBHP: 23
+9/12/2010 1:16:00 AM Swift Edge didn't fire
+9/12/2010 1:16:00 AM Swift Edge key pressed: 1 MOBHP: 16
+9/12/2010 1:16:01 AM Swift Edge didn't fire
+9/12/2010 1:16:01 AM Swift Edge key pressed: 1 MOBHP: 16
+9/12/2010 1:16:02 AM Swift Edge didn't fire
+9/12/2010 1:16:02 AM Skipping Swift Edge
+9/12/2010 1:16:02 AM Skipping Focused Evasion
+9/12/2010 1:16:02 AM Swift Edge key pressed: 1 MOBHP: 7
+9/12/2010 1:16:03 AM Swift Edge didn't fire
+9/12/2010 1:16:03 AM Exiting attack
+9/12/2010 1:16:03 AM Killed mob. Kills: 1
+9/12/2010 1:16:05 AM Looting finished
+9/12/2010 1:16:05 AM Total Exp gained: XP: 0
+9/12/2010 1:16:06 AM Looting finished
+9/12/2010 1:16:06 AM Total Exp gained: XP: 0
+9/12/2010 1:16:08 AM Looting finished
+9/12/2010 1:16:08 AM Total Exp gained: XP: 0
+9/12/2010 1:16:08 AM Closest waypoint found! Dist: 25.8026127046509
+9/12/2010 1:16:08 AM Closest waypoint is 0
+9/12/2010 1:16:08 AM Waypoint system started
+9/12/2010 1:16:09 AM In targetting timer
+9/12/2010 1:16:09 AM Need new target
+9/12/2010 1:16:09 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:09 AM Target key pressed. NewTar: 
+9/12/2010 1:16:10 AM In targetting timer
+9/12/2010 1:16:10 AM Need new target
+9/12/2010 1:16:10 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:10 AM Target key pressed. NewTar: 
+9/12/2010 1:16:11 AM In targetting timer
+9/12/2010 1:16:11 AM Need new target
+9/12/2010 1:16:11 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:11 AM Target key pressed. NewTar: 
+9/12/2010 1:16:12 AM In targetting timer
+9/12/2010 1:16:12 AM Need new target
+9/12/2010 1:16:12 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:12 AM Target key pressed. NewTar: 
+9/12/2010 1:16:13 AM In targetting timer
+9/12/2010 1:16:13 AM Need new target
+9/12/2010 1:16:13 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:13 AM Target key pressed. NewTar: 
+9/12/2010 1:16:14 AM In targetting timer
+9/12/2010 1:16:14 AM Need new target
+9/12/2010 1:16:14 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:16:14 AM Target key pressed. NewTar: 
+9/12/2010 1:16:15 AM Waypoint system finished
+9/12/2010 1:16:15 AM Going into Preattacks
+9/12/2010 1:16:15 AM Fighting Frost Slink
+9/12/2010 1:16:15 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:16:15 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:16:16 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:16:17 AM Skipping Surprise Attack
+9/12/2010 1:16:17 AM Preattacks finished
+9/12/2010 1:16:17 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:16:18 AM Swift Edge didn't fire
+9/12/2010 1:16:18 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:16:19 AM Swift Edge didn't fire
+9/12/2010 1:16:19 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:16:20 AM Swift Edge didn't fire
+9/12/2010 1:16:20 AM Skipping Swift Edge
+9/12/2010 1:16:20 AM Focused Evasion key pressed: 3 MOBHP: 90
+9/12/2010 1:16:21 AM Focused Evasion cooldown detected
+9/12/2010 1:16:21 AM Swift Edge key pressed: 1 MOBHP: 90
+9/12/2010 1:16:22 AM Swift Edge didn't fire
+9/12/2010 1:16:22 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:16:23 AM Swift Edge didn't fire
+9/12/2010 1:16:23 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:16:25 AM Swift Edge didn't fire
+9/12/2010 1:16:25 AM Skipping Swift Edge
+9/12/2010 1:16:25 AM Skipping Focused Evasion
+9/12/2010 1:16:25 AM Swift Edge key pressed: 1 MOBHP: 79
+9/12/2010 1:16:26 AM Swift Edge didn't fire
+9/12/2010 1:16:26 AM Swift Edge key pressed: 1 MOBHP: 75
+9/12/2010 1:16:27 AM Swift Edge didn't fire
+9/12/2010 1:16:27 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:16:28 AM Swift Edge didn't fire
+9/12/2010 1:16:28 AM Skipping Swift Edge
+9/12/2010 1:16:28 AM Skipping Focused Evasion
+9/12/2010 1:16:28 AM Swift Edge key pressed: 1 MOBHP: 61
+9/12/2010 1:16:29 AM Swift Edge didn't fire
+9/12/2010 1:16:29 AM Swift Edge key pressed: 1 MOBHP: 52
+9/12/2010 1:16:31 AM Swift Edge didn't fire
+9/12/2010 1:16:31 AM Swift Edge key pressed: 1 MOBHP: 46
+9/12/2010 1:16:32 AM Swift Edge didn't fire
+9/12/2010 1:16:32 AM Skipping Swift Edge
+9/12/2010 1:16:32 AM Skipping Focused Evasion
+9/12/2010 1:16:32 AM Swift Edge key pressed: 1 MOBHP: 42
+9/12/2010 1:16:33 AM Swift Edge didn't fire
+9/12/2010 1:16:33 AM Swift Edge key pressed: 1 MOBHP: 42
+9/12/2010 1:16:34 AM Swift Edge didn't fire
+9/12/2010 1:16:34 AM Swift Edge key pressed: 1 MOBHP: 32
+9/12/2010 1:16:35 AM Swift Edge didn't fire
+9/12/2010 1:16:35 AM Skipping Swift Edge
+9/12/2010 1:16:35 AM Skipping Focused Evasion
+9/12/2010 1:16:36 AM Swift Edge key pressed: 1 MOBHP: 27
+9/12/2010 1:16:37 AM Swift Edge didn't fire
+9/12/2010 1:16:37 AM Swift Edge key pressed: 1 MOBHP: 17
+9/12/2010 1:16:38 AM Swift Edge didn't fire
+9/12/2010 1:16:38 AM Swift Edge key pressed: 1 MOBHP: 8
+9/12/2010 1:16:39 AM Swift Edge didn't fire
+9/12/2010 1:16:39 AM Skipping Swift Edge
+9/12/2010 1:16:39 AM Skipping Focused Evasion
+9/12/2010 1:16:39 AM Swift Edge key pressed: 1 MOBHP: 2
+9/12/2010 1:16:40 AM Swift Edge didn't fire
+9/12/2010 1:16:40 AM Exiting attack
+9/12/2010 1:16:40 AM Killed mob. Kills: 2
+9/12/2010 1:16:42 AM Looting finished
+9/12/2010 1:16:42 AM Total Exp gained: XP: 879
+9/12/2010 1:16:44 AM Looting finished
+9/12/2010 1:16:44 AM Total Exp gained: XP: 1919
+9/12/2010 1:16:45 AM Looting finished
+9/12/2010 1:16:45 AM Total Exp gained: XP: 1919
+9/12/2010 1:16:45 AM HP Resting
+9/12/2010 1:16:45 AM Got player entity
+9/12/2010 1:17:00 AM Done resting
+9/12/2010 1:17:02 AM Closest waypoint found! Dist: 4.47047886144308
+9/12/2010 1:17:02 AM Closest waypoint is 4
+9/12/2010 1:17:02 AM Waypoint system started
+9/12/2010 1:17:03 AM Waypoint system finished
+9/12/2010 1:17:03 AM Going into Preattacks
+9/12/2010 1:17:03 AM Fighting Frost Slink
+9/12/2010 1:17:03 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:04 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:04 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:05 AM Skipping Surprise Attack
+9/12/2010 1:17:05 AM Preattacks finished
+9/12/2010 1:17:05 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:06 AM Swift Edge didn't fire
+9/12/2010 1:17:06 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:07 AM Swift Edge didn't fire
+9/12/2010 1:17:07 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:09 AM Swift Edge didn't fire
+9/12/2010 1:17:09 AM Skipping Swift Edge
+9/12/2010 1:17:09 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:17:09 AM Focused Evasion didn't fire
+9/12/2010 1:17:09 AM Focused Evasion key pressed: 3 MOBHP: 90
+9/12/2010 1:17:10 AM Focused Evasion cooldown detected
+9/12/2010 1:17:10 AM Swift Edge key pressed: 1 MOBHP: 90
+9/12/2010 1:17:11 AM Swift Edge didn't fire
+9/12/2010 1:17:11 AM Swift Edge key pressed: 1 MOBHP: 86
+9/12/2010 1:17:13 AM Swift Edge didn't fire
+9/12/2010 1:17:13 AM Swift Edge key pressed: 1 MOBHP: 86
+9/12/2010 1:17:14 AM Swift Edge didn't fire
+9/12/2010 1:17:14 AM Skipping Swift Edge
+9/12/2010 1:17:14 AM Skipping Focused Evasion
+9/12/2010 1:17:14 AM Swift Edge key pressed: 1 MOBHP: 79
+9/12/2010 1:17:15 AM Swift Edge didn't fire
+9/12/2010 1:17:15 AM Swift Edge key pressed: 1 MOBHP: 74
+9/12/2010 1:17:16 AM Swift Edge didn't fire
+9/12/2010 1:17:16 AM Swift Edge key pressed: 1 MOBHP: 69
+9/12/2010 1:17:17 AM Swift Edge didn't fire
+9/12/2010 1:17:17 AM Skipping Swift Edge
+9/12/2010 1:17:17 AM Skipping Focused Evasion
+9/12/2010 1:17:17 AM Swift Edge key pressed: 1 MOBHP: 61
+9/12/2010 1:17:19 AM Swift Edge didn't fire
+9/12/2010 1:17:19 AM Swift Edge key pressed: 1 MOBHP: 53
+9/12/2010 1:17:20 AM Swift Edge didn't fire
+9/12/2010 1:17:20 AM Swift Edge key pressed: 1 MOBHP: 46
+9/12/2010 1:17:21 AM Swift Edge didn't fire
+9/12/2010 1:17:21 AM Skipping Swift Edge
+9/12/2010 1:17:21 AM Skipping Focused Evasion
+9/12/2010 1:17:21 AM Swift Edge key pressed: 1 MOBHP: 42
+9/12/2010 1:17:22 AM Swift Edge didn't fire
+9/12/2010 1:17:22 AM Swift Edge key pressed: 1 MOBHP: 42
+9/12/2010 1:17:23 AM Swift Edge didn't fire
+9/12/2010 1:17:23 AM Swift Edge key pressed: 1 MOBHP: 29
+9/12/2010 1:17:25 AM Swift Edge didn't fire
+9/12/2010 1:17:25 AM Skipping Swift Edge
+9/12/2010 1:17:25 AM Skipping Focused Evasion
+9/12/2010 1:17:25 AM Swift Edge key pressed: 1 MOBHP: 21
+9/12/2010 1:17:26 AM Swift Edge didn't fire
+9/12/2010 1:17:26 AM Swift Edge key pressed: 1 MOBHP: 13
+9/12/2010 1:17:27 AM Swift Edge didn't fire
+9/12/2010 1:17:27 AM Swift Edge key pressed: 1 MOBHP: 7
+9/12/2010 1:17:28 AM Swift Edge didn't fire
+9/12/2010 1:17:28 AM Skipping Swift Edge
+9/12/2010 1:17:28 AM Skipping Focused Evasion
+9/12/2010 1:17:28 AM Swift Edge key pressed: 1 MOBHP: 3
+9/12/2010 1:17:29 AM Swift Edge didn't fire
+9/12/2010 1:17:29 AM Swift Edge key pressed: 1 MOBHP: 3
+9/12/2010 1:17:31 AM Swift Edge didn't fire
+9/12/2010 1:17:31 AM Exiting attack
+9/12/2010 1:17:31 AM Killed mob. Kills: 3
+9/12/2010 1:17:32 AM Looting finished
+9/12/2010 1:17:32 AM Total Exp gained: XP: 1919
+9/12/2010 1:17:34 AM Looting finished
+9/12/2010 1:17:34 AM Total Exp gained: XP: 2959
+9/12/2010 1:17:36 AM Looting finished
+9/12/2010 1:17:36 AM Total Exp gained: XP: 2959
+9/12/2010 1:17:36 AM Closest waypoint found! Dist: 7.80462216450386
+9/12/2010 1:17:36 AM Closest waypoint is 2
+9/12/2010 1:17:36 AM Waypoint system started
+9/12/2010 1:17:37 AM In targetting timer
+9/12/2010 1:17:37 AM Need new target
+9/12/2010 1:17:37 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:17:37 AM Target key pressed. NewTar: 
+9/12/2010 1:17:38 AM In targetting timer
+9/12/2010 1:17:38 AM Need new target
+9/12/2010 1:17:38 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:17:38 AM Target key pressed. NewTar: 
+9/12/2010 1:17:39 AM In targetting timer
+9/12/2010 1:17:39 AM Need new target
+9/12/2010 1:17:39 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:17:39 AM Target key pressed. NewTar: 
+9/12/2010 1:17:40 AM In targetting timer
+9/12/2010 1:17:40 AM Need new target
+9/12/2010 1:17:40 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:17:40 AM Target key pressed. NewTar: 
+9/12/2010 1:17:41 AM In targetting timer
+9/12/2010 1:17:41 AM Need new target
+9/12/2010 1:17:41 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:17:41 AM Target key pressed. NewTar: 
+9/12/2010 1:17:41 AM Waypoint system finished
+9/12/2010 1:17:41 AM Going into Preattacks
+9/12/2010 1:17:41 AM Fighting Ice Airon
+9/12/2010 1:17:41 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:42 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:43 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:17:44 AM Skipping Surprise Attack
+9/12/2010 1:17:44 AM Preattacks finished
+9/12/2010 1:17:44 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:45 AM Swift Edge didn't fire
+9/12/2010 1:17:45 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:46 AM Swift Edge didn't fire
+9/12/2010 1:17:46 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:17:47 AM Swift Edge didn't fire
+9/12/2010 1:17:47 AM Skipping Swift Edge
+9/12/2010 1:17:47 AM Focused Evasion key pressed: 3 MOBHP: 89
+9/12/2010 1:17:48 AM Focused Evasion cooldown detected
+9/12/2010 1:17:48 AM Swift Edge key pressed: 1 MOBHP: 89
+9/12/2010 1:17:49 AM Swift Edge didn't fire
+9/12/2010 1:17:49 AM Swift Edge key pressed: 1 MOBHP: 84
+9/12/2010 1:17:50 AM Swift Edge didn't fire
+9/12/2010 1:17:50 AM Swift Edge key pressed: 1 MOBHP: 84
+9/12/2010 1:17:51 AM Swift Edge didn't fire
+9/12/2010 1:17:51 AM Skipping Swift Edge
+9/12/2010 1:17:52 AM Skipping Focused Evasion
+9/12/2010 1:17:52 AM Swift Edge key pressed: 1 MOBHP: 73
+9/12/2010 1:17:53 AM Swift Edge didn't fire
+9/12/2010 1:17:53 AM Swift Edge key pressed: 1 MOBHP: 68
+9/12/2010 1:17:54 AM Swift Edge didn't fire
+9/12/2010 1:17:54 AM Swift Edge key pressed: 1 MOBHP: 61
+9/12/2010 1:17:55 AM Swift Edge didn't fire
+9/12/2010 1:17:55 AM Skipping Swift Edge
+9/12/2010 1:17:55 AM Skipping Focused Evasion
+9/12/2010 1:17:55 AM Swift Edge key pressed: 1 MOBHP: 52
+9/12/2010 1:17:56 AM Swift Edge didn't fire
+9/12/2010 1:17:56 AM Swift Edge key pressed: 1 MOBHP: 44
+9/12/2010 1:17:58 AM Swift Edge didn't fire
+9/12/2010 1:17:58 AM Swift Edge key pressed: 1 MOBHP: 39
+9/12/2010 1:17:59 AM Swift Edge didn't fire
+9/12/2010 1:17:59 AM Skipping Swift Edge
+9/12/2010 1:17:59 AM Skipping Focused Evasion
+9/12/2010 1:17:59 AM Swift Edge key pressed: 1 MOBHP: 39
+9/12/2010 1:18:00 AM Swift Edge didn't fire
+9/12/2010 1:18:00 AM Swift Edge key pressed: 1 MOBHP: 33
+9/12/2010 1:18:01 AM Swift Edge didn't fire
+9/12/2010 1:18:01 AM Swift Edge key pressed: 1 MOBHP: 28
+9/12/2010 1:18:02 AM Swift Edge didn't fire
+9/12/2010 1:18:02 AM Skipping Swift Edge
+9/12/2010 1:18:02 AM Skipping Focused Evasion
+9/12/2010 1:18:03 AM Swift Edge key pressed: 1 MOBHP: 23
+9/12/2010 1:18:04 AM Swift Edge didn't fire
+9/12/2010 1:18:04 AM Swift Edge key pressed: 1 MOBHP: 14
+9/12/2010 1:18:05 AM Swift Edge didn't fire
+9/12/2010 1:18:05 AM Swift Edge key pressed: 1 MOBHP: 6
+9/12/2010 1:18:06 AM Swift Edge didn't fire
+9/12/2010 1:18:06 AM Exiting attack
+9/12/2010 1:18:06 AM Killed mob. Kills: 4
+9/12/2010 1:18:08 AM Looting finished
+9/12/2010 1:18:08 AM Total Exp gained: XP: 2959
+9/12/2010 1:18:09 AM Looting finished
+9/12/2010 1:18:09 AM Total Exp gained: XP: 2959
+9/12/2010 1:18:11 AM Looting finished
+9/12/2010 1:18:11 AM Total Exp gained: XP: 2959
+9/12/2010 1:18:11 AM HP Resting
+9/12/2010 1:18:11 AM Got player entity
+9/12/2010 1:18:24 AM Done resting
+9/12/2010 1:18:26 AM Closest waypoint found! Dist: 16.4644604409784
+9/12/2010 1:18:26 AM Closest waypoint is 2
+9/12/2010 1:18:26 AM Waypoint system started
+9/12/2010 1:18:27 AM In targetting timer
+9/12/2010 1:18:27 AM Need new target
+9/12/2010 1:18:27 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:27 AM Target key pressed. NewTar: 
+9/12/2010 1:18:28 AM In targetting timer
+9/12/2010 1:18:28 AM Need new target
+9/12/2010 1:18:28 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:28 AM Target key pressed. NewTar: 
+9/12/2010 1:18:29 AM In targetting timer
+9/12/2010 1:18:29 AM Need new target
+9/12/2010 1:18:29 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:29 AM Target key pressed. NewTar: 
+9/12/2010 1:18:30 AM In targetting timer
+9/12/2010 1:18:30 AM Need new target
+9/12/2010 1:18:30 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:30 AM Target key pressed. NewTar: 
+9/12/2010 1:18:31 AM In targetting timer
+9/12/2010 1:18:31 AM Need new target
+9/12/2010 1:18:31 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:31 AM Target key pressed. NewTar: 
+9/12/2010 1:18:32 AM In targetting timer
+9/12/2010 1:18:32 AM Need new target
+9/12/2010 1:18:32 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:32 AM Target key pressed. NewTar: 
+9/12/2010 1:18:33 AM In targetting timer
+9/12/2010 1:18:33 AM Need new target
+9/12/2010 1:18:33 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:33 AM Target key pressed. NewTar: 
+9/12/2010 1:18:34 AM In targetting timer
+9/12/2010 1:18:34 AM Need new target
+9/12/2010 1:18:34 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:34 AM Target key pressed. NewTar: 
+9/12/2010 1:18:35 AM In targetting timer
+9/12/2010 1:18:35 AM Need new target
+9/12/2010 1:18:35 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:35 AM Target key pressed. NewTar: 
+9/12/2010 1:18:36 AM In targetting timer
+9/12/2010 1:18:36 AM Need new target
+9/12/2010 1:18:36 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:36 AM Target key pressed. NewTar: 
+9/12/2010 1:18:37 AM In targetting timer
+9/12/2010 1:18:37 AM Need new target
+9/12/2010 1:18:37 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:37 AM Target key pressed. NewTar: 
+9/12/2010 1:18:38 AM In targetting timer
+9/12/2010 1:18:38 AM Need new target
+9/12/2010 1:18:38 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:38 AM Target key pressed. NewTar: 
+9/12/2010 1:18:39 AM In targetting timer
+9/12/2010 1:18:39 AM Need new target
+9/12/2010 1:18:39 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:39 AM Target key pressed. NewTar: 
+9/12/2010 1:18:40 AM In targetting timer
+9/12/2010 1:18:40 AM Need new target
+9/12/2010 1:18:40 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:40 AM Target key pressed. NewTar: 
+9/12/2010 1:18:41 AM In targetting timer
+9/12/2010 1:18:41 AM Need new target
+9/12/2010 1:18:41 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:41 AM Target key pressed. NewTar: 
+9/12/2010 1:18:42 AM In targetting timer
+9/12/2010 1:18:42 AM Need new target
+9/12/2010 1:18:42 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:42 AM Target key pressed. NewTar: 
+9/12/2010 1:18:43 AM In targetting timer
+9/12/2010 1:18:43 AM Need new target
+9/12/2010 1:18:43 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:43 AM Target key pressed. NewTar: 
+9/12/2010 1:18:44 AM In targetting timer
+9/12/2010 1:18:44 AM Need new target
+9/12/2010 1:18:44 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:44 AM Target key pressed. NewTar: 
+9/12/2010 1:18:45 AM In targetting timer
+9/12/2010 1:18:45 AM Need new target
+9/12/2010 1:18:45 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:45 AM Target key pressed. NewTar: 
+9/12/2010 1:18:46 AM In targetting timer
+9/12/2010 1:18:46 AM Need new target
+9/12/2010 1:18:46 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:18:47 AM Target key pressed. NewTar: 
+9/12/2010 1:18:47 AM Waypoint system finished
+9/12/2010 1:18:47 AM Going into Preattacks
+9/12/2010 1:18:47 AM Fighting Frost Slink
+9/12/2010 1:18:47 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:18:47 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:18:48 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:18:49 AM Skipping Surprise Attack
+9/12/2010 1:18:49 AM Preattacks finished
+9/12/2010 1:18:49 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:18:50 AM Swift Edge didn't fire
+9/12/2010 1:18:50 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:18:51 AM Swift Edge didn't fire
+9/12/2010 1:18:51 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:18:52 AM Swift Edge didn't fire
+9/12/2010 1:18:52 AM Skipping Swift Edge
+9/12/2010 1:18:52 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:18:53 AM Focused Evasion cooldown detected
+9/12/2010 1:18:53 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:18:54 AM Swift Edge didn't fire
+9/12/2010 1:18:54 AM Swift Edge key pressed: 1 MOBHP: 90
+9/12/2010 1:18:55 AM Swift Edge didn't fire
+9/12/2010 1:18:55 AM Swift Edge key pressed: 1 MOBHP: 83
+9/12/2010 1:18:57 AM Swift Edge didn't fire
+9/12/2010 1:18:57 AM Skipping Swift Edge
+9/12/2010 1:18:57 AM Skipping Focused Evasion
+9/12/2010 1:18:57 AM Swift Edge key pressed: 1 MOBHP: 77
+9/12/2010 1:18:58 AM Swift Edge didn't fire
+9/12/2010 1:18:58 AM Swift Edge key pressed: 1 MOBHP: 77
+9/12/2010 1:18:59 AM Swift Edge didn't fire
+9/12/2010 1:18:59 AM Swift Edge key pressed: 1 MOBHP: 72
+9/12/2010 1:19:00 AM Swift Edge didn't fire
+9/12/2010 1:19:00 AM Skipping Swift Edge
+9/12/2010 1:19:00 AM Skipping Focused Evasion
+9/12/2010 1:19:00 AM Swift Edge key pressed: 1 MOBHP: 66
+9/12/2010 1:19:01 AM Swift Edge didn't fire
+9/12/2010 1:19:01 AM Swift Edge key pressed: 1 MOBHP: 62
+9/12/2010 1:19:03 AM Swift Edge didn't fire
+9/12/2010 1:19:03 AM Swift Edge key pressed: 1 MOBHP: 52
+9/12/2010 1:19:04 AM Swift Edge didn't fire
+9/12/2010 1:19:04 AM Skipping Swift Edge
+9/12/2010 1:19:04 AM Skipping Focused Evasion
+9/12/2010 1:19:04 AM Swift Edge key pressed: 1 MOBHP: 44
+9/12/2010 1:19:05 AM Swift Edge didn't fire
+9/12/2010 1:19:05 AM Swift Edge key pressed: 1 MOBHP: 40
+9/12/2010 1:19:06 AM Swift Edge didn't fire
+9/12/2010 1:19:06 AM Swift Edge key pressed: 1 MOBHP: 35
+9/12/2010 1:19:07 AM Swift Edge didn't fire
+9/12/2010 1:19:07 AM Skipping Swift Edge
+9/12/2010 1:19:07 AM Skipping Focused Evasion
+9/12/2010 1:19:08 AM Swift Edge key pressed: 1 MOBHP: 35
+9/12/2010 1:19:09 AM Swift Edge didn't fire
+9/12/2010 1:19:09 AM Swift Edge key pressed: 1 MOBHP: 29
+9/12/2010 1:19:10 AM Swift Edge didn't fire
+9/12/2010 1:19:10 AM Swift Edge key pressed: 1 MOBHP: 23
+9/12/2010 1:19:11 AM Swift Edge didn't fire
+9/12/2010 1:19:11 AM Skipping Swift Edge
+9/12/2010 1:19:11 AM Skipping Focused Evasion
+9/12/2010 1:19:11 AM Swift Edge key pressed: 1 MOBHP: 5
+9/12/2010 1:19:12 AM Swift Edge didn't fire
+9/12/2010 1:19:12 AM Exiting attack
+9/12/2010 1:19:12 AM Killed mob. Kills: 5
+9/12/2010 1:19:14 AM Looting finished
+9/12/2010 1:19:14 AM Total Exp gained: XP: 3999
+9/12/2010 1:19:16 AM Looting finished
+9/12/2010 1:19:16 AM Total Exp gained: XP: 3999
+9/12/2010 1:19:17 AM Looting finished
+9/12/2010 1:19:17 AM Total Exp gained: XP: 5039
+9/12/2010 1:19:17 AM HP Resting
+9/12/2010 1:19:17 AM Got player entity
+9/12/2010 1:19:31 AM Done resting
+9/12/2010 1:19:32 AM Closest waypoint found! Dist: 9.61715248513684
+9/12/2010 1:19:32 AM Closest waypoint is 4
+9/12/2010 1:19:32 AM Waypoint system started
+9/12/2010 1:19:33 AM Waypoint system finished
+9/12/2010 1:19:33 AM Going into Preattacks
+9/12/2010 1:19:33 AM Fighting Frost Slink
+9/12/2010 1:19:33 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:19:34 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:19:35 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:19:35 AM Skipping Surprise Attack
+9/12/2010 1:19:35 AM Preattacks finished
+9/12/2010 1:19:35 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:19:37 AM Swift Edge didn't fire
+9/12/2010 1:19:37 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:19:38 AM Swift Edge didn't fire
+9/12/2010 1:19:38 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:19:39 AM Swift Edge didn't fire
+9/12/2010 1:19:39 AM Skipping Swift Edge
+9/12/2010 1:19:39 AM Focused Evasion key pressed: 3 MOBHP: 90
+9/12/2010 1:19:40 AM Focused Evasion cooldown detected
+9/12/2010 1:19:40 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:19:41 AM Swift Edge didn't fire
+9/12/2010 1:19:41 AM Swift Edge key pressed: 1 MOBHP: 80
+9/12/2010 1:19:42 AM Swift Edge didn't fire
+9/12/2010 1:19:42 AM Swift Edge key pressed: 1 MOBHP: 80
+9/12/2010 1:19:43 AM Swift Edge didn't fire
+9/12/2010 1:19:43 AM Skipping Swift Edge
+9/12/2010 1:19:43 AM Skipping Focused Evasion
+9/12/2010 1:19:43 AM Swift Edge key pressed: 1 MOBHP: 74
+9/12/2010 1:19:44 AM Swift Edge didn't fire
+9/12/2010 1:19:44 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:19:46 AM Swift Edge didn't fire
+9/12/2010 1:19:46 AM Swift Edge key pressed: 1 MOBHP: 66
+9/12/2010 1:19:47 AM Swift Edge didn't fire
+9/12/2010 1:19:47 AM Skipping Swift Edge
+9/12/2010 1:19:47 AM Skipping Focused Evasion
+9/12/2010 1:19:47 AM Swift Edge key pressed: 1 MOBHP: 57
+9/12/2010 1:19:48 AM Swift Edge didn't fire
+9/12/2010 1:19:48 AM Swift Edge key pressed: 1 MOBHP: 48
+9/12/2010 1:19:49 AM Swift Edge didn't fire
+9/12/2010 1:19:49 AM Swift Edge key pressed: 1 MOBHP: 43
+9/12/2010 1:19:50 AM Swift Edge didn't fire
+9/12/2010 1:19:50 AM Skipping Swift Edge
+9/12/2010 1:19:50 AM Skipping Focused Evasion
+9/12/2010 1:19:51 AM Swift Edge key pressed: 1 MOBHP: 38
+9/12/2010 1:19:52 AM Swift Edge didn't fire
+9/12/2010 1:19:52 AM Swift Edge key pressed: 1 MOBHP: 38
+9/12/2010 1:19:53 AM Swift Edge didn't fire
+9/12/2010 1:19:53 AM Swift Edge key pressed: 1 MOBHP: 31
+9/12/2010 1:19:54 AM Swift Edge didn't fire
+9/12/2010 1:19:54 AM Skipping Swift Edge
+9/12/2010 1:19:54 AM Skipping Focused Evasion
+9/12/2010 1:19:54 AM Swift Edge key pressed: 1 MOBHP: 26
+9/12/2010 1:19:55 AM Swift Edge didn't fire
+9/12/2010 1:19:55 AM Swift Edge key pressed: 1 MOBHP: 17
+9/12/2010 1:19:56 AM Swift Edge didn't fire
+9/12/2010 1:19:57 AM Swift Edge key pressed: 1 MOBHP: 8
+9/12/2010 1:19:58 AM Swift Edge didn't fire
+9/12/2010 1:19:58 AM Skipping Swift Edge
+9/12/2010 1:19:58 AM Skipping Focused Evasion
+9/12/2010 1:19:58 AM Swift Edge key pressed: 1 MOBHP: 4
+9/12/2010 1:19:59 AM Swift Edge didn't fire
+9/12/2010 1:19:59 AM Exiting attack
+9/12/2010 1:19:59 AM Killed mob. Kills: 6
+9/12/2010 1:20:01 AM Looting finished
+9/12/2010 1:20:01 AM Total Exp gained: XP: 5039
+9/12/2010 1:20:02 AM Looting finished
+9/12/2010 1:20:02 AM Total Exp gained: XP: 6079
+9/12/2010 1:20:04 AM Looting finished
+9/12/2010 1:20:04 AM Total Exp gained: XP: 6079
+9/12/2010 1:20:04 AM HP Resting
+9/12/2010 1:20:04 AM Got player entity
+9/12/2010 1:20:19 AM Done resting
+9/12/2010 1:20:20 AM Closest waypoint found! Dist: 7.59034707333856
+9/12/2010 1:20:20 AM Closest waypoint is 2
+9/12/2010 1:20:20 AM Waypoint system started
+9/12/2010 1:20:21 AM Waypoint system finished
+9/12/2010 1:20:21 AM Going into Preattacks
+9/12/2010 1:20:21 AM Fighting Ice Airon
+9/12/2010 1:20:21 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:20:21 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:20:22 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:20:23 AM Skipping Surprise Attack
+9/12/2010 1:20:23 AM Preattacks finished
+9/12/2010 1:20:23 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:20:24 AM Swift Edge didn't fire
+9/12/2010 1:20:24 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:20:25 AM Swift Edge didn't fire
+9/12/2010 1:20:25 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:20:26 AM Swift Edge didn't fire
+9/12/2010 1:20:26 AM Skipping Swift Edge
+9/12/2010 1:20:26 AM Focused Evasion key pressed: 3 MOBHP: 90
+9/12/2010 1:20:27 AM Focused Evasion cooldown detected
+9/12/2010 1:20:27 AM Swift Edge key pressed: 1 MOBHP: 90
+9/12/2010 1:20:28 AM Swift Edge didn't fire
+9/12/2010 1:20:28 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:20:30 AM Swift Edge didn't fire
+9/12/2010 1:20:30 AM Swift Edge key pressed: 1 MOBHP: 79
+9/12/2010 1:20:31 AM Swift Edge didn't fire
+9/12/2010 1:20:31 AM Skipping Swift Edge
+9/12/2010 1:20:31 AM Skipping Focused Evasion
+9/12/2010 1:20:31 AM Swift Edge key pressed: 1 MOBHP: 79
+9/12/2010 1:20:32 AM Swift Edge didn't fire
+9/12/2010 1:20:32 AM Swift Edge key pressed: 1 MOBHP: 75
+9/12/2010 1:20:33 AM Swift Edge didn't fire
+9/12/2010 1:20:33 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:20:34 AM Swift Edge didn't fire
+9/12/2010 1:20:34 AM Skipping Swift Edge
+9/12/2010 1:20:34 AM Skipping Focused Evasion
+9/12/2010 1:20:34 AM Swift Edge key pressed: 1 MOBHP: 62
+9/12/2010 1:20:36 AM Swift Edge didn't fire
+9/12/2010 1:20:36 AM Swift Edge key pressed: 1 MOBHP: 53
+9/12/2010 1:20:37 AM Swift Edge didn't fire
+9/12/2010 1:20:37 AM Swift Edge key pressed: 1 MOBHP: 47
+9/12/2010 1:20:38 AM Swift Edge didn't fire
+9/12/2010 1:20:38 AM Skipping Swift Edge
+9/12/2010 1:20:38 AM Skipping Focused Evasion
+9/12/2010 1:20:38 AM Swift Edge key pressed: 1 MOBHP: 41
+9/12/2010 1:20:39 AM Swift Edge didn't fire
+9/12/2010 1:20:39 AM Swift Edge key pressed: 1 MOBHP: 41
+9/12/2010 1:20:40 AM Swift Edge didn't fire
+9/12/2010 1:20:40 AM Swift Edge key pressed: 1 MOBHP: 31
+9/12/2010 1:20:42 AM Swift Edge didn't fire
+9/12/2010 1:20:42 AM Skipping Swift Edge
+9/12/2010 1:20:42 AM Skipping Focused Evasion
+9/12/2010 1:20:42 AM Swift Edge key pressed: 1 MOBHP: 20
+9/12/2010 1:20:43 AM Swift Edge didn't fire
+9/12/2010 1:20:43 AM Swift Edge key pressed: 1 MOBHP: 12
+9/12/2010 1:20:44 AM Swift Edge didn't fire
+9/12/2010 1:20:44 AM Swift Edge key pressed: 1 MOBHP: 5
+9/12/2010 1:20:45 AM Swift Edge didn't fire
+9/12/2010 1:20:45 AM Exiting attack
+9/12/2010 1:20:45 AM Killed mob. Kills: 7
+9/12/2010 1:20:47 AM Looting finished
+9/12/2010 1:20:47 AM Total Exp gained: XP: 6079
+9/12/2010 1:20:48 AM Looting finished
+9/12/2010 1:20:48 AM Total Exp gained: XP: 6079
+9/12/2010 1:20:50 AM Looting finished
+9/12/2010 1:20:50 AM Total Exp gained: XP: 6079
+9/12/2010 1:20:50 AM HP Resting
+9/12/2010 1:20:50 AM Got player entity
+9/12/2010 1:21:00 AM Done resting
+9/12/2010 1:21:02 AM Closest waypoint found! Dist: 14.2315454283842
+9/12/2010 1:21:02 AM Closest waypoint is 2
+9/12/2010 1:21:02 AM Waypoint system started
+9/12/2010 1:21:04 AM In targetting timer
+9/12/2010 1:21:04 AM Need new target
+9/12/2010 1:21:04 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:21:04 AM Target key pressed. NewTar: 
+9/12/2010 1:21:05 AM In targetting timer
+9/12/2010 1:21:05 AM Need new target
+9/12/2010 1:21:05 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:21:05 AM Target key pressed. NewTar: 
+9/12/2010 1:21:06 AM In targetting timer
+9/12/2010 1:21:06 AM Need new target
+9/12/2010 1:21:06 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:21:06 AM Target key pressed. NewTar: 
+9/12/2010 1:21:06 AM Waypoint system finished
+9/12/2010 1:21:06 AM Going into Preattacks
+9/12/2010 1:21:06 AM Fighting Frost Slink
+9/12/2010 1:21:06 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:21:06 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:21:07 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:21:08 AM Skipping Surprise Attack
+9/12/2010 1:21:08 AM Preattacks finished
+9/12/2010 1:21:08 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:21:09 AM Swift Edge didn't fire
+9/12/2010 1:21:09 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:21:10 AM Swift Edge didn't fire
+9/12/2010 1:21:10 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:21:11 AM Swift Edge didn't fire
+9/12/2010 1:21:11 AM Skipping Swift Edge
+9/12/2010 1:21:11 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:21:12 AM Focused Evasion cooldown detected
+9/12/2010 1:21:12 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:21:13 AM Swift Edge didn't fire
+9/12/2010 1:21:13 AM Swift Edge key pressed: 1 MOBHP: 89
+9/12/2010 1:21:15 AM Swift Edge didn't fire
+9/12/2010 1:21:15 AM Swift Edge key pressed: 1 MOBHP: 80
+9/12/2010 1:21:16 AM Swift Edge didn't fire
+9/12/2010 1:21:16 AM Skipping Swift Edge
+9/12/2010 1:21:16 AM Skipping Focused Evasion
+9/12/2010 1:21:16 AM Swift Edge key pressed: 1 MOBHP: 76
+9/12/2010 1:21:17 AM Swift Edge didn't fire
+9/12/2010 1:21:17 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:21:18 AM Swift Edge didn't fire
+9/12/2010 1:21:18 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:21:19 AM Swift Edge didn't fire
+9/12/2010 1:21:19 AM Skipping Swift Edge
+9/12/2010 1:21:19 AM Skipping Focused Evasion
+9/12/2010 1:21:19 AM Swift Edge key pressed: 1 MOBHP: 65
+9/12/2010 1:21:21 AM Swift Edge didn't fire
+9/12/2010 1:21:21 AM Swift Edge key pressed: 1 MOBHP: 59
+9/12/2010 1:21:22 AM Swift Edge didn't fire
+9/12/2010 1:21:22 AM Swift Edge key pressed: 1 MOBHP: 51
+9/12/2010 1:21:23 AM Swift Edge didn't fire
+9/12/2010 1:21:23 AM Skipping Swift Edge
+9/12/2010 1:21:23 AM Skipping Focused Evasion
+9/12/2010 1:21:23 AM Swift Edge key pressed: 1 MOBHP: 43
+9/12/2010 1:21:24 AM Swift Edge didn't fire
+9/12/2010 1:21:24 AM Swift Edge key pressed: 1 MOBHP: 38
+9/12/2010 1:21:25 AM Swift Edge didn't fire
+9/12/2010 1:21:25 AM Swift Edge key pressed: 1 MOBHP: 34
+9/12/2010 1:21:27 AM Swift Edge didn't fire
+9/12/2010 1:21:27 AM Skipping Swift Edge
+9/12/2010 1:21:27 AM Skipping Focused Evasion
+9/12/2010 1:21:27 AM Swift Edge key pressed: 1 MOBHP: 34
+9/12/2010 1:21:28 AM Swift Edge didn't fire
+9/12/2010 1:21:28 AM Swift Edge key pressed: 1 MOBHP: 29
+9/12/2010 1:21:29 AM Swift Edge didn't fire
+9/12/2010 1:21:29 AM Swift Edge key pressed: 1 MOBHP: 24
+9/12/2010 1:21:30 AM Swift Edge didn't fire
+9/12/2010 1:21:30 AM Skipping Swift Edge
+9/12/2010 1:21:30 AM Skipping Focused Evasion
+9/12/2010 1:21:30 AM Swift Edge key pressed: 1 MOBHP: 15
+9/12/2010 1:21:31 AM Swift Edge didn't fire
+9/12/2010 1:21:32 AM Swift Edge key pressed: 1 MOBHP: 7
+9/12/2010 1:21:33 AM Swift Edge didn't fire
+9/12/2010 1:21:33 AM Swift Edge key pressed: 1 MOBHP: 7
+9/12/2010 1:21:34 AM Swift Edge didn't fire
+9/12/2010 1:21:34 AM Skipping Swift Edge
+9/12/2010 1:21:34 AM Skipping Focused Evasion
+9/12/2010 1:21:34 AM Swift Edge key pressed: 1 MOBHP: 2
+9/12/2010 1:21:35 AM Swift Edge didn't fire
+9/12/2010 1:21:35 AM Exiting attack
+9/12/2010 1:21:35 AM Killed mob. Kills: 8
+9/12/2010 1:21:37 AM Looting finished
+9/12/2010 1:21:37 AM Total Exp gained: XP: 7119
+9/12/2010 1:21:38 AM Looting finished
+9/12/2010 1:21:38 AM Total Exp gained: XP: 8159
+9/12/2010 1:21:40 AM Looting finished
+9/12/2010 1:21:40 AM Total Exp gained: XP: 8159
+9/12/2010 1:21:40 AM HP Resting
+9/12/2010 1:21:40 AM Got player entity
+9/12/2010 1:21:55 AM Done resting
+9/12/2010 1:21:56 AM Closest waypoint found! Dist: 16.4091301070592
+9/12/2010 1:21:56 AM Closest waypoint is 4
+9/12/2010 1:21:56 AM Waypoint system started
+9/12/2010 1:21:58 AM Waypoint system finished
+9/12/2010 1:21:58 AM Going into Preattacks
+9/12/2010 1:21:58 AM Fighting Frost Slink
+9/12/2010 1:21:58 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:21:58 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:21:59 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:22:00 AM Skipping Surprise Attack
+9/12/2010 1:22:00 AM Preattacks finished
+9/12/2010 1:22:00 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:01 AM Swift Edge didn't fire
+9/12/2010 1:22:01 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:02 AM Swift Edge didn't fire
+9/12/2010 1:22:02 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:03 AM Swift Edge didn't fire
+9/12/2010 1:22:03 AM Skipping Swift Edge
+9/12/2010 1:22:03 AM Focused Evasion key pressed: 3 MOBHP: 89
+9/12/2010 1:22:04 AM Focused Evasion cooldown detected
+9/12/2010 1:22:04 AM Swift Edge key pressed: 1 MOBHP: 89
+9/12/2010 1:22:05 AM Swift Edge didn't fire
+9/12/2010 1:22:05 AM Swift Edge key pressed: 1 MOBHP: 83
+9/12/2010 1:22:06 AM Swift Edge didn't fire
+9/12/2010 1:22:06 AM Swift Edge key pressed: 1 MOBHP: 83
+9/12/2010 1:22:08 AM Swift Edge didn't fire
+9/12/2010 1:22:08 AM Skipping Swift Edge
+9/12/2010 1:22:08 AM Skipping Focused Evasion
+9/12/2010 1:22:08 AM Swift Edge key pressed: 1 MOBHP: 78
+9/12/2010 1:22:09 AM Swift Edge didn't fire
+9/12/2010 1:22:09 AM Swift Edge key pressed: 1 MOBHP: 74
+9/12/2010 1:22:10 AM Swift Edge didn't fire
+9/12/2010 1:22:10 AM Swift Edge key pressed: 1 MOBHP: 69
+9/12/2010 1:22:11 AM Swift Edge didn't fire
+9/12/2010 1:22:11 AM Skipping Swift Edge
+9/12/2010 1:22:11 AM Skipping Focused Evasion
+9/12/2010 1:22:11 AM Swift Edge key pressed: 1 MOBHP: 59
+9/12/2010 1:22:13 AM Swift Edge didn't fire
+9/12/2010 1:22:13 AM Swift Edge key pressed: 1 MOBHP: 52
+9/12/2010 1:22:14 AM Swift Edge didn't fire
+9/12/2010 1:22:14 AM Swift Edge key pressed: 1 MOBHP: 41
+9/12/2010 1:22:15 AM Swift Edge didn't fire
+9/12/2010 1:22:15 AM Skipping Swift Edge
+9/12/2010 1:22:15 AM Skipping Focused Evasion
+9/12/2010 1:22:15 AM Swift Edge key pressed: 1 MOBHP: 37
+9/12/2010 1:22:16 AM Swift Edge didn't fire
+9/12/2010 1:22:16 AM Swift Edge key pressed: 1 MOBHP: 37
+9/12/2010 1:22:17 AM Swift Edge didn't fire
+9/12/2010 1:22:17 AM Swift Edge key pressed: 1 MOBHP: 31
+9/12/2010 1:22:18 AM Swift Edge didn't fire
+9/12/2010 1:22:18 AM Skipping Swift Edge
+9/12/2010 1:22:19 AM Skipping Focused Evasion
+9/12/2010 1:22:19 AM Swift Edge key pressed: 1 MOBHP: 27
+9/12/2010 1:22:20 AM Swift Edge didn't fire
+9/12/2010 1:22:20 AM Swift Edge key pressed: 1 MOBHP: 18
+9/12/2010 1:22:21 AM Swift Edge didn't fire
+9/12/2010 1:22:21 AM Exiting attack
+9/12/2010 1:22:21 AM Killed mob. Kills: 9
+9/12/2010 1:22:23 AM Looting finished
+9/12/2010 1:22:23 AM Total Exp gained: XP: 8159
+9/12/2010 1:22:24 AM Looting finished
+9/12/2010 1:22:24 AM Total Exp gained: XP: 8159
+9/12/2010 1:22:26 AM Looting finished
+9/12/2010 1:22:26 AM Total Exp gained: XP: 8159
+9/12/2010 1:22:26 AM Closest waypoint found! Dist: 1.63040847055709
+9/12/2010 1:22:26 AM Closest waypoint is 3
+9/12/2010 1:22:26 AM Waypoint system started
+9/12/2010 1:22:28 AM In targetting timer
+9/12/2010 1:22:28 AM Need new target
+9/12/2010 1:22:28 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:22:28 AM Target key pressed. NewTar: 
+9/12/2010 1:22:29 AM In targetting timer
+9/12/2010 1:22:29 AM Need new target
+9/12/2010 1:22:29 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:22:29 AM Target key pressed. NewTar: 
+9/12/2010 1:22:29 AM Waypoint system finished
+9/12/2010 1:22:29 AM Going into Preattacks
+9/12/2010 1:22:29 AM Fighting Ice Airon
+9/12/2010 1:22:29 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:22:30 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:22:31 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:22:31 AM Skipping Surprise Attack
+9/12/2010 1:22:31 AM Preattacks finished
+9/12/2010 1:22:31 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:33 AM Swift Edge didn't fire
+9/12/2010 1:22:33 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:34 AM Swift Edge didn't fire
+9/12/2010 1:22:34 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:35 AM Swift Edge didn't fire
+9/12/2010 1:22:35 AM Skipping Swift Edge
+9/12/2010 1:22:35 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:22:36 AM Focused Evasion cooldown detected
+9/12/2010 1:22:36 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:22:37 AM Swift Edge didn't fire
+9/12/2010 1:22:37 AM Swift Edge key pressed: 1 MOBHP: 89
+9/12/2010 1:22:38 AM Swift Edge didn't fire
+9/12/2010 1:22:38 AM Swift Edge key pressed: 1 MOBHP: 81
+9/12/2010 1:22:39 AM Swift Edge didn't fire
+9/12/2010 1:22:39 AM Skipping Swift Edge
+9/12/2010 1:22:39 AM Skipping Focused Evasion
+9/12/2010 1:22:39 AM Swift Edge key pressed: 1 MOBHP: 75
+9/12/2010 1:22:40 AM Swift Edge didn't fire
+9/12/2010 1:22:40 AM Swift Edge key pressed: 1 MOBHP: 71
+9/12/2010 1:22:42 AM Swift Edge didn't fire
+9/12/2010 1:22:42 AM Swift Edge key pressed: 1 MOBHP: 71
+9/12/2010 1:22:43 AM Swift Edge didn't fire
+9/12/2010 1:22:43 AM Skipping Swift Edge
+9/12/2010 1:22:43 AM Skipping Focused Evasion
+9/12/2010 1:22:43 AM Swift Edge key pressed: 1 MOBHP: 66
+9/12/2010 1:22:44 AM Swift Edge didn't fire
+9/12/2010 1:22:44 AM Swift Edge key pressed: 1 MOBHP: 61
+9/12/2010 1:22:45 AM Swift Edge didn't fire
+9/12/2010 1:22:45 AM Swift Edge key pressed: 1 MOBHP: 53
+9/12/2010 1:22:46 AM Swift Edge didn't fire
+9/12/2010 1:22:46 AM Skipping Swift Edge
+9/12/2010 1:22:46 AM Skipping Focused Evasion
+9/12/2010 1:22:47 AM Swift Edge key pressed: 1 MOBHP: 44
+9/12/2010 1:22:48 AM Swift Edge didn't fire
+9/12/2010 1:22:48 AM Swift Edge key pressed: 1 MOBHP: 33
+9/12/2010 1:22:49 AM Swift Edge didn't fire
+9/12/2010 1:22:49 AM Swift Edge key pressed: 1 MOBHP: 28
+9/12/2010 1:22:50 AM Swift Edge didn't fire
+9/12/2010 1:22:50 AM Skipping Swift Edge
+9/12/2010 1:22:50 AM Skipping Focused Evasion
+9/12/2010 1:22:50 AM Swift Edge key pressed: 1 MOBHP: 28
+9/12/2010 1:22:51 AM Swift Edge didn't fire
+9/12/2010 1:22:51 AM Swift Edge key pressed: 1 MOBHP: 23
+9/12/2010 1:22:52 AM Swift Edge didn't fire
+9/12/2010 1:22:52 AM Swift Edge key pressed: 1 MOBHP: 19
+9/12/2010 1:22:54 AM Swift Edge didn't fire
+9/12/2010 1:22:54 AM Skipping Swift Edge
+9/12/2010 1:22:54 AM Skipping Focused Evasion
+9/12/2010 1:22:54 AM Swift Edge key pressed: 1 MOBHP: 11
+9/12/2010 1:22:55 AM Swift Edge didn't fire
+9/12/2010 1:22:55 AM Swift Edge key pressed: 1 MOBHP: 2
+9/12/2010 1:22:56 AM Swift Edge didn't fire
+9/12/2010 1:22:56 AM Exiting attack
+9/12/2010 1:22:56 AM Killed mob. Kills: 10
+9/12/2010 1:22:58 AM Looting finished
+9/12/2010 1:22:58 AM Total Exp gained: XP: 9199
+9/12/2010 1:22:59 AM Looting finished
+9/12/2010 1:22:59 AM Total Exp gained: XP: 9199
+9/12/2010 1:23:01 AM Looting finished
+9/12/2010 1:23:01 AM Total Exp gained: XP: 9199
+9/12/2010 1:23:01 AM HP Resting
+9/12/2010 1:23:01 AM Got player entity
+9/12/2010 1:23:19 AM Done resting
+9/12/2010 1:23:21 AM Closest waypoint found! Dist: 21.2057195554844
+9/12/2010 1:23:21 AM Closest waypoint is 2
+9/12/2010 1:23:21 AM Waypoint system started
+9/12/2010 1:23:22 AM In targetting timer
+9/12/2010 1:23:22 AM Need new target
+9/12/2010 1:23:22 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:22 AM Target key pressed. NewTar: 
+9/12/2010 1:23:23 AM In targetting timer
+9/12/2010 1:23:23 AM Need new target
+9/12/2010 1:23:23 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:23 AM Target key pressed. NewTar: 
+9/12/2010 1:23:24 AM In targetting timer
+9/12/2010 1:23:24 AM Need new target
+9/12/2010 1:23:24 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:24 AM Target key pressed. NewTar: 
+9/12/2010 1:23:25 AM In targetting timer
+9/12/2010 1:23:25 AM Need new target
+9/12/2010 1:23:25 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:25 AM Target key pressed. NewTar: 
+9/12/2010 1:23:26 AM In targetting timer
+9/12/2010 1:23:26 AM Need new target
+9/12/2010 1:23:26 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:26 AM Target key pressed. NewTar: 
+9/12/2010 1:23:27 AM In targetting timer
+9/12/2010 1:23:27 AM Need new target
+9/12/2010 1:23:27 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:27 AM Target key pressed. NewTar: 
+9/12/2010 1:23:28 AM In targetting timer
+9/12/2010 1:23:28 AM Need new target
+9/12/2010 1:23:28 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:28 AM Target key pressed. NewTar: 
+9/12/2010 1:23:30 AM In targetting timer
+9/12/2010 1:23:30 AM Need new target
+9/12/2010 1:23:30 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:30 AM Target key pressed. NewTar: 
+9/12/2010 1:23:31 AM In targetting timer
+9/12/2010 1:23:31 AM Need new target
+9/12/2010 1:23:31 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:23:31 AM Target key pressed. NewTar: 
+9/12/2010 1:23:31 AM Waypoint system finished
+9/12/2010 1:23:31 AM Going into Preattacks
+9/12/2010 1:23:31 AM Fighting Frost Slink
+9/12/2010 1:23:31 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:23:31 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:23:32 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:23:33 AM Skipping Surprise Attack
+9/12/2010 1:23:33 AM Preattacks finished
+9/12/2010 1:23:33 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:23:34 AM Swift Edge didn't fire
+9/12/2010 1:23:34 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:23:35 AM Swift Edge didn't fire
+9/12/2010 1:23:35 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:23:36 AM Swift Edge didn't fire
+9/12/2010 1:23:36 AM Skipping Swift Edge
+9/12/2010 1:23:36 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:23:37 AM Focused Evasion cooldown detected
+9/12/2010 1:23:37 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:23:38 AM Swift Edge didn't fire
+9/12/2010 1:23:38 AM Swift Edge key pressed: 1 MOBHP: 89
+9/12/2010 1:23:39 AM Swift Edge didn't fire
+9/12/2010 1:23:39 AM Swift Edge key pressed: 1 MOBHP: 81
+9/12/2010 1:23:41 AM Swift Edge didn't fire
+9/12/2010 1:23:41 AM Skipping Swift Edge
+9/12/2010 1:23:41 AM Skipping Focused Evasion
+9/12/2010 1:23:41 AM Swift Edge key pressed: 1 MOBHP: 77
+9/12/2010 1:23:42 AM Swift Edge didn't fire
+9/12/2010 1:23:42 AM Swift Edge key pressed: 1 MOBHP: 71
+9/12/2010 1:23:43 AM Swift Edge didn't fire
+9/12/2010 1:23:43 AM Swift Edge key pressed: 1 MOBHP: 71
+9/12/2010 1:23:44 AM Swift Edge didn't fire
+9/12/2010 1:23:44 AM Skipping Swift Edge
+9/12/2010 1:23:44 AM Skipping Focused Evasion
+9/12/2010 1:23:44 AM Swift Edge key pressed: 1 MOBHP: 66
+9/12/2010 1:23:46 AM Swift Edge didn't fire
+9/12/2010 1:23:46 AM Swift Edge key pressed: 1 MOBHP: 62
+9/12/2010 1:23:47 AM Swift Edge didn't fire
+9/12/2010 1:23:47 AM Swift Edge key pressed: 1 MOBHP: 53
+9/12/2010 1:23:48 AM Swift Edge didn't fire
+9/12/2010 1:23:48 AM Skipping Swift Edge
+9/12/2010 1:23:48 AM Skipping Focused Evasion
+9/12/2010 1:23:48 AM Swift Edge key pressed: 1 MOBHP: 53
+9/12/2010 1:23:49 AM Swift Edge didn't fire
+9/12/2010 1:23:49 AM Swift Edge key pressed: 1 MOBHP: 49
+9/12/2010 1:23:50 AM Swift Edge didn't fire
+9/12/2010 1:23:50 AM Swift Edge key pressed: 1 MOBHP: 24
+9/12/2010 1:23:51 AM Swift Edge didn't fire
+9/12/2010 1:23:51 AM Skipping Swift Edge
+9/12/2010 1:23:52 AM Skipping Focused Evasion
+9/12/2010 1:23:52 AM Swift Edge key pressed: 1 MOBHP: 19
+9/12/2010 1:23:53 AM Swift Edge didn't fire
+9/12/2010 1:23:53 AM Swift Edge key pressed: 1 MOBHP: 19
+9/12/2010 1:23:54 AM Swift Edge didn't fire
+9/12/2010 1:23:54 AM Swift Edge key pressed: 1 MOBHP: 14
+9/12/2010 1:23:55 AM Swift Edge didn't fire
+9/12/2010 1:23:55 AM Skipping Swift Edge
+9/12/2010 1:23:55 AM Skipping Focused Evasion
+9/12/2010 1:23:55 AM Swift Edge key pressed: 1 MOBHP: 4
+9/12/2010 1:23:56 AM Swift Edge didn't fire
+9/12/2010 1:23:56 AM Exiting attack
+9/12/2010 1:23:56 AM Killed mob. Kills: 11
+9/12/2010 1:23:58 AM Looting finished
+9/12/2010 1:23:58 AM Total Exp gained: XP: 10239
+9/12/2010 1:24:00 AM Looting finished
+9/12/2010 1:24:00 AM Total Exp gained: XP: 10239
+9/12/2010 1:24:01 AM Looting finished
+9/12/2010 1:24:01 AM Total Exp gained: XP: 10239
+9/12/2010 1:24:01 AM HP Resting
+9/12/2010 1:24:01 AM Got player entity
+9/12/2010 1:24:13 AM Done resting
+9/12/2010 1:24:14 AM Closest waypoint found! Dist: 8.75773777215232
+9/12/2010 1:24:14 AM Closest waypoint is 4
+9/12/2010 1:24:14 AM Waypoint system started
+9/12/2010 1:24:16 AM Waypoint system finished
+9/12/2010 1:24:16 AM Going into Preattacks
+9/12/2010 1:24:16 AM Fighting Frost Slink
+9/12/2010 1:24:16 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:16 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:17 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:18 AM Skipping Surprise Attack
+9/12/2010 1:24:18 AM Preattacks finished
+9/12/2010 1:24:18 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:24:19 AM Swift Edge didn't fire
+9/12/2010 1:24:19 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:24:20 AM Swift Edge didn't fire
+9/12/2010 1:24:20 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:24:21 AM Swift Edge didn't fire
+9/12/2010 1:24:21 AM Skipping Swift Edge
+9/12/2010 1:24:21 AM Focused Evasion key pressed: 3 MOBHP: 89
+9/12/2010 1:24:22 AM Focused Evasion cooldown detected
+9/12/2010 1:24:22 AM Swift Edge key pressed: 1 MOBHP: 83
+9/12/2010 1:24:23 AM Swift Edge didn't fire
+9/12/2010 1:24:23 AM Swift Edge key pressed: 1 MOBHP: 83
+9/12/2010 1:24:25 AM Swift Edge didn't fire
+9/12/2010 1:24:25 AM Swift Edge key pressed: 1 MOBHP: 78
+9/12/2010 1:24:26 AM Swift Edge didn't fire
+9/12/2010 1:24:26 AM Skipping Swift Edge
+9/12/2010 1:24:26 AM Skipping Focused Evasion
+9/12/2010 1:24:26 AM Swift Edge key pressed: 1 MOBHP: 74
+9/12/2010 1:24:27 AM Swift Edge didn't fire
+9/12/2010 1:24:27 AM Swift Edge key pressed: 1 MOBHP: 68
+9/12/2010 1:24:28 AM Swift Edge didn't fire
+9/12/2010 1:24:28 AM Swift Edge key pressed: 1 MOBHP: 64
+9/12/2010 1:24:29 AM Swift Edge didn't fire
+9/12/2010 1:24:29 AM Skipping Swift Edge
+9/12/2010 1:24:29 AM Skipping Focused Evasion
+9/12/2010 1:24:29 AM Swift Edge key pressed: 1 MOBHP: 45
+9/12/2010 1:24:31 AM Swift Edge didn't fire
+9/12/2010 1:24:31 AM Swift Edge key pressed: 1 MOBHP: 26
+9/12/2010 1:24:32 AM Swift Edge didn't fire
+9/12/2010 1:24:32 AM Swift Edge key pressed: 1 MOBHP: 21
+9/12/2010 1:24:33 AM Swift Edge didn't fire
+9/12/2010 1:24:33 AM Skipping Swift Edge
+9/12/2010 1:24:33 AM Skipping Focused Evasion
+9/12/2010 1:24:33 AM Swift Edge key pressed: 1 MOBHP: 16
+9/12/2010 1:24:34 AM Swift Edge didn't fire
+9/12/2010 1:24:34 AM Swift Edge key pressed: 1 MOBHP: 16
+9/12/2010 1:24:35 AM Swift Edge didn't fire
+9/12/2010 1:24:35 AM Swift Edge key pressed: 1 MOBHP: 10
+9/12/2010 1:24:37 AM Swift Edge didn't fire
+9/12/2010 1:24:37 AM Skipping Swift Edge
+9/12/2010 1:24:37 AM Skipping Focused Evasion
+9/12/2010 1:24:37 AM Swift Edge key pressed: 1 MOBHP: 4
+9/12/2010 1:24:38 AM Swift Edge didn't fire
+9/12/2010 1:24:38 AM Exiting attack
+9/12/2010 1:24:38 AM Killed mob. Kills: 12
+9/12/2010 1:24:40 AM Looting finished
+9/12/2010 1:24:40 AM Total Exp gained: XP: 11279
+9/12/2010 1:24:41 AM Looting finished
+9/12/2010 1:24:41 AM Total Exp gained: XP: 12319
+9/12/2010 1:24:43 AM Looting finished
+9/12/2010 1:24:43 AM Total Exp gained: XP: 12319
+9/12/2010 1:24:43 AM Closest waypoint found! Dist: 4.25450367942417
+9/12/2010 1:24:43 AM Closest waypoint is 2
+9/12/2010 1:24:43 AM Waypoint system started
+9/12/2010 1:24:44 AM In targetting timer
+9/12/2010 1:24:44 AM Need new target
+9/12/2010 1:24:44 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:44 AM Target key pressed. NewTar: 
+9/12/2010 1:24:45 AM In targetting timer
+9/12/2010 1:24:45 AM Need new target
+9/12/2010 1:24:45 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:45 AM Target key pressed. NewTar: 
+9/12/2010 1:24:46 AM In targetting timer
+9/12/2010 1:24:46 AM Need new target
+9/12/2010 1:24:46 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:46 AM Target key pressed. NewTar: 
+9/12/2010 1:24:47 AM In targetting timer
+9/12/2010 1:24:47 AM Need new target
+9/12/2010 1:24:47 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:47 AM Target key pressed. NewTar: 
+9/12/2010 1:24:48 AM In targetting timer
+9/12/2010 1:24:48 AM Need new target
+9/12/2010 1:24:48 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:48 AM Target key pressed. NewTar: 
+9/12/2010 1:24:49 AM In targetting timer
+9/12/2010 1:24:49 AM Need new target
+9/12/2010 1:24:49 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:49 AM Target key pressed. NewTar: 
+9/12/2010 1:24:50 AM In targetting timer
+9/12/2010 1:24:50 AM Need new target
+9/12/2010 1:24:50 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:50 AM Target key pressed. NewTar: 
+9/12/2010 1:24:51 AM In targetting timer
+9/12/2010 1:24:51 AM Need new target
+9/12/2010 1:24:51 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:51 AM Target key pressed. NewTar: 
+9/12/2010 1:24:52 AM In targetting timer
+9/12/2010 1:24:52 AM Need new target
+9/12/2010 1:24:52 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:52 AM Target key pressed. NewTar: 
+9/12/2010 1:24:53 AM In targetting timer
+9/12/2010 1:24:53 AM Need new target
+9/12/2010 1:24:53 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:53 AM Target key pressed. NewTar: 
+9/12/2010 1:24:54 AM In targetting timer
+9/12/2010 1:24:54 AM Need new target
+9/12/2010 1:24:54 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:24:54 AM Target key pressed. NewTar: 
+9/12/2010 1:24:55 AM Waypoint system finished
+9/12/2010 1:24:55 AM Going into Preattacks
+9/12/2010 1:24:55 AM Fighting Ice Airon
+9/12/2010 1:24:55 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:55 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:56 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:24:57 AM Skipping Surprise Attack
+9/12/2010 1:24:57 AM Preattacks finished
+9/12/2010 1:24:57 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:24:58 AM Swift Edge didn't fire
+9/12/2010 1:24:58 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:24:59 AM Swift Edge didn't fire
+9/12/2010 1:24:59 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:25:00 AM Swift Edge didn't fire
+9/12/2010 1:25:00 AM Skipping Swift Edge
+9/12/2010 1:25:00 AM Focused Evasion key pressed: 3 MOBHP: 90
+9/12/2010 1:25:01 AM Focused Evasion cooldown detected
+9/12/2010 1:25:01 AM Swift Edge key pressed: 1 MOBHP: 90
+9/12/2010 1:25:02 AM Swift Edge didn't fire
+9/12/2010 1:25:02 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:25:03 AM Swift Edge didn't fire
+9/12/2010 1:25:03 AM Swift Edge key pressed: 1 MOBHP: 85
+9/12/2010 1:25:05 AM Swift Edge didn't fire
+9/12/2010 1:25:05 AM Skipping Swift Edge
+9/12/2010 1:25:05 AM Skipping Focused Evasion
+9/12/2010 1:25:05 AM Swift Edge key pressed: 1 MOBHP: 79
+9/12/2010 1:25:06 AM Swift Edge didn't fire
+9/12/2010 1:25:06 AM Swift Edge key pressed: 1 MOBHP: 74
+9/12/2010 1:25:07 AM Swift Edge didn't fire
+9/12/2010 1:25:07 AM Swift Edge key pressed: 1 MOBHP: 68
+9/12/2010 1:25:08 AM Swift Edge didn't fire
+9/12/2010 1:25:08 AM Skipping Swift Edge
+9/12/2010 1:25:08 AM Skipping Focused Evasion
+9/12/2010 1:25:08 AM Swift Edge key pressed: 1 MOBHP: 60
+9/12/2010 1:25:10 AM Swift Edge didn't fire
+9/12/2010 1:25:10 AM Swift Edge key pressed: 1 MOBHP: 52
+9/12/2010 1:25:11 AM Swift Edge didn't fire
+9/12/2010 1:25:11 AM Swift Edge key pressed: 1 MOBHP: 48
+9/12/2010 1:25:12 AM Swift Edge didn't fire
+9/12/2010 1:25:12 AM Skipping Swift Edge
+9/12/2010 1:25:12 AM Skipping Focused Evasion
+9/12/2010 1:25:12 AM Swift Edge key pressed: 1 MOBHP: 44
+9/12/2010 1:25:13 AM Swift Edge didn't fire
+9/12/2010 1:25:13 AM Swift Edge key pressed: 1 MOBHP: 44
+9/12/2010 1:25:14 AM Swift Edge didn't fire
+9/12/2010 1:25:14 AM Swift Edge key pressed: 1 MOBHP: 37
+9/12/2010 1:25:15 AM Swift Edge didn't fire
+9/12/2010 1:25:15 AM Skipping Swift Edge
+9/12/2010 1:25:16 AM Skipping Focused Evasion
+9/12/2010 1:25:16 AM Swift Edge key pressed: 1 MOBHP: 32
+9/12/2010 1:25:17 AM Swift Edge didn't fire
+9/12/2010 1:25:17 AM Swift Edge key pressed: 1 MOBHP: 24
+9/12/2010 1:25:18 AM Swift Edge didn't fire
+9/12/2010 1:25:18 AM Swift Edge key pressed: 1 MOBHP: 14
+9/12/2010 1:25:19 AM Swift Edge didn't fire
+9/12/2010 1:25:19 AM Skipping Swift Edge
+9/12/2010 1:25:19 AM Skipping Focused Evasion
+9/12/2010 1:25:19 AM Swift Edge key pressed: 1 MOBHP: 10
+9/12/2010 1:25:20 AM Swift Edge didn't fire
+9/12/2010 1:25:20 AM Swift Edge key pressed: 1 MOBHP: 4
+9/12/2010 1:25:22 AM Swift Edge didn't fire
+9/12/2010 1:25:22 AM Swift Edge key pressed: 1 MOBHP: 4
+9/12/2010 1:25:23 AM Swift Edge didn't fire
+9/12/2010 1:25:23 AM Exiting attack
+9/12/2010 1:25:23 AM Killed mob. Kills: 13
+9/12/2010 1:25:24 AM Looting finished
+9/12/2010 1:25:24 AM Total Exp gained: XP: 12319
+9/12/2010 1:25:26 AM Looting finished
+9/12/2010 1:25:26 AM Total Exp gained: XP: 13359
+9/12/2010 1:25:28 AM Looting finished
+9/12/2010 1:25:28 AM Total Exp gained: XP: 13359
+9/12/2010 1:25:28 AM HP Resting
+9/12/2010 1:25:28 AM Got player entity
+9/12/2010 1:25:49 AM Done resting
+9/12/2010 1:25:50 AM Closest waypoint found! Dist: 21.6545474255859
+9/12/2010 1:25:50 AM Closest waypoint is 1
+9/12/2010 1:25:50 AM Waypoint system started
+9/12/2010 1:25:52 AM In targetting timer
+9/12/2010 1:25:52 AM Need new target
+9/12/2010 1:25:52 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:52 AM Target key pressed. NewTar: 
+9/12/2010 1:25:53 AM In targetting timer
+9/12/2010 1:25:53 AM Need new target
+9/12/2010 1:25:53 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:53 AM Target key pressed. NewTar: 
+9/12/2010 1:25:54 AM In targetting timer
+9/12/2010 1:25:54 AM Need new target
+9/12/2010 1:25:54 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:54 AM Target key pressed. NewTar: 
+9/12/2010 1:25:55 AM In targetting timer
+9/12/2010 1:25:55 AM Need new target
+9/12/2010 1:25:55 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:55 AM Target key pressed. NewTar: 
+9/12/2010 1:25:56 AM In targetting timer
+9/12/2010 1:25:56 AM Need new target
+9/12/2010 1:25:56 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:56 AM Target key pressed. NewTar: 
+9/12/2010 1:25:57 AM In targetting timer
+9/12/2010 1:25:57 AM Need new target
+9/12/2010 1:25:57 AM Pressing target key: TAB Old tar: 
+9/12/2010 1:25:57 AM Target key pressed. NewTar: 
+9/12/2010 1:25:57 AM Waypoint system finished
+9/12/2010 1:25:57 AM Going into Preattacks
+9/12/2010 1:25:57 AM Fighting Frost Slink
+9/12/2010 1:25:57 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:25:58 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:25:59 AM Surprise Attack key pressed: 2 MOBHP: 100
+9/12/2010 1:25:59 AM Skipping Surprise Attack
+9/12/2010 1:26:00 AM Preattacks finished
+9/12/2010 1:26:00 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:26:01 AM Swift Edge didn't fire
+9/12/2010 1:26:01 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:26:02 AM Swift Edge didn't fire
+9/12/2010 1:26:02 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:26:03 AM Swift Edge didn't fire
+9/12/2010 1:26:03 AM Skipping Swift Edge
+9/12/2010 1:26:03 AM Focused Evasion key pressed: 3 MOBHP: 100
+9/12/2010 1:26:04 AM Focused Evasion cooldown detected
+9/12/2010 1:26:04 AM Swift Edge key pressed: 1 MOBHP: 100
+9/12/2010 1:26:05 AM Swift Edge didn't fire
+9/12/2010 1:26:05 AM Swift Edge key pressed: 1 MOBHP: 91
+9/12/2010 1:26:06 AM Swift Edge didn't fire
+9/12/2010 1:26:06 AM Swift Edge key pressed: 1 MOBHP: 82
+9/12/2010 1:26:07 AM Swift Edge didn't fire
+9/12/2010 1:26:07 AM Skipping Swift Edge
+9/12/2010 1:26:07 AM Skipping Focused Evasion
+9/12/2010 1:26:07 AM Swift Edge key pressed: 1 MOBHP: 76
+9/12/2010 1:26:09 AM Swift Edge didn't fire
+9/12/2010 1:26:09 AM Swift Edge key pressed: 1 MOBHP: 76
+9/12/2010 1:26:10 AM Swift Edge didn't fire
+9/12/2010 1:26:10 AM Swift Edge key pressed: 1 MOBHP: 70
+9/12/2010 1:26:11 AM Swift Edge didn't fire
+9/12/2010 1:26:11 AM Skipping Swift Edge
+9/12/2010 1:26:11 AM Skipping Focused Evasion
+9/12/2010 1:26:11 AM Swift Edge key pressed: 1 MOBHP: 64
+9/12/2010 1:26:12 AM Swift Edge didn't fire
+9/12/2010 1:26:12 AM Swift Edge key pressed: 1 MOBHP: 58
+9/12/2010 1:26:13 AM Swift Edge didn't fire
+9/12/2010 1:26:13 AM Swift Edge key pressed: 1 MOBHP: 39
+9/12/2010 1:26:15 AM Swift Edge didn't fire
+9/12/2010 1:26:15 AM Skipping Swift Edge
+9/12/2010 1:26:15 AM Skipping Focused Evasion
+9/12/2010 1:26:15 AM Swift Edge key pressed: 1 MOBHP: 31
+9/12/2010 1:26:16 AM Swift Edge didn't fire
+9/12/2010 1:26:16 AM Swift Edge key pressed: 1 MOBHP: 26
+9/12/2010 1:26:17 AM Swift Edge didn't fire
+9/12/2010 1:26:17 AM Swift Edge key pressed: 1 MOBHP: 26
+9/12/2010 1:26:18 AM Swift Edge didn't fire
+9/12/2010 1:26:18 AM Skipping Swift Edge
+9/12/2010 1:26:18 AM Skipping Focused Evasion
+9/12/2010 1:26:18 AM Swift Edge key pressed: 1 MOBHP: 22
+9/12/2010 1:26:19 AM Swift Edge didn't fire
+9/12/2010 1:26:19 AM Swift Edge key pressed: 1 MOBHP: 18
+9/12/2010 1:26:21 AM Swift Edge didn't fire
+9/12/2010 1:26:21 AM Swift Edge key pressed: 1 MOBHP: 12
+9/12/2010 1:26:22 AM Swift Edge didn't fire
+9/12/2010 1:26:22 AM Exiting attack
+9/12/2010 1:26:22 AM Killed mob. Kills: 14
+9/12/2010 1:26:23 AM Looting finished
+9/12/2010 1:26:23 AM Total Exp gained: XP: 13359
+9/12/2010 1:26:25 AM Looting finished
+9/12/2010 1:26:25 AM Total Exp gained: XP: 13359
+9/12/2010 1:26:25 AM Closest waypoint found! Dist: 15.3712420372796
+9/12/2010 1:26:25 AM Closest waypoint is 4
+9/12/2010 1:26:25 AM Waypoint system started
+9/12/2010 1:26:26 AM Stop function called
+9/12/2010 1:26:26 AM Stop pressed
+9/12/2010 1:26:26 AM Waypoint system finished

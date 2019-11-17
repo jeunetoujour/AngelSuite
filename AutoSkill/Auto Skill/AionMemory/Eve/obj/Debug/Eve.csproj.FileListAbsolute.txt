@@ -1,0 +1,8 @@
+C:\AionSource\AionMemory\Eve\bin\Debug\COPYING
+C:\AionSource\AionMemory\Eve\bin\Debug\Eve.dll
+C:\AionSource\AionMemory\Eve\bin\Debug\Eve.pdb
+C:\AionSource\AionMemory\Eve\bin\Debug\AionMemory.dll
+C:\AionSource\AionMemory\Eve\bin\Debug\AionMemory.pdb
+C:\AionSource\AionMemory\Eve\obj\Debug\ResolveAssemblyReference.cache
+C:\AionSource\AionMemory\Eve\obj\Debug\Eve.dll
+C:\AionSource\AionMemory\Eve\obj\Debug\Eve.pdb

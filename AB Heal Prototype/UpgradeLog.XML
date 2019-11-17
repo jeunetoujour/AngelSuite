@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AB Heal Prototype">
+</Property><Property Name="Solution File" Value="E:\AB Heal Prototype\AB Heal Prototype.sln">
+</Property><Property Name="Date" Value="Saturday, June 12, 2010">
+</Property><Property Name="Time" Value="11:27:05 AM">
+</Property></Properties><Event ErrorLevel="0" Project="AB Heal Prototype" Source="AB Heal Prototype.csproj" Description="Project file successfully backed up as E:\AB Heal Prototype\Backup\AB Heal Prototype.csproj">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\BlessingOfHealth.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\BlessingOfHealth.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\BlessingOfRock.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\BlessingOfRock.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\FlashofRecovery.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\FlashofRecovery.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\Form1.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\HealingLight.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\HealingLight.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\KeyConstants.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\KeyConstants.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\LightofRecovery.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\LightofRecovery.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\PEntity.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\PEntity.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\Program.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\Program.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\Properties\Resources.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\Properties\Settings.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\PType.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\PType.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\RadiantCure.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\RadiantCure.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal\SKeys.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal\SKeys.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="Global.cs" Description="File successfully backed up as E:\AB Heal Prototype\Backup\Global.cs">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal.Form1.resources" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal.Form1.resources">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="ABHeal.Properties.Resources.resources" Description="File successfully backed up as E:\AB Heal Prototype\Backup\ABHeal.Properties.Resources.resources">
+</Event><Event ErrorLevel="1" Project="AB Heal Prototype" Source="AB Heal Prototype.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="AB Heal Prototype.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AB Heal Prototype" Source="AB Heal Prototype.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AB Heal Prototype" Source="AB Heal Prototype.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

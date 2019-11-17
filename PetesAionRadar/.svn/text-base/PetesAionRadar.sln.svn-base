@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetesAionRadar", "PetesAionRadar\PetesAionRadar.csproj", "{8DEEE6FE-5BEC-4F72-8593-ADF24DCC8CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AionMemory", "..\AionMemory\AionMemory.csproj", "{CA36EFB6-50E8-4296-9790-05A79919BFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdate", "AutoUpdate\AutoUpdate\AutoUpdate.csproj", "{EFA39120-D255-4156-BC34-68F894A86938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEEE6FE-5BEC-4F72-8593-ADF24DCC8CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEEE6FE-5BEC-4F72-8593-ADF24DCC8CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEEE6FE-5BEC-4F72-8593-ADF24DCC8CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEEE6FE-5BEC-4F72-8593-ADF24DCC8CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA36EFB6-50E8-4296-9790-05A79919BFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA39120-D255-4156-BC34-68F894A86938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

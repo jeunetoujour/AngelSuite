@@ -1,0 +1,10 @@
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\x86\Release\AngelRead.dll
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\x86\Release\AngelRead.pdb
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\ABHeal.Form1.resources
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\Properties.Resources.resources
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\x86\Release\AngelHealer.exe.config
+E:\AngelSuite\AionSource\AB Heal Prototype\bin\x86\Release\AngelHealer.exe
+E:\AngelSuite\AionSource\AB Heal Prototype\obj\x86\Release\AngelHealer.exe

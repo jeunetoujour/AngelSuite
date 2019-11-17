@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E0333433-D3D5-4C45-BA4D-1FF2D1875053}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AngelSuite</RootNamespace>
+    <AssemblyName>AngelSuite</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AngelTarget.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelTarget.Designer.cs">
+      <DependentUpon>AngelTarget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AngelWings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelWings.designer.cs">
+      <DependentUpon>AngelWings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AngelDPS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelDPS.designer.cs">
+      <DependentUpon>AngelDPS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AngelPvP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelPvP.designer.cs">
+      <DependentUpon>AngelPvP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AngelList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelList.designer.cs">
+      <DependentUpon>AngelList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AngelAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AngelAP.designer.cs">
+      <DependentUpon>AngelAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Launcher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Launcher.designer.cs">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Radar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Radar.designer.cs">
+      <DependentUpon>Radar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="phpbbauth.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils.cs" />
+    <EmbeddedResource Include="AngelTarget.resx">
+      <DependentUpon>AngelTarget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AngelWings.resx">
+      <DependentUpon>AngelWings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AngelDPS.resx">
+      <DependentUpon>AngelDPS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AngelPvP.resx">
+      <DependentUpon>AngelPvP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AngelList.resx">
+      <DependentUpon>AngelList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AngelAP.resx">
+      <DependentUpon>AngelAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Launcher.resx">
+      <DependentUpon>Launcher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Radar.resx">
+      <DependentUpon>Radar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AngelRead\AngelRead\AngelRead.csproj">
+      <Project>{CA36EFB6-50E8-4296-9790-05A79919BFDD}</Project>
+      <Name>AngelRead</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AutoUpdate\AutoUpdate\AutoUpdate.csproj">
+      <Project>{EFA39120-D255-4156-BC34-68F894A86938}</Project>
+      <Name>AutoUpdate</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="resources\AionClient.ico" />
+    <EmbeddedResource Include="resources\Assassin.bmp" />
+    <EmbeddedResource Include="resources\Chanter.bmp" />
+    <EmbeddedResource Include="resources\Cleric.bmp" />
+    <EmbeddedResource Include="resources\compass_ring.bmp" />
+    <EmbeddedResource Include="resources\gather.ico" />
+    <EmbeddedResource Include="resources\gatherair.ico" />
+    <EmbeddedResource Include="resources\Gladiator.bmp" />
+    <EmbeddedResource Include="resources\landmark.ico" />
+    <EmbeddedResource Include="resources\npc.ico" />
+    <EmbeddedResource Include="resources\npcdead.ico" />
+    <EmbeddedResource Include="resources\npcfriendly.ico" />
+    <EmbeddedResource Include="resources\npchostile.ico" />
+    <EmbeddedResource Include="resources\npcloot.ico" />
+    <EmbeddedResource Include="resources\npcsmall.ico" />
+    <EmbeddedResource Include="resources\object.ico" />
+    <EmbeddedResource Include="resources\playerdead.ico" />
+    <EmbeddedResource Include="resources\playerfriendly.ico" />
+    <EmbeddedResource Include="resources\playergroup.ico" />
+    <EmbeddedResource Include="resources\playergroupdead.ico" />
+    <EmbeddedResource Include="resources\playerhostile.ico" />
+    <EmbeddedResource Include="resources\Ranger.bmp" />
+    <EmbeddedResource Include="resources\Sorcerer.bmp" />
+    <EmbeddedResource Include="resources\Spiritmaster.bmp" />
+    <EmbeddedResource Include="resources\Templar.bmp" />
+    <EmbeddedResource Include="resources\unknown.ico" />
+    <EmbeddedResource Include="resources\vendor.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

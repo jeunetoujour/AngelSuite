@@ -1,0 +1,464 @@
+8/15/2010 2:42:04 PM :: AutoUpdater started
+8/15/2010 2:42:04 PM :: ... our assembly name is: AngelSuite
+8/15/2010 2:42:04 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+8/15/2010 2:42:04 PM :: ... downloading AutoUpdate.txt
+8/15/2010 2:42:06 PM :: ... shuffling list of files from AutoUpdate.txt
+8/15/2010 2:42:06 PM :: ... this looks like auto-update information for: AngelSuite.exe
+8/15/2010 2:42:06 PM :: ... local version is:                            00001000000000000001
+8/15/2010 2:42:06 PM :: ... the server's latest version is:              00001000000000000000
+8/15/2010 2:42:06 PM :: ... proceeding to check for updated files
+8/15/2010 2:42:06 PM :: ....... filename:       AngelSuite.exe
+8/15/2010 2:42:06 PM :: ....... version/method: 1.0.0.0
+8/15/2010 2:42:06 PM :: ........... upgrade if new version is available
+8/15/2010 2:42:06 PM :: ........... local version:    00001000000000000001
+8/15/2010 2:42:06 PM :: ........... server's version: 00001000000000000000
+8/15/2010 2:42:06 PM :: ....... filename:       AngelBot.exe
+8/15/2010 2:42:06 PM :: ....... version/method: 1.0.0.0
+8/15/2010 2:42:06 PM :: ........... upgrade if new version is available
+8/15/2010 2:42:06 PM :: ........... local version:    00001000000000000000
+8/15/2010 2:42:06 PM :: ........... server's version: 00001000000000000000
+8/15/2010 2:42:06 PM :: ....... filename:       AngelRead.dll
+8/15/2010 2:42:06 PM :: ....... version/method: 1.0.0.0
+8/15/2010 2:42:06 PM :: ........... upgrade if new version is available
+8/15/2010 2:42:06 PM :: ........... local version:    00001000000000000000
+8/15/2010 2:42:06 PM :: ........... server's version: 00001000000000000000
+8/15/2010 2:42:06 PM :: ....... filename:       AutoUpdate.dll
+8/15/2010 2:42:06 PM :: ....... version/method: 1.0.0.0
+8/15/2010 2:42:06 PM :: ........... upgrade if new version is available
+8/15/2010 2:42:06 PM :: ........... local version:    00001000000000000000
+8/15/2010 2:42:06 PM :: ........... server's version: 00001000000000000000
+8/15/2010 2:42:06 PM :: ....... filename:       ByteSigScan.dll
+8/15/2010 2:42:06 PM :: ....... version/method: 1.0.0.5
+8/15/2010 2:42:06 PM :: ........... upgrade if new version is available
+8/15/2010 2:42:06 PM :: ........... local version:    00001000000000000005
+8/15/2010 2:42:06 PM :: ........... server's version: 00001000000000000005
+8/15/2010 2:42:06 PM :: ... the product hasn't been updated, closing out...
+8/15/2010 9:27:25 PM :: AutoUpdater started
+8/15/2010 9:27:25 PM :: ... our assembly name is: AngelSuite
+8/15/2010 9:27:25 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+8/15/2010 9:27:25 PM :: ... downloading AutoUpdate.txt
+8/15/2010 9:27:27 PM :: ... shuffling list of files from AutoUpdate.txt
+8/15/2010 9:27:27 PM :: ... this looks like auto-update information for: AngelSuite.exe
+8/15/2010 9:27:27 PM :: ... local version is:                            00001000000000000002
+8/15/2010 9:27:27 PM :: ... the server's latest version is:              00001000000000000002
+8/15/2010 9:27:27 PM :: ... proceeding to check for updated files
+8/15/2010 9:27:27 PM :: ....... filename:       AngelSuite.exe
+8/15/2010 9:27:27 PM :: ....... version/method: 1.0.0.2
+8/15/2010 9:27:27 PM :: ........... upgrade if new version is available
+8/15/2010 9:27:27 PM :: ........... local version:    00001000000000000002
+8/15/2010 9:27:27 PM :: ........... server's version: 00001000000000000002
+8/15/2010 9:27:27 PM :: ....... filename:       AngelBot.exe
+8/15/2010 9:27:27 PM :: ....... version/method: 1.0.0.1
+8/15/2010 9:27:27 PM :: ........... upgrade if new version is available
+8/15/2010 9:27:27 PM :: ........... local version:    00001000000000000001
+8/15/2010 9:27:27 PM :: ........... server's version: 00001000000000000001
+8/15/2010 9:27:27 PM :: ....... filename:       AngelRead.dll
+8/15/2010 9:27:27 PM :: ....... version/method: 1.0.0.1
+8/15/2010 9:27:27 PM :: ........... upgrade if new version is available
+8/15/2010 9:27:27 PM :: ........... local version:    00001000000000000001
+8/15/2010 9:27:27 PM :: ........... server's version: 00001000000000000001
+8/15/2010 9:27:27 PM :: ....... filename:       AutoUpdate.dll
+8/15/2010 9:27:27 PM :: ....... version/method: 1.0.0.0
+8/15/2010 9:27:27 PM :: ........... upgrade if new version is available
+8/15/2010 9:27:27 PM :: ........... local version:    00001000000000000000
+8/15/2010 9:27:27 PM :: ........... server's version: 00001000000000000000
+8/15/2010 9:27:27 PM :: ....... filename:       ByteSigScan.dll
+8/15/2010 9:27:27 PM :: ....... version/method: 1.0.0.5
+8/15/2010 9:27:27 PM :: ........... upgrade if new version is available
+8/15/2010 9:27:27 PM :: ........... local version:    00001000000000000005
+8/15/2010 9:27:27 PM :: ........... server's version: 00001000000000000005
+8/15/2010 9:27:27 PM :: ... the product hasn't been updated, closing out...
+8/21/2010 12:25:04 PM :: AutoUpdater started
+8/21/2010 12:25:04 PM :: ... our assembly name is: AngelSuite
+8/21/2010 12:25:04 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+8/21/2010 12:25:04 PM :: ... downloading AutoUpdate.txt
+8/21/2010 12:25:07 PM :: ... shuffling list of files from AutoUpdate.txt
+8/21/2010 12:25:07 PM :: ... this looks like auto-update information for: AngelSuite.exe
+8/21/2010 12:25:07 PM :: ... local version is:                            00001000000000000004
+8/21/2010 12:25:07 PM :: ... the server's latest version is:              00001000000000000004
+8/21/2010 12:25:07 PM :: ... proceeding to check for updated files
+8/21/2010 12:25:07 PM :: ....... filename:       AngelSuite.exe
+8/21/2010 12:25:07 PM :: ....... version/method: 1.0.0.4
+8/21/2010 12:25:07 PM :: ........... upgrade if new version is available
+8/21/2010 12:25:07 PM :: ........... local version:    00001000000000000004
+8/21/2010 12:25:07 PM :: ........... server's version: 00001000000000000004
+8/21/2010 12:25:07 PM :: ....... filename:       AngelBot.exe
+8/21/2010 12:25:07 PM :: ....... version/method: 1.0.0.1
+8/21/2010 12:25:07 PM :: ........... upgrade if new version is available
+8/21/2010 12:25:07 PM :: ........... local version:    00001000000000000001
+8/21/2010 12:25:07 PM :: ........... server's version: 00001000000000000001
+8/21/2010 12:25:07 PM :: ....... filename:       AngelRead.dll
+8/21/2010 12:25:07 PM :: ....... version/method: 1.0.0.2
+8/21/2010 12:25:07 PM :: ........... upgrade if new version is available
+8/21/2010 12:25:07 PM :: ........... local version:    00001000000000000002
+8/21/2010 12:25:07 PM :: ........... server's version: 00001000000000000002
+8/21/2010 12:25:07 PM :: ....... filename:       AutoUpdate.dll
+8/21/2010 12:25:07 PM :: ....... version/method: 1.0.0.0
+8/21/2010 12:25:07 PM :: ........... upgrade if new version is available
+8/21/2010 12:25:07 PM :: ........... local version:    00001000000000000000
+8/21/2010 12:25:07 PM :: ........... server's version: 00001000000000000000
+8/21/2010 12:25:07 PM :: ....... filename:       ByteSigScan.dll
+8/21/2010 12:25:07 PM :: ....... version/method: 1.0.0.5
+8/21/2010 12:25:07 PM :: ........... upgrade if new version is available
+8/21/2010 12:25:07 PM :: ........... local version:    00001000000000000005
+8/21/2010 12:25:07 PM :: ........... server's version: 00001000000000000005
+8/21/2010 12:25:07 PM :: ... the product hasn't been updated, closing out...
+8/22/2010 9:49:16 PM :: AutoUpdater started
+8/22/2010 9:49:16 PM :: ... our assembly name is: AngelSuite
+8/22/2010 9:49:16 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+8/22/2010 9:49:16 PM :: ... downloading AutoUpdate.txt
+8/22/2010 9:49:19 PM :: ... shuffling list of files from AutoUpdate.txt
+8/22/2010 9:49:19 PM :: ... this looks like auto-update information for: AngelSuite.exe
+8/22/2010 9:49:19 PM :: ... local version is:                            00001000000000000005
+8/22/2010 9:49:19 PM :: ... the server's latest version is:              00001000000000000005
+8/22/2010 9:49:19 PM :: ... proceeding to check for updated files
+8/22/2010 9:49:19 PM :: ....... filename:       AngelSuite.exe
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.5
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000005
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000005
+8/22/2010 9:49:19 PM :: ....... filename:       AngelBot.exe
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.13
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000013
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000013
+8/22/2010 9:49:19 PM :: ....... filename:       AngelRead.dll
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.2
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000002
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000002
+8/22/2010 9:49:19 PM :: ....... filename:       AutoUpdate.dll
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.0
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000000
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000000
+8/22/2010 9:49:19 PM :: ....... filename:       ByteSigScan.dll
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.5
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000005
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000005
+8/22/2010 9:49:19 PM :: ....... filename:       AngelHealer.exe
+8/22/2010 9:49:19 PM :: ....... version/method: 1.0.0.0
+8/22/2010 9:49:19 PM :: ........... upgrade if new version is available
+8/22/2010 9:49:19 PM :: ........... local version:    00001000000000000000
+8/22/2010 9:49:19 PM :: ........... server's version: 00001000000000000000
+8/22/2010 9:49:19 PM :: ... the product hasn't been updated, closing out...
+8/22/2010 10:19:50 PM :: AutoUpdater started
+8/22/2010 10:19:50 PM :: ... our assembly name is: AngelSuite
+8/22/2010 10:19:50 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+8/22/2010 10:19:50 PM :: ... downloading AutoUpdate.txt
+8/22/2010 10:19:59 PM :: ... shuffling list of files from AutoUpdate.txt
+8/22/2010 10:19:59 PM :: ... this looks like auto-update information for: AngelSuite.exe
+8/22/2010 10:19:59 PM :: ... local version is:                            00001000000000000006
+8/22/2010 10:19:59 PM :: ... the server's latest version is:              00001000000000000006
+8/22/2010 10:19:59 PM :: ... proceeding to check for updated files
+8/22/2010 10:19:59 PM :: ....... filename:       AngelSuite.exe
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.6
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000006
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000006
+8/22/2010 10:19:59 PM :: ....... filename:       AngelBot.exe
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.14
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000014
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000014
+8/22/2010 10:19:59 PM :: ....... filename:       AngelRead.dll
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.2
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000002
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000002
+8/22/2010 10:19:59 PM :: ....... filename:       AutoUpdate.dll
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.0
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000000
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000000
+8/22/2010 10:19:59 PM :: ....... filename:       ByteSigScan.dll
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.5
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000005
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000005
+8/22/2010 10:19:59 PM :: ....... filename:       AngelHealer.exe
+8/22/2010 10:19:59 PM :: ....... version/method: 1.0.0.0
+8/22/2010 10:19:59 PM :: ........... upgrade if new version is available
+8/22/2010 10:19:59 PM :: ........... local version:    00001000000000000000
+8/22/2010 10:19:59 PM :: ........... server's version: 00001000000000000000
+8/22/2010 10:19:59 PM :: ... the product hasn't been updated, closing out...
+9/8/2010 11:52:31 PM :: AutoUpdater started
+9/8/2010 11:52:31 PM :: ... our assembly name is: AngelSuite
+9/8/2010 11:52:31 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/8/2010 11:52:31 PM :: ... downloading AutoUpdate.txt
+9/8/2010 11:52:34 PM :: ... shuffling list of files from AutoUpdate.txt
+9/8/2010 11:52:34 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/8/2010 11:52:34 PM :: ... local version is:                            00001000000000000009
+9/8/2010 11:52:34 PM :: ... the server's latest version is:              00001000000000000009
+9/8/2010 11:52:34 PM :: ... proceeding to check for updated files
+9/8/2010 11:52:34 PM :: ....... filename:       AngelSuite.exe
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.9
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000009
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000009
+9/8/2010 11:52:34 PM :: ....... filename:       AngelBot.exe
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.24
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000024
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000024
+9/8/2010 11:52:34 PM :: ....... filename:       AngelRead.dll
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.8
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000010
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000008
+9/8/2010 11:52:34 PM :: ....... filename:       AutoUpdate.dll
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.0
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000000
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000000
+9/8/2010 11:52:34 PM :: ....... filename:       ByteSigScan.dll
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.5
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000005
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000005
+9/8/2010 11:52:34 PM :: ....... filename:       AngelHealer.exe
+9/8/2010 11:52:34 PM :: ....... version/method: 1.0.0.1
+9/8/2010 11:52:34 PM :: ........... upgrade if new version is available
+9/8/2010 11:52:34 PM :: ........... local version:    00001000000000000001
+9/8/2010 11:52:34 PM :: ........... server's version: 00001000000000000001
+9/8/2010 11:52:34 PM :: ... the product hasn't been updated, closing out...
+9/8/2010 11:53:40 PM :: AutoUpdater started
+9/8/2010 11:53:40 PM :: ... our assembly name is: AngelSuite
+9/8/2010 11:53:40 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/8/2010 11:53:40 PM :: ... downloading AutoUpdate.txt
+9/8/2010 11:53:43 PM :: ... shuffling list of files from AutoUpdate.txt
+9/8/2010 11:53:43 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/8/2010 11:53:43 PM :: ... local version is:                            00001000000000000009
+9/8/2010 11:53:43 PM :: ... the server's latest version is:              00001000000000000009
+9/8/2010 11:53:43 PM :: ... proceeding to check for updated files
+9/8/2010 11:53:43 PM :: ....... filename:       AngelSuite.exe
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.9
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000009
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000009
+9/8/2010 11:53:43 PM :: ....... filename:       AngelBot.exe
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.24
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000024
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000024
+9/8/2010 11:53:43 PM :: ....... filename:       AngelRead.dll
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.8
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000010
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000008
+9/8/2010 11:53:43 PM :: ....... filename:       AutoUpdate.dll
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.0
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000000
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000000
+9/8/2010 11:53:43 PM :: ....... filename:       ByteSigScan.dll
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.5
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000005
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000005
+9/8/2010 11:53:43 PM :: ....... filename:       AngelHealer.exe
+9/8/2010 11:53:43 PM :: ....... version/method: 1.0.0.1
+9/8/2010 11:53:43 PM :: ........... upgrade if new version is available
+9/8/2010 11:53:43 PM :: ........... local version:    00001000000000000001
+9/8/2010 11:53:43 PM :: ........... server's version: 00001000000000000001
+9/8/2010 11:53:43 PM :: ... the product hasn't been updated, closing out...
+9/10/2010 8:40:58 PM :: AutoUpdater started
+9/10/2010 8:40:58 PM :: ... our assembly name is: AngelSuite
+9/10/2010 8:40:58 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/10/2010 8:40:58 PM :: ... downloading AutoUpdate.txt
+9/10/2010 8:41:00 PM :: ... shuffling list of files from AutoUpdate.txt
+9/10/2010 8:41:00 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/10/2010 8:41:00 PM :: ... local version is:                            00001000000000000009
+9/10/2010 8:41:00 PM :: ... the server's latest version is:              00001000000000000009
+9/10/2010 8:41:00 PM :: ... proceeding to check for updated files
+9/10/2010 8:41:00 PM :: ....... filename:       AngelSuite.exe
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.9
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000009
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000009
+9/10/2010 8:41:00 PM :: ....... filename:       AngelBot.exe
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.26
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000026
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000026
+9/10/2010 8:41:00 PM :: ....... filename:       AngelRead.dll
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.11
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000011
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000011
+9/10/2010 8:41:00 PM :: ....... filename:       AutoUpdate.dll
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.0
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000000
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000000
+9/10/2010 8:41:00 PM :: ....... filename:       ByteSigScan.dll
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.5
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000005
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000005
+9/10/2010 8:41:00 PM :: ....... filename:       AngelHealer.exe
+9/10/2010 8:41:00 PM :: ....... version/method: 1.0.0.1
+9/10/2010 8:41:00 PM :: ........... upgrade if new version is available
+9/10/2010 8:41:00 PM :: ........... local version:    00001000000000000001
+9/10/2010 8:41:00 PM :: ........... server's version: 00001000000000000001
+9/10/2010 8:41:00 PM :: ... the product hasn't been updated, closing out...
+9/10/2010 10:29:27 PM :: AutoUpdater started
+9/10/2010 10:29:27 PM :: ... our assembly name is: AngelSuite
+9/10/2010 10:29:27 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/10/2010 10:29:27 PM :: ... downloading AutoUpdate.txt
+9/10/2010 10:29:30 PM :: ... shuffling list of files from AutoUpdate.txt
+9/10/2010 10:29:30 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/10/2010 10:29:30 PM :: ... local version is:                            00001000000000000009
+9/10/2010 10:29:30 PM :: ... the server's latest version is:              00001000000000000009
+9/10/2010 10:29:30 PM :: ... proceeding to check for updated files
+9/10/2010 10:29:30 PM :: ....... filename:       AngelSuite.exe
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.9
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000009
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000009
+9/10/2010 10:29:30 PM :: ....... filename:       AngelBot.exe
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.26
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000026
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000026
+9/10/2010 10:29:30 PM :: ....... filename:       AngelRead.dll
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.11
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000011
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000011
+9/10/2010 10:29:30 PM :: ....... filename:       AutoUpdate.dll
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.0
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000000
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000000
+9/10/2010 10:29:30 PM :: ....... filename:       ByteSigScan.dll
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.5
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000005
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000005
+9/10/2010 10:29:30 PM :: ....... filename:       AngelHealer.exe
+9/10/2010 10:29:30 PM :: ....... version/method: 1.0.0.1
+9/10/2010 10:29:30 PM :: ........... upgrade if new version is available
+9/10/2010 10:29:30 PM :: ........... local version:    00001000000000000001
+9/10/2010 10:29:30 PM :: ........... server's version: 00001000000000000001
+9/10/2010 10:29:30 PM :: ... the product hasn't been updated, closing out...
+9/11/2010 1:49:17 PM :: AutoUpdater started
+9/11/2010 1:49:17 PM :: ... our assembly name is: AngelSuite
+9/11/2010 1:49:17 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/11/2010 1:49:17 PM :: ... downloading AutoUpdate.txt
+9/11/2010 1:49:20 PM :: ... shuffling list of files from AutoUpdate.txt
+9/11/2010 1:49:20 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/11/2010 1:49:20 PM :: ... local version is:                            00001000000000000010
+9/11/2010 1:49:20 PM :: ... the server's latest version is:              00001000000000000010
+9/11/2010 1:49:20 PM :: ... proceeding to check for updated files
+9/11/2010 1:49:20 PM :: ....... filename:       AngelSuite.exe
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.10
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000010
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000010
+9/11/2010 1:49:20 PM :: ....... filename:       AngelBot.exe
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.26
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000026
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000026
+9/11/2010 1:49:20 PM :: ....... filename:       AngelRead.dll
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.12
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000012
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000012
+9/11/2010 1:49:20 PM :: ....... filename:       AutoUpdate.dll
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.0
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000000
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000000
+9/11/2010 1:49:20 PM :: ....... filename:       ByteSigScan.dll
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.5
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000005
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000005
+9/11/2010 1:49:20 PM :: ....... filename:       AngelHealer.exe
+9/11/2010 1:49:20 PM :: ....... version/method: 1.0.0.1
+9/11/2010 1:49:20 PM :: ........... upgrade if new version is available
+9/11/2010 1:49:20 PM :: ........... local version:    00001000000000000001
+9/11/2010 1:49:20 PM :: ........... server's version: 00001000000000000001
+9/11/2010 1:49:20 PM :: ... the product hasn't been updated, closing out...
+9/11/2010 3:16:39 PM :: AutoUpdater started
+9/11/2010 3:16:39 PM :: ... our assembly name is: AngelSuite
+9/11/2010 3:16:39 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+9/11/2010 3:16:39 PM :: ... downloading AutoUpdate.txt
+9/11/2010 3:16:42 PM :: ... shuffling list of files from AutoUpdate.txt
+9/11/2010 3:16:42 PM :: ... this looks like auto-update information for: AngelSuite.exe
+9/11/2010 3:16:42 PM :: ... local version is:                            00001000000000000010
+9/11/2010 3:16:42 PM :: ... the server's latest version is:              00001000000000000010
+9/11/2010 3:16:42 PM :: ... proceeding to check for updated files
+9/11/2010 3:16:42 PM :: ....... filename:       AngelSuite.exe
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.10
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000010
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000010
+9/11/2010 3:16:42 PM :: ....... filename:       AngelBot.exe
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.26
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000026
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000026
+9/11/2010 3:16:42 PM :: ....... filename:       AngelRead.dll
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.12
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000012
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000012
+9/11/2010 3:16:42 PM :: ....... filename:       AutoUpdate.dll
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.0
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000000
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000000
+9/11/2010 3:16:42 PM :: ....... filename:       ByteSigScan.dll
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.5
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000005
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000005
+9/11/2010 3:16:42 PM :: ....... filename:       AngelHealer.exe
+9/11/2010 3:16:42 PM :: ....... version/method: 1.0.0.1
+9/11/2010 3:16:42 PM :: ........... upgrade if new version is available
+9/11/2010 3:16:42 PM :: ........... local version:    00001000000000000001
+9/11/2010 3:16:42 PM :: ........... server's version: 00001000000000000001
+9/11/2010 3:16:42 PM :: ... the product hasn't been updated, closing out...
+10/5/2010 9:53:11 PM :: AutoUpdater started
+10/5/2010 9:53:11 PM :: ... our assembly name is: AngelSuite
+10/5/2010 9:53:11 PM :: ... our remote URI is:    http://www.angelsuite.net/updates/AutoUpdate.txt
+10/5/2010 9:53:11 PM :: ... downloading AutoUpdate.txt
+10/5/2010 9:53:14 PM :: ... shuffling list of files from AutoUpdate.txt
+10/5/2010 9:53:14 PM :: ... this looks like auto-update information for: AngelSuite.exe
+10/5/2010 9:53:14 PM :: ... local version is:                            00001000000000000012
+10/5/2010 9:53:14 PM :: ... the server's latest version is:              00001000000000000012
+10/5/2010 9:53:14 PM :: ... proceeding to check for updated files
+10/5/2010 9:53:14 PM :: ....... filename:       AngelSuite.exe
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.12
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000012
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000012
+10/5/2010 9:53:14 PM :: ....... filename:       AngelBot.exe
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.34
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000035
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000034
+10/5/2010 9:53:14 PM :: ....... filename:       AngelRead.dll
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.15
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000015
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000015
+10/5/2010 9:53:14 PM :: ....... filename:       AutoUpdate.dll
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.0
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000000
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000000
+10/5/2010 9:53:14 PM :: ....... filename:       ByteSigScan.dll
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.5
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000005
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000005
+10/5/2010 9:53:14 PM :: ....... filename:       AngelHealer.exe
+10/5/2010 9:53:14 PM :: ....... version/method: 1.0.0.3
+10/5/2010 9:53:14 PM :: ........... upgrade if new version is available
+10/5/2010 9:53:14 PM :: ........... local version:    00001000000000000000
+10/5/2010 9:53:14 PM :: ........... server's version: 00001000000000000003

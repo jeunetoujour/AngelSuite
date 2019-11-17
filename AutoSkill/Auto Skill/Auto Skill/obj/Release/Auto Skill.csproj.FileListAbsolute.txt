@@ -1,0 +1,12 @@
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Release\Auto Skill.exe
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Release\Auto Skill.pdb
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Release\AionMemory.dll
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\bin\Release\AionMemory.pdb
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\ResolveAssemblyReference.cache
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto_Skill.FormMain.resources
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto_Skill.Properties.Resources.resources
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto Skill.csproj.GenerateResource.Cache
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto Skill.exe
+L:\All ABout Aion\Projects\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto Skill.pdb
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto Skill.exe
+C:\AionSource\AutoSkill\Auto Skill\Auto Skill\obj\Release\Auto Skill.pdb

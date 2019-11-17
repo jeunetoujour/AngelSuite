@@ -1,0 +1,11 @@
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\bin\Debug\AngelPvP.exe
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\bin\Debug\AngelPvP.pdb
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\bin\Debug\AngelRead.dll
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\bin\Debug\AngelRead.pdb
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\HPandDPS.Form1.resources
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\AngelList.Properties.Resources.resources
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\AngelPvP.exe
+E:\AngelSuite\AionSource\AngelPvP\HPandDPS\obj\Debug\AngelPvP.pdb

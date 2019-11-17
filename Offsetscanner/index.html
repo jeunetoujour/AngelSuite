@@ -1,0 +1,141 @@
+<html>
+	<head>
+		<title>SigScan - Documentation</title>
+		<style>
+			body
+			{
+				background: #333333;
+				color: #cccccc;
+				padding: 20px;
+			}
+
+			a, h1, h2, h3, h4
+			{
+				color: #aaaaaa;
+				text-decoration: underline;
+			}
+			.h2
+			{
+				margin-left: 5px;
+			}
+			.h3
+			{
+				margin-left: 15px;
+			}
+			.h4
+			{
+				margin-left: 25px;
+			}
+
+			.section
+			{
+				border: 1px solid #888888;
+				background:#555555;
+				margin: 10px;
+				padding: 5px;
+			}
+			textarea
+			{
+				width: 100%;
+				margin: 2px;
+				padding: 3px;
+				color: white;
+				background: #222222;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="section">The most popular form of reading memory from the game is finding the modules base address
+			then using a static offset to the desired memory location. The problem with this is when
+			changes are made to the DLL, most offsets will 'shift' as the new code is put into the binary.
+			Now all of those static offsets are changed and no longer work.
+		  <br />
+			<br />
+			However there is a technique called "Byte Signature Scanning" that can help you find
+			your desired memory location without using static memlocs by "scanning" for it. This
+			The idea is to scan over the binaries actual CODE, and look for a specific pattern of
+			code that references your desired memory location that doesnt occur anywhere else in the
+			binary. <br /><br />
+
+			For Example:<br />
+			<textarea name="textarea" rows="7" readonly="true">05AB51D7   8338 60          	CMP DWORD PTR DS:[EAX],60
+05AB51DA   75 0E            	JNZ SHORT Game.05AB51EA
+05AB51DC   6A 00            	PUSH 0
+05AB51DE   E8 5DFA0C00      	CALL Game.05B84C40
+05AB51E3   83C4 04          	ADD ESP,4
+05AB51E6   84C0             	TEST AL,AL
+05AB51E8   74 07            	JE SHORT Game.05AB51F1
+05AB51EA   C605 4C96E105 00 	MOV BYTE PTR DS:[5E1964C],0</textarea>
+			<br />
+<br /><br />
+			Every time the game loads, this same exact code will likely still be in the binary
+			(unless the patch changed this specific code), and will be referencing the exact memory
+			location i'm wanting to access.
+
+			If you don't understand assembly, its ok, i'll give a brief overview of this data.
+			The first column you can ignore, that was the memory addresses those instructions were at
+			at the time of this paste. The 2nd column is the ACTUAL instructions/code in the binary.
+			The 3rd column is just a textual representation of what those instructions are doing so you can
+			read it easier if you program in assembly. On the last line you can see its moving a value of 0
+			into a byte, and the [5E1964C] is the address its storing to, and thats what I want.
+			On the left hand side you can see that address is in the actual code too (note: hex is stored
+			in reverse order in memory. This is what we are scanning for, the bytes in the middle column,
+			up until the desired memory location (0x4C96E105). So instead of a static address, we can for the
+			code and pull the memory address we want out of that data. From a 3rd party perspecive you can now
+			use ReadProcessMemory on that address, or from an internal perspective, create a pointer to that address.<br />
+			This greatly will increase the likelyhood your application will still work after the module is updated.
+		</div>
+		<div class="section">
+			<a name="2.details"> </a>
+			<h2>Function Details</h2>
+
+<div class="h3">
+					<a name="2.details.initializesigscan"> </a>
+					<h3>InitializeSigScan( DWORD PID, const char* Module)</h3>
+					The first parameter is a 32bit unsigned integer, supplying the Process ID you are
+					wanting to read, and the module to find a memory address in.<br /><br />
+					This function will connect to the process, find the base address, and if the process is a not the current process, copy the entire module to your programs
+					local memory. This is required to achieve high speeds of scanning the memory, as doing it over
+					ReadProcessMemory would be drastically slow.<br /><br />
+				</div>
+				<div class="h3">
+					<a name="2.details.sigscan"> </a>
+					<h3>SigScan(const char* Pattern, int Offset)</h3>
+					This is the primary function of the DLL, that does the actual scanning. You MUST call InitializeSigScan before using this function.
+					It will automatically scan the last Process and Module initialized with InitializeSigScan().
+					This function accepts a string ascii based pattern of bytes. You must supply 2 characters per byte
+					to check for as you normally would define as 0xXX. If its a single 0xF, you need "0f". So the strings length must be divisible by 2,
+					where every 2 characters represents 1 byte.<br /><br />
+					Example: "83C408DFE0F6C4050F8A610100005FC605"<br />
+					This will look for: 0x83 0xC4 0x08 0xDF 0xE0 0xF6 0xC4 0x05 0x0F 0x8A 0x61 0x01 0x00 0x00 0x5F 0xC6 0x05<br />
+					By default, SigScan will use the next 4 bytes AFTER the end of the signature as the memory address you are wanting to find.<br />
+					The Offset field is computed into this predefined location. So in most cases Offset should be 0. However, if you find a signature
+					thats like 36 bytes before your desired memory location, you can set offset to 36 and it will look at 36 bytes AFTER the end of the signature.
+					Offset will primarily be 0 in your scans, but is provided to you so you can use signatures a little more distant from the desired location
+					without creating an insanely long signature or using a ton of wildcards.<br /><br />
+
+					There are 2 special characters that can be used in the pattern, one is address specification.
+					As stated, by default the memory address it will return is at the end of the signature. But sometimes you may want to use a few bytes AFTER your
+					desired memory location as part of your signature. If you wish to do this, you can specify WHERE in your signature your desired
+					memory location is at with XXXXXXXX, <br />
+					For example (not a real signature!): "3FBACD300200A1XXXXXXXXB1C4DA"<br />
+					Now the position of the X's declares where the memory address is. Offset should be 0 when using this, as offset will modify the position,
+					and will not returned your desired memory location!!!<br /><br />
+					Any unkown character such as ? and invalid hex characters are treated as wildcards, but still must be matched up in 2's.<br />
+					For example (not a real signature!): "3AB2DFAB????????DEA1FA"<br />
+					Sometimes the middle of your signature may have other unwanted memory addresses in them, and you need to wildcard those out to skip them.
+					Wildcard anything that will potentially be different every time the game opens - that includes ALL memory addresses that you are not trying
+					to retrieve, otherwise your signature will not be valid the next time the game opens and starts at a different base address.
+					<br />
+</div>
+				<div class="h3">
+					<a name="2.details.finalizesigscan"> </a>
+					<h3>FinalizeSigScan()</h3>
+					Cleans up the memory used for the scanning when you are done.
+					Always call this when your done scanning a module.
+		  </div>
+
+		</div>
+
+</body>
+</html>

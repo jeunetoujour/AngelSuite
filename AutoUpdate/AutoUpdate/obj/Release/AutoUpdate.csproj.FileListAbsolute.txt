@@ -1,0 +1,8 @@
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.dll
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\bin\Release\AutoUpdate.pdb
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\UpdateProgress.resources
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.dll
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Release\AutoUpdate.pdb

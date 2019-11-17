@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfByteSignature xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ByteSignature>
+    <Name>AbilityTree_HeadPtr</Name>
+    <Signature>8B 0D XX XX XX XX 8B 89 EC 02 00 00</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Camera_Rotation</Name>
+    <Signature>15 XX XX XX XX F3 0F 5A C0 F2 0F 5E C8 66 0F 5A C1 F3 0F 10 4D D0 F3 0F 11 01 F3 0F 7E 05 ?? ?? ?? ??</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>EntityList_Base</Name>
+    <Signature>66 85 C0 
+?? ?? 
+8B 0D XX XX XX XX 
+85 C9
+ ?? ?? 
+8B 11</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Hotbar_Base</Name>
+    <Signature>8D B8 XX XX XX XX 
+85 FF 
+?? ?? ?? ?? ?? ?? 
+8B 47 ??
+ 8B 4F ??
+ 8B 17 
+50 
+51 
+52</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_DP</Name>
+    <Signature>56 57 0F B7 3C 11 68 ?? ?? ?? ?? 66 89 3D XX XX XX XX</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_Experience</Name>
+    <Signature>A3 XX XX XX XX 8B 45 1C</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_ExperienceMax</Name>
+    <Signature>81 0D ?? ?? ?? ?? 03 20 00 00 A3 ?? ?? ?? ?? 8B 45 1C 89 0D ?? ?? ?? ?? 8B 4D 10 89 15 XX XX XX XX</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_Gathering</Name>
+    <Signature>0F B7 C0 A3 ?? ?? ?? ?? 89 35 XX XX XX XX</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_GUID</Name>
+    <Signature>55 8B EC 56 68 80 00 00 00 6A 00 68 ?? ?? ?? ?? E8 ?? ?? ?? ?? F3 0F 10 05 ?? ?? ?? ?? 8B 45 08 0F 5A C0 F2 0F 58 05 ?? ?? ?? ?? 83 C4 0C 3B 05 XX XX XX XX</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_Health</Name>
+    <Signature>A1 XX XX XX XX 89 47 0C</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_Level</Name>
+    <Signature>50 0F B7 05 XX XX XX XX 51 8B</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_Mana</Name>
+    <Signature>8B CE E8 ?? ?? ?? ?? 8A D8 84 DB 74 71 E8 ?? ?? ?? ?? 8B FE E8 ?? ?? ?? ?? 33 FF 89 3D XX XX XX XX</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_TargetPtr</Name>
+    <Signature>89 3D XX XX XX XX 8B 07 8B 90 30 01 ?? ?? 8B CF</Signature>
+  </ByteSignature>
+  <ByteSignature>
+    <Name>Player_X</Name>
+    <Signature>C7 05 ?? ?? ?? ?? 03 00 00 00 F3 0F 11 05 XX XX XX XX</Signature>
+  </ByteSignature>
+</ArrayOfByteSignature>

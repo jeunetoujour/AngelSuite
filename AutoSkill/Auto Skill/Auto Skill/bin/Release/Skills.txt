@@ -1,0 +1,22 @@
+0,General Settings
+1,Looting,Looting,%1
+1,Sitting,Sitting,%2
+1,Healing,Healing (NC),%3
+0,Pull Skills
+1,160,Provoke III,3
+1,292,Cleave II,6
+0,Combat Heal Skills
+0,Chain Skills 1
+1,172,Ferocious Strike IV,1
+1,167,Robust Blow III,1
+1,274,Wrathful Strike II,1
+0,Chain Skills 2
+1,286,Seismic Wave III,2
+1,353,Shock Wave I,2
+0,Chain Skills 3
+1,153,Weakening Severe Blow III,7
+0,Chain Skills 4
+1,308,Aerial Lockdown II,4
+1,261,Crashing Blow I,5
+0,Chain Skills 5
+1,292,Cleave II,6

@@ -1,0 +1,56 @@
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe.config
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe
+C:\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.pdb
+C:\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.dll
+C:\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.pdb
+C:\AionSource\Aionbotsource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.AboutBox1.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Form1.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.waypointeditor.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Properties.Resources.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.settings.resources
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.exe
+C:\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.pdb
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe.config
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.exe
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.pdb
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.exe
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\bin\x86\Debug\AngelBot.pdb
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.dll
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\bin\x86\Debug\AionMemory.pdb
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.AboutBox1.resources
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.waypointeditor.resources
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.settings.resources
+C:\Documents and Settings\Administrator\Desktop\AngelBot097\AionSource\Aionbotsource\obj\x86\Debug\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Rhyno\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.AboutBox1.resources
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.Form1.resources
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.waypointeditor.resources
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.Properties.Resources.resources
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.settings.resources
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Rhyno\bin\x86\Debug\AngelBot.exe.config
+C:\AionSource\Rhyno\bin\x86\Debug\AngelBot.exe
+C:\AionSource\Rhyno\bin\x86\Debug\AngelBot.pdb
+C:\AionSource\Rhyno\bin\x86\Debug\AionMemory.dll
+C:\AionSource\Rhyno\bin\x86\Debug\AionMemory.pdb
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.exe
+C:\AionSource\Rhyno\obj\x86\Debug\AngelBot.pdb
+C:\AionSource\Rhyno - 1.x\bin\x86\Debug\AngelBot.exe.config
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.exe
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.pdb
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.AboutBox1.resources
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.Form1.resources
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.waypointeditor.resources
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.Properties.Resources.resources
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.settings.resources
+C:\AionSource\Rhyno - 1.x\obj\x86\Debug\AngelBot.csproj.GenerateResource.Cache
+C:\AionSource\Rhyno - 1.x\bin\x86\Debug\AngelBot.exe
+C:\AionSource\Rhyno - 1.x\bin\x86\Debug\AngelBot.pdb
+C:\AionSource\Rhyno - 1.x\bin\x86\Debug\AionMemory.dll
+C:\AionSource\Rhyno - 1.x\bin\x86\Debug\AionMemory.pdb

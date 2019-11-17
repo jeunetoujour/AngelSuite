@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login Form", "WindowsFormsApplication7\Login Form.csproj", "{E0333433-D3D5-4C45-BA4D-1FF2D1875053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|x86.ActiveCfg = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Debug|x86.Build.0 = Debug|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|x86.ActiveCfg = Release|x86
+		{E0333433-D3D5-4C45-BA4D-1FF2D1875053}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

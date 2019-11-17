@@ -1,0 +1,15 @@
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\bin\Debug\SigScanEditor.exe
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\bin\Debug\SigScanEditor.pdb
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\bin\Debug\SigScanLib.dll
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\bin\Debug\SigScanLib.pdb
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.FormScan.resources
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.MDIMain.resources
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.Properties.Resources.resources
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.csproj.GenerateResource.Cache
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.exe
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.pdb
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.FormOffsetEditor.resources
+C:\Users\Public\Documents\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.FormSigEditor.resources
+C:\Users\PHIL\Desktop\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.exe
+C:\Users\PHIL\Desktop\NB\SigScan2\SigScanEditor\obj\Debug\SigScanEditor.pdb

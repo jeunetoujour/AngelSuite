@@ -1,0 +1,7 @@
+AngelSuite.exe;1.0.0.13
+AngelBot.exe;1.0.0.48
+AngelRead.dll;1.0.0.19
+AutoUpdate.dll;1.0.0.0
+ByteSigScan.dll;1.0.0.5
+AngelHealer.exe;1.0.0.10
+MySql.Data.dll;6.2.3.0

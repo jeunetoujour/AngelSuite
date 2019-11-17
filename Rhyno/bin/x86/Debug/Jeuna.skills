@@ -1,0 +1,17 @@
+0|PreAttacks
+1|-100|1||False|Smite I
+0|Attacks
+1|100|5||False|Meteor Strike IV
+2|0|5||True|Incandescent Blow III
+3|200|6||True|Pentacle Shock II
+1|300|2||False|Hallowed Strike IV
+2|200|Ctrl,6||True|Booming Strike III
+3|0|2||True|Booming Smash III
+4|0|2||True|Booming Assault II
+2|0|2||False|Infernal Blaze I
+0|Reactions
+1|0|8||False|Parrying Strike II
+1|0|Ctrl,9||False|Resonance Haze II
+1|0|Ctrl,5||False|Splash Swing I
+0|Heals
+1|0|3|50|False|Healing Light V

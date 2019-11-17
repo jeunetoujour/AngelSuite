@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AggroList">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\AggroList\AggroList.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\AggroList\AggroList.suo">
+</Property><Property Name="Date" Value="Saturday, July 03, 2010">
+</Property><Property Name="Time" Value="23:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AggroList.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AggroList.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AggroList.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AggroList.suo">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\AggroList.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\AggroList.csproj">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Form1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Form1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Program.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Program.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Form1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\HPandDPS\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\AggroList.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AggroList" Source="HPandDPS\AggroList.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\AngelRead.csproj">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Buff.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Buff.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Buffs.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Buffs.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Vector.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Vector.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Offsets.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Offsets.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\SkillList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\SkillList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Enums.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Enums.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Ability.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Ability.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\AbilityList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\AbilityList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\EntityList.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\EntityList.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Tools.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Tools.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\ILocation.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\ILocation.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Entity.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Entity.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Location.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Location.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Player.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Player.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Instanced Classes\Target.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Instanced Classes\Target.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Memory.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Memory.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Process.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Process.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AggroList\Backup\AngelRead\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AngelRead" Source="..\AngelRead\AngelRead\AngelRead.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AggroList.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AggroList.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AggroList" Source="HPandDPS\AggroList.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

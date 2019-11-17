@@ -1,0 +1,29 @@
+0|PreAttacks
+1|0|Ctrl,7||False|Rune Knife I
+1|600|Alt,=||False|Clear Focus I
+1|600|9||False|Flurry I
+0|Attacks
+1|800|Ctrl,9||False|Radiant Rune I
+1|0|1||False|Swift Edge V
+2|0|1||True|Soul Slash V
+3|0|1||True|Rune Slash III
+1|0|2||False|Ambush V
+2|0|Alt,5||False|Weakening Blow II
+3|0|Alt,6||False|Surprise Attack V
+2|0|Alt,6||False|Surprise Attack V
+3|100|7||False|Assassination II
+1|0|3||False|Fang Strike III
+2|0|3||True|Beast Kick II
+3|0|3||True|Beast Swipe I
+4|800|Alt,1||False|Binding Rune III
+4|0|6||False|Blood Rune II
+4|0|5||False|Pain Rune IV
+4|0|Ctrl,5||False|Rune Burst IV
+4|0|=||False|Needle Rune I
+0|Reactions
+1|0|Ctrl,4||False|Counterattack V
+2|100|7||False|Assassination II
+1|0|Alt,7||False|Whirlwind Slash III
+2|0|Alt,6||False|Surprise Attack V
+1|0|Alt,2||False|Crashing Wind Strike II
+0|Heals

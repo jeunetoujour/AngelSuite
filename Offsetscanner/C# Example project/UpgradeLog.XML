@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ByteSigScanExample">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\Offsetscanner\C# Example project\ByteSigScanExample.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\Offsetscanner\C# Example project\ByteSigScanExample.suo">
+</Property><Property Name="Date" Value="Friday, July 02, 2010">
+</Property><Property Name="Time" Value="23:16 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ByteSigScanExample.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ByteSigScanExample.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample.suo">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\ByteSigScanExample.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\ByteSigScanExample.csproj">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Form1.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Form1.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Program.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Program.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Properties\Settings.settings" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\ByteSigScan.dll" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\ByteSigScan.dll">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Form1.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\Properties\Resources.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\Offsetscanner\C# Example project\Backup\ByteSigScanExample\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\ByteSigScanExample.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ByteSigScanExample" Source="ByteSigScanExample\ByteSigScanExample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ByteSigScanExample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ByteSigScanExample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ByteSigScanExample" Source="ByteSigScanExample\ByteSigScanExample.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,16 @@
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.dll
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\UpdateProgress.resources
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\ResGen.read.1.tlog
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\ResGen.write.1.tlog
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.dll
+D:\oldpetes\PetesAionRadar\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.dll
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\bin\Debug\AutoUpdate.pdb
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\ResolveAssemblyReference.cache
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\UpdateProgress.resources
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\ResGen.read.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\ResGen.write.1.tlog
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.dll
+E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate\obj\Debug\AutoUpdate.pdb

@@ -1,0 +1,8 @@
+L:\All ABout Aion\AionArmorySVN\Eve\bin\Debug\COPYING
+L:\All ABout Aion\AionArmorySVN\Eve\bin\Debug\Eve.dll
+L:\All ABout Aion\AionArmorySVN\Eve\bin\Debug\Eve.pdb
+L:\All ABout Aion\AionArmorySVN\Eve\bin\Debug\AionMemory.dll
+L:\All ABout Aion\AionArmorySVN\Eve\bin\Debug\AionMemory.pdb
+L:\All ABout Aion\AionArmorySVN\Eve\obj\Debug\ResolveAssemblyReference.cache
+L:\All ABout Aion\AionArmorySVN\Eve\obj\Debug\Eve.dll
+L:\All ABout Aion\AionArmorySVN\Eve\obj\Debug\Eve.pdb

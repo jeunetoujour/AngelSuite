@@ -1,0 +1,5 @@
+L:\All ABout Aion\AionArmorySVN\AionMemory\bin\Debug\AionMemory.dll
+L:\All ABout Aion\AionArmorySVN\AionMemory\bin\Debug\AionMemory.pdb
+L:\All ABout Aion\AionArmorySVN\AionMemory\obj\Debug\ResolveAssemblyReference.cache
+L:\All ABout Aion\AionArmorySVN\AionMemory\obj\Debug\AionMemory.dll
+L:\All ABout Aion\AionArmorySVN\AionMemory\obj\Debug\AionMemory.pdb

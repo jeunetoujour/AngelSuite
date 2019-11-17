@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AutoUpdate">
+</Property><Property Name="Solution File" Value="E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate.sln">
+</Property><Property Name="User Options File" Value="E:\AngelSuite\AionSource\AutoUpdate\AutoUpdate.suo">
+</Property><Property Name="Date" Value="Sunday, August 15, 2010">
+</Property><Property Name="Time" Value="12:33 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AutoUpdate.sln" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AutoUpdate.suo" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate.suo">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\AutoUpdate.csproj" Description="Project file successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\AutoUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\AutoUpdate.csproj.user" Description="Project user file successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\AutoUpdate.csproj.user">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\AutoUpdate.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\AutoUpdate.cs">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\UpdateProgress.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\UpdateProgress.cs">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\UpdateProgress.Designer.cs" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\UpdateProgress.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\UpdateProgress.resx" Description="File successfully backed up as E:\AngelSuite\AionSource\AutoUpdate\Backup\AutoUpdate\UpdateProgress.resx">
+</Event><Event ErrorLevel="0" Project="AutoUpdate" Source="AutoUpdate\AutoUpdate.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AutoUpdate" Source="AutoUpdate\AutoUpdate.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AutoUpdate.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AutoUpdate.sln" Description="Converted">
+</Event></UpgradeLog>

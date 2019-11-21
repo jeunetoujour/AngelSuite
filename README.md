@@ -17,7 +17,7 @@ Some of the applications from memory are:
 
 -AggroList as simple, it showed anytime an NPC or Player targetted you, hence Aggro list. It was useful for Pvp sometimes
 
--AionAPP and AIONBot, don't really recall those
+-AionAPP and AIONBot, don't really recall those. AionAPP may have been a program in the early days that used AionMemory library.
 
 -Aionbotsource was different versions of Angelbot1, before I knew what SVN/Git was...
 
